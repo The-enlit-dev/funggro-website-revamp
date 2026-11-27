@@ -1,58 +1,56 @@
-# QA report — redesigned `/earn` and `/about`
+# QA report — redesigned `/earn` and `/about` (Phase 4 final)
 
-Tested **2026-11-27** against the live evaluation deploy **https://funngro-revamp-evaluation.netlify.app** (Netlify deploy `6b08fd453243e162f6b265ab`) unless marked "local". Every result below comes from a command in `tests/`; raw outputs are in this folder.
+**Tested:** 2026-11-27 on the live evaluation deploy **https://funngro-revamp-evaluation.netlify.app** (latest Netlify deploy `6b09088afbdaa55f0565a9b4`), plus a local production build where noted. Every number below comes from a script in `tests/` (re-run with `BASE_URL=<url> npm test`); raw outputs are in this folder.
 
-| Check | Tool / script | Result |
-|---|---|---|
-| Responsive layout, 7 widths (320, 360, 390, 768, 1024, 1280, 1440) × 2 pages | `tests/screens.cjs` (Playwright) | **Pass** — no element extends past the viewport at any width; screenshots in `screens/` |
-| Console errors from our code | `tests/screens.cjs` | **0** on every page/width |
-| Console errors from the platform | same | 2 per page — Netlify's edge-injected "Powered by Netlify" badge iframe is blocked by our CSP (documented Netlify behaviour; badge simply doesn't show). Not our code. Remove by turning the badge off in Netlify (see DEPLOYMENT.md) |
-| Accessibility — axe-core 4.x, WCAG 2.0/2.1/2.2 A+AA + best practice | `tests/a11y.cjs` | **0 violations** on /earn, /about, /404 at 390 and 1440, plus mobile menu open (`a11y/axe-results.json`) |
-| Contrast items axe could not auto-verify (text over grid texture/highlighter) | manual calculation | All ≥ AA: worst case muted text over grid line 5.1:1; ink on lime 14.3:1 |
-| Interactions & navigation | `tests/interactions.cjs` | **26/26 pass** — menu open/Esc/focus return, aria-current, skip link, CTA anchor, steps↔phone sync (4/4), rail buttons, exclusive FAQ, page-to-page nav, no-JS rendering |
-| Redirects & status codes | curl | `/`→`/earn` **302**; `/teen`, `/teen/`→`/earn` **301**; `/earn/`, `/about/`, `/earn.html`, `/about.html` → clean URL **301**; unknown path **404** (custom page) |
-| Evaluation noindex | curl + `tests/seo-links.cjs` | `<meta name="robots" content="noindex, nofollow">`, `X-Robots-Tag: noindex, nofollow`, robots.txt `Disallow: /` — present on the evaluation deploy only |
-| Production build stays indexable (local) | `npm run build:production` + Lighthouse | robots `index, follow`, canonical `https://www.funngro.com/...`, no X-Robots-Tag, Lighthouse SEO **100** |
-| SEO metadata | `tests/seo-links.cjs` | **All checks pass** (title/description length, single H1, no heading skips, canonical, OG/Twitter, lang, alt + dimensions on all images, H1 + JSON-LD present in server HTML, no unresolved placeholders) |
-| Links (31 unique) | `tests/seo-links.cjs` + browser re-check | 27 OK. 4 not verifiable from here: LinkedIn ×3 (bot wall / login wall) and IBS Intelligence (403 to automated clients, URL confirmed by search). All four are copied from funngro.com |
-| ₹ glyph rendered by brand fonts | `tests/rupee.cjs` (Chrome DevTools platform-fonts) | **Pass** 4/4 — Bricolage Grotesque / Figtree web fonts render ₹; no system fallback |
-| HTML validity | W3C Nu validator (vnu.jar) | **0 errors**; 26 warnings, all "role=list is unnecessary" (kept deliberately for Safari/VoiceOver list semantics) — `html-validation.txt` |
-| Security headers | curl | CSP (no inline script/style), HSTS, X-Frame-Options DENY, nosniff, Referrer-Policy, Permissions-Policy |
-| Caching | curl | hashed assets `max-age=31536000, immutable`; HTML `max-age=0, must-revalidate` |
+## Summary
+| Area | Check | Tool | Result |
+|---|---|---|---|
+| Layout | 7 widths (320, 360, 390, 768, 1024, 1280, 1440) × 2 pages | `screens.cjs` | **Pass** — no element beyond the viewport at any width |
+| Errors | Console errors from site code | `screens.cjs` | **0** everywhere |
+| Accessibility | axe-core, WCAG 2.0/2.1/2.2 A+AA + best practice, /earn /about /404 × mobile/desktop + open menu | `a11y.cjs` | **0 violations** |
+| Accessibility | Keyboard: every focusable reached, visible focus on every stop, nothing hidden under the sticky header, menu focus containment, Esc | `keyboard.cjs` | **15/15** |
+| Accessibility | Contrast items axe can't auto-verify | manual calc | All ≥ AA (worst: muted text on grid line 5.1:1) |
+| Functional | Navigation, menu, skip link, CTA anchor, steps↔phone sync, rail buttons, FAQ, cross-page nav, **no-JS rendering** | `interactions.cjs` | **26/26** |
+| Functional | Link/button inventory (150 across 3 pages): names, no empty hrefs, `_blank` safety, official store URLs, **founder LinkedIn new-tab behaviour**, **QR decode**, store listings reachable | `functional.cjs` | **26/26** |
+| Delivery | Brotli on HTML/CSS/JS/SVG, cache headers, font preload + swap, ₹ subset, OG images 1200×630, robots/sitemap, X-Robots-Tag | `delivery.mjs` | **27/27** |
+| Typography | ₹ rendered by brand web fonts (not fallback) | `rupee.cjs` (DevTools platform fonts) | **4/4** |
+| SEO | Metadata, canonical, OG/Twitter, H1/heading order, alt + dimensions, server-rendered H1/JSON-LD, no unresolved placeholders | `seo-links.cjs` | **All pass** |
+| SEO | Structured data | validator.schema.org | **0 errors** (both pages) — `schema-validator.json` |
+| SEO | sitemap.xml against sitemaps.org XSD | xmllint | **Valid** (evaluation + production) |
+| HTML | W3C Nu validator | vnu.jar | **0 errors**; only "role=list unnecessary" warnings (kept on purpose for Safari/VoiceOver) |
+| Routing | `/`→`/earn` 302 · `/teen`(/)→`/earn` 301 · `/earn/`, `/about.html` etc. → clean URL 301 · unknown → 404 page | curl | **Pass** |
+| Indexing | Evaluation = `noindex, nofollow` meta + `X-Robots-Tag` + robots `Disallow: /`; production build = indexable | curl, Lighthouse | **Pass** (noindex retained) |
 
-## Lighthouse (live, median of 3 runs)
-| Page | Form | Perf | A11y | Best pr. | SEO | FCP | LCP | TBT | CLS | Weight |
-|---|---|---|---|---|---|---|---|---|---|---|
-| /earn | mobile | **100** (99/100/100) | 100 | 92* | 69† | 0.9 s | 0.9 s | 70 ms | 0 | 245 KiB |
-| /earn | desktop | **100** | 100 | 92* | 69† | 0.3 s | 0.3 s | 0 ms | 0 | 219 KiB |
-| /about | mobile | **100** | 100 | 92* | 69† | 0.9 s | 0.9 s | 20 ms | 0 | 214 KiB |
-| /about | desktop | **100** | 100 | 92* | 69† | 0.3 s | 0.3 s | 0 ms | 0 | 199 KiB |
+## Lighthouse (median of 3 runs)
+| Page | Form | Live evaluation (P / A / BP / SEO) | Local production build (P / A / BP / SEO) | LCP (live) | CLS | TBT (live) | Weight (live) |
+|---|---|---|---|---|---|---|---|
+| /earn | mobile | **100** / 100 / 92* / 69† | **100 / 100 / 100 / 100** | 0.9 s | 0 | 0 ms | 245 KiB |
+| /earn | desktop | **100** / 100 / 92* / 69† | **100 / 100 / 100 / 100** | 0.3 s | 0 | 0 ms | 219 KiB |
+| /about | mobile | **100** / 100 / 92* / 69† | **100 / 100 / 100 / 100** | 0.9 s | 0 | 70 ms | 215 KiB |
+| /about | desktop | **100** / 100 / 92* / 69† | **100 / 100 / 100 / 100** | 0.3 s | 0 | 0 ms | 199 KiB |
+\* Netlify's edge-injected "Powered by Netlify" badge is blocked by our CSP → console errors. † intentional `noindex`.
+**Core Web Vitals:** lab LCP 0.8–0.9 s (mobile, throttled), CLS 0, TBT ≤ 70 ms; interaction latency (Event Timing, lab approximation of INP) max **32 ms**. No field (CrUX) data exists for a new evaluation URL.
 
-\* Best Practices loses points only for "errors in console" / "issues" caused by the blocked Netlify badge. Local build without the badge: **100**.
-† SEO 69 is the intended consequence of `noindex` on the evaluation deploy ("page is blocked from indexing"). Same pages built for production (local): **SEO 100**.
-Lab data from a cloud container — not field (CrUX) data. Reports: `lighthouse/*.html`.
-
-Remaining Lighthouse suggestions (not fixed, low impact): image-delivery estimates ~47 KiB on mobile (mainly one detailed earner photo that compresses poorly at 2.6× DPR); badge script cache lifetime (Netlify's script, not ours).
-
-## Comparison with the approved concept board
-`comparison/teen-hero-board-vs-built.png`, `comparison/company-hero-board-vs-built.png`.
-Matches: paper + grid texture, ink type, lime highlighter on one phrase, tilted phone + two sticker photo cards + ₹ tag + drawn arrow, hard-shadow ink buttons, proof pills, ink "work" section with four tinted tiles, calm Company register with photo mosaic and fact pills.
-Intentional differences (premium interpretation / facts policy): official store badges + desktop QR instead of text buttons; ₹ tag shows a published range ("₹200–1,500, brand promotion") instead of the invented "+₹220"; 🦈 emoji replaced by a drawn icon; looser headline tracking; founder portraits shown as labelled placeholders (no photos supplied).
-
-## Issues found during QA and fixed
-| Issue | Fix |
+## Phase 4 changes and what they fixed
+| Item | Detail |
 |---|---|
-| Headline too large/tight; proof pills below the fold at 1440×900 | Hero scale 96→84px, tracking −0.03→−0.02em |
-| Light text on lime highlight in the CTA (illegible) | Highlighted text forced to ink on dark sections |
-| Mobile horizontal overflow on /about (lede, pills, mosaic, deal table) — hidden by `overflow-x: clip` | `min-width: 0` on grid children, `minmax(0,1fr)` tracks, deal rows stack < 480px; QA script now detects off-viewport elements against the configured width |
-| Header overflow at 320/360px | Smaller logo + compact CTA < 416px; CTA hidden < 358px (menu has store badges) |
-| Footer email widened grid at 320px | `overflow-wrap: anywhere` |
-| Inactive How-it-works steps at 38% opacity failed contrast (2.2:1) | Dimmed with muted colour instead (5.4:1) |
-| Journey/tier app screens cropped at the sides | Letterboxed on their own background colour |
-| Duplicate `.html` URLs returned 200 | 301 to clean URLs |
+| Co-founder section completed | Verified titles/backgrounds, distinct LinkedIn profiles opening in a new tab (`target="_blank" rel="noopener noreferrer"`), accessible names ("LinkedIn profile of … (opens in a new tab)"); polished portrait slots (no legitimate photos available) — see `research/06-verified-facts.md` |
+| Founding year | Placeholder replaced with **2021** (independent sources) |
+| JSON-LD | `foundingDate`, founders with `jobTitle` (Payal: Co-founder & CEO; Anik: Co-founder) and LinkedIn `sameAs` |
+| a11y fix | axe flagged `label-content-name-mismatch` on the new LinkedIn links (aria-label didn't contain visible text) → replaced with visible text + visually-hidden suffix |
+| New test suites | `keyboard.cjs`, `functional.cjs`, `delivery.mjs`; schema.org and XSD validation |
+| Test-harness bugs found and fixed (not site bugs) | link-name check ignored image alt text; new-tab check aborted before recording URL; keyboard check measured focus styles before Chrome applied them |
+
+## Known items (not site defects)
+| Item | Impact | Resolution |
+|---|---|---|
+| Netlify "Powered by Netlify" badge (free plan, edge-injected) | 2 console errors/page, Lighthouse BP 92, **one empty keyboard focus stop at page end** (its iframe) | Turn the badge off in Netlify (Project configuration → General). Our CSP is intentionally not weakened |
+| LinkedIn (3 links) and IBS Intelligence return 403/999 to automated checks | Can't be verified from here | URLs sourced from funngro.com / Inc42 / eChai; open fine for logged-in humans |
+| funngro.com intermittently resets connections | Occasional link-check noise | Re-checked in a browser: 200 |
+| One earner photo compresses poorly | ~20 KB Lighthouse "image delivery" estimate | Accepted; total weight well under budget |
 
 ## Not tested / limits
-- Real devices (iOS Safari, low-end Android) — emulated in Chromium only.
-- Screen readers (VoiceOver/TalkBack) — structure verified by axe and manual markup review, not with a screen reader.
-- Google Rich Results Test — manual tool, not run; JSON-LD parsed and type-checked by script.
-- Field Core Web Vitals — none exist for a new evaluation URL.
+- Real devices (iOS Safari, low-end Android) — Chromium emulation only.
+- Screen readers (VoiceOver/TalkBack) — structure verified via axe and markup review.
+- Google Rich Results Test (manual web tool) — Schema.org validator used instead.
+- Founder LinkedIn pages could not be opened (login wall); verification relies on cross-referenced sources.

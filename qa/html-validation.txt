@@ -23,23 +23,23 @@ From line 425, column 45; to line 425, column 60 in resource file:/home/user/fun
 Warning: The “list” role is unnecessary for element “ul”.
 From line 119, column 9; to line 119, column 66 in resource file:/home/user/funggro-website-revamp/dist/about.html
 Warning: The “list” role is unnecessary for element “ul”.
-From line 193, column 9; to line 193, column 38 in resource file:/home/user/funggro-website-revamp/dist/about.html
+From line 204, column 9; to line 204, column 38 in resource file:/home/user/funggro-website-revamp/dist/about.html
 Warning: The “list” role is unnecessary for element “ol”.
-From line 218, column 7; to line 218, column 39 in resource file:/home/user/funggro-website-revamp/dist/about.html
+From line 229, column 7; to line 229, column 39 in resource file:/home/user/funggro-website-revamp/dist/about.html
 Warning: The “list” role is unnecessary for element “ul”.
-From line 259, column 7; to line 259, column 42 in resource file:/home/user/funggro-website-revamp/dist/about.html
+From line 270, column 7; to line 270, column 42 in resource file:/home/user/funggro-website-revamp/dist/about.html
 Warning: The “list” role is unnecessary for element “ol”.
-From line 278, column 7; to line 278, column 47 in resource file:/home/user/funggro-website-revamp/dist/about.html
+From line 289, column 7; to line 289, column 47 in resource file:/home/user/funggro-website-revamp/dist/about.html
 Warning: The “list” role is unnecessary for element “ul”.
-From line 310, column 9; to line 310, column 40 in resource file:/home/user/funggro-website-revamp/dist/about.html
+From line 321, column 9; to line 321, column 40 in resource file:/home/user/funggro-website-revamp/dist/about.html
 Warning: The “list” role is unnecessary for element “ul”.
-From line 317, column 47; to line 317, column 62 in resource file:/home/user/funggro-website-revamp/dist/about.html
+From line 328, column 47; to line 328, column 62 in resource file:/home/user/funggro-website-revamp/dist/about.html
 Warning: The “list” role is unnecessary for element “ul”.
-From line 318, column 47; to line 318, column 62 in resource file:/home/user/funggro-website-revamp/dist/about.html
+From line 329, column 47; to line 329, column 62 in resource file:/home/user/funggro-website-revamp/dist/about.html
 Warning: The “list” role is unnecessary for element “ul”.
-From line 319, column 47; to line 319, column 62 in resource file:/home/user/funggro-website-revamp/dist/about.html
+From line 330, column 47; to line 330, column 62 in resource file:/home/user/funggro-website-revamp/dist/about.html
 Warning: The “list” role is unnecessary for element “ul”.
-From line 320, column 45; to line 320, column 60 in resource file:/home/user/funggro-website-revamp/dist/about.html
+From line 331, column 45; to line 331, column 60 in resource file:/home/user/funggro-website-revamp/dist/about.html
 Warning: The “list” role is unnecessary for element “ul”.
 From line 128, column 9; to line 128, column 40 in resource file:/home/user/funggro-website-revamp/dist/404.html
 Warning: The “list” role is unnecessary for element “ul”.

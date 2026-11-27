@@ -7,6 +7,9 @@ const steps = [
   `node tests/a11y.cjs ${base} qa/a11y`,
   `node tests/interactions.cjs ${base}`,
   `node tests/rupee.cjs ${base}`,
+  `node tests/keyboard.cjs ${base}`,
+  `node tests/functional.cjs ${base}`,
+  `node tests/delivery.mjs ${base}`,
   `node tests/seo-links.cjs ${base} ${base.includes('netlify.app') || base.includes('localhost') ? '--expect-noindex' : ''}`,
 ];
 let failed = 0;

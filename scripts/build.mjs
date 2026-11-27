@@ -85,7 +85,7 @@ function jsonLd(page) {
   } else if (page === 'about') {
     graph = [
       { '@type': 'AboutPage', '@id': `${url}#webpage`, url, name: cfg.pages.about.title, description: cfg.pages.about.description, inLanguage: 'en-IN', about: { '@id': `${SITE_URL}/#organization` } },
-      { ...org, founder: cfg.founders.map((n) => ({ '@type': 'Person', name: n })) },
+      { ...org, foundingDate: cfg.foundingDate, founder: cfg.founders.map((f) => ({ '@type': 'Person', name: f.name, jobTitle: f.jobTitle, sameAs: f.sameAs, worksFor: { '@id': `${SITE_URL}/#organization` } })) },
       crumbs('About'),
     ];
   } else return '';

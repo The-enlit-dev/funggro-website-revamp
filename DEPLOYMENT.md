@@ -33,12 +33,16 @@ node scripts/og.cjs                                         # OG images (needs P
 
 ## Tests
 ```bash
-npm run serve &                                   # local preview at :4173 (no redirects/headers locally)
-node tests/screens.cjs  <url> qa/screens 320 390 768 1024 1440
-node tests/a11y.cjs     <url> qa/a11y
-node tests/interactions.cjs <url>
-node tests/rupee.cjs    <url>
-node tests/seo-links.cjs <url> --expect-noindex
-node tests/lighthouse.mjs <url> qa/lighthouse 3
+BASE_URL=https://funngro-revamp-evaluation.netlify.app npm test   # full suite (below), except Lighthouse
+node tests/lighthouse.mjs <url> qa/lighthouse 3                  # Lighthouse, median of 3
 ```
+Suite: `screens.cjs` (7 widths, overflow, console) · `a11y.cjs` (axe-core) · `interactions.cjs` · `rupee.cjs` · `keyboard.cjs` (focus walk, menu, INP approx.) · `functional.cjs` (links/buttons, LinkedIn new tabs, QR decode, store links) · `delivery.mjs` (compression, caching, fonts, OG, robots/sitemap) · `seo-links.cjs` (metadata, JSON-LD, links).
+Local preview: `npm run serve` (port 4173; Netlify redirects/headers are not emulated locally).
 (Playwright scripts are CommonJS and use the globally installed `playwright`; run with `NODE_PATH=$(npm root -g)` if needed.)
+
+## Pre-production checklist (only with your approval — nothing is published to funngro.com by this repo)
+1. Resolve placeholders: `grep -o 'data-tbc="[^"]*"' dist/*.html` (portraits are labelled "Official portrait to be supplied").
+2. Funngro confirms Anik Jain's LinkedIn URL (site links `/in/anik-jain/`; independent sources give `/in/anik-jain-7966404`, which is used).
+3. Funngro confirms reuse of earner stories/photos and the QR target link.
+4. `npm run build:production` → verify `<meta name="robots" content="index, follow…">`, canonical `https://www.funngro.com/…`, no X-Robots-Tag in `dist/_headers`.
+5. Deploy to the production host chosen by Funngro; keep the `/teen` → `/earn` 301; submit sitemap in Search Console; run Rich Results Test.

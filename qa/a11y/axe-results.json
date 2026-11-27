@@ -25,7 +25,7 @@
  },
  "about.mobile": {
   "violations": [],
-  "passes": 47,
+  "passes": 46,
   "incomplete": [
    "color-contrast",
    "frame-tested"
@@ -33,7 +33,7 @@
  },
  "about.desktop": {
   "violations": [],
-  "passes": 47,
+  "passes": 46,
   "incomplete": [
    "color-contrast",
    "frame-tested"

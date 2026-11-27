@@ -9,7 +9,7 @@
   "seo": 69,
   "FCP": "0.9 s",
   "LCP": "0.9 s",
-  "TBT": "70 ms",
+  "TBT": "0 ms",
   "CLS": "0",
   "SI": "0.9 s",
   "bytes": "Total size was 245 KiB",
@@ -70,12 +70,12 @@
   "seo": 69,
   "FCP": "0.9 s",
   "LCP": "0.9 s",
-  "TBT": "20 ms",
+  "TBT": "70 ms",
   "CLS": "0",
   "SI": "0.9 s",
-  "bytes": "Total size was 214 KiB",
+  "bytes": "Total size was 215 KiB",
   "allPerf": [
-   100,
+   99,
    100,
    100
   ],
@@ -84,6 +84,7 @@
    "inspector-issues",
    "is-crawlable",
    "cache-insight",
+   "forced-reflow-insight",
    "image-delivery-insight",
    "network-dependency-tree-insight",
    "render-blocking-insight"

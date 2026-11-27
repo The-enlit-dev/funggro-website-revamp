@@ -21,8 +21,29 @@
     "https://x.com/funngroofficial",
     "https://www.facebook.com/funngro/"
   ],
-  "founders": ["Payal Jain", "Anik Jain"],
-  "store": { "playRating": "4.1", "playReviews": "54.6K", "playDownloads": "50L+", "asOf": "November 2026", "asOfIso": "2026-11-27" },
+  "founders": [
+    {
+      "name": "Payal Jain",
+      "jobTitle": "Co-founder & CEO",
+      "sameAs": [
+        "https://www.linkedin.com/in/payal-jain-8780191/"
+      ]
+    },
+    {
+      "name": "Anik Jain",
+      "jobTitle": "Co-founder",
+      "sameAs": [
+        "https://www.linkedin.com/in/anik-jain-7966404"
+      ]
+    }
+  ],
+  "store": {
+    "playRating": "4.1",
+    "playReviews": "54.6K",
+    "playDownloads": "50L+",
+    "asOf": "November 2026",
+    "asOfIso": "2026-11-27"
+  },
   "pages": {
     "earn": {
       "path": "/earn",
@@ -45,5 +66,6 @@
       "ogImage": "og-earn.jpg",
       "ogAlt": "Funngro"
     }
-  }
+  },
+  "foundingDate": "2021"
 }

@@ -78,3 +78,37 @@ Store ratings and downloads change — any figure used must carry an "as of" dat
 7. Official Instagram handle.
 8. Official app-store badges usage (Google/Apple guidelines) and a canonical app download link / QR target.
 9. Team/office photography for the Company page (optional but strongly recommended).
+
+---
+
+## Update 2026-11-27 (Phase 4) — Co-founder research
+
+### Payal Jain — **Co-founder & CEO** (verified)
+| Field | Finding | Sources |
+|---|---|---|
+| Name | Payal Jain | all sources |
+| Designation | **Co-founder & CEO** | Entrackr, 15 Dec 2022 ("CEO and co-founder Payal") · Inc42 Datalabs ("CEO & Founder at Funngro") · eChai ("Founder & CEO - Funngro") · SugerMint interview ("Founder & CEO of Funngro") · funngro.com/about ("Founder · CEO") |
+| Conflict investigated | funngro.com/press calls her "Co-founder & CTO". Every independent source and Funngro's own About page say CEO → the Press page is the outlier. |
+| Background | Previously Customer Success Director at Worldline Global (digital payments) | Entrackr; Inc42 ("Ex- Worldline Global"); funngro.com/about (Worldline) |
+| Education | IIM Calcutta alumna | Inc42 ("Alumni- Indian Institute of Management, Calcutta"); funngro.com/about |
+| Experience | Pitched Funngro on Shark Tank India S2 | funngro.com/about; Women's Web coverage of the pitch (search result) |
+| LinkedIn | https://www.linkedin.com/in/payal-jain-8780191/ | linked by funngro.com/about, Inc42 and eChai; her LinkedIn posts about the Funngro Teenlancer program use this handle |
+| Photo | Not used — no Funngro-published, identified portrait; third-party photos (Inc42) have no licence | — |
+
+### Anik Jain — **Co-founder** (title at Funngro NOT verified)
+| Field | Finding | Sources |
+|---|---|---|
+| Name | Anik Jain | all sources |
+| Designation | **Co-founder** only | Entrackr ("Founded in 2021 by Payal and Anik Jain"); Inc42 ("Co-Founder at Funngro") |
+| Conflict investigated | funngro.com/about: "Co-founder · CFO"; funngro.com/press: "Co-founder & CEO" (contradicts the verified CEO, Payal); one search snippet: "Chief Growth Officer". No independent source confirms any C-level title → none shown. |
+| Background | Second-time founder; previously co-founder & CEO of insurtech Symbo (Symbo India Insurance Broking) | Entrackr ("second time founder… Symbo"); Entrepreneur India, 4 Mar 2021 ("co-founder, and chief executive officer, Symbo India Insurance Broking"); StartupTalky, 27 May 2022 (Symbo-approved profile) |
+| Experience | Insurance & financial services: ICICI Lombard, Marsh, Mahindra Insurance Brokers | CB Insights people listing (search result) + funngro.com/about (ICICI Lombard, Reliance Life, Marsh, Mahindra) — two sources agree on these three |
+| LinkedIn | https://www.linkedin.com/in/anik-jain-7966404 | Inc42 person page (headline "Co-Founder at Funngro \| Ex - Symbo Insurance") + coffeemug.ai listing ("Anik Jain - Co-Founder at Funngro - Mumbai") |
+| LinkedIn conflict | funngro.com/about links `linkedin.com/in/anik-jain/` (generic handle; not tied to him by any other source; another Anik Jain — a design-agency founder — exists). **Client should confirm.** LinkedIn pages themselves could not be opened from this environment (login wall). |
+| Photo | Not used — only third-party photo found (StartupTalky), no licence | — |
+
+### Founding year — resolved to **2021**
+Entrackr (Dec 2022), Inc42 and RocketReach say 2021. Funngro's own "FY22" (Apr 2021–Mar 2022) is consistent; its "started in 2022" line is the outlier. → Moved from Tier C to Tier A.
+
+### Still unresolved
+Official founder portraits; Anik Jain's exact title; which LinkedIn URL Funngro considers official for Anik.

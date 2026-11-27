@@ -2,23 +2,26 @@
  {
   "page": "earn",
   "form": "mobile",
-  "runs": 1,
-  "performance": 99,
+  "runs": 3,
+  "performance": 100,
   "accessibility": 100,
   "bestPractices": 100,
   "seo": 100,
   "FCP": "0.8 s",
-  "LCP": "2.3 s",
-  "TBT": "50 ms",
+  "LCP": "0.8 s",
+  "TBT": "0 ms",
   "CLS": "0",
   "SI": "0.8 s",
   "bytes": "Total size was 224 KiB",
   "allPerf": [
-   99
+   100,
+   100,
+   100
   ],
   "failing": [
+   "mainthread-work-breakdown",
+   "bootup-time",
    "cache-insight",
-   "forced-reflow-insight",
    "image-delivery-insight",
    "network-dependency-tree-insight",
    "render-blocking-insight"
@@ -27,7 +30,7 @@
  {
   "page": "earn",
   "form": "desktop",
-  "runs": 1,
+  "runs": 3,
   "performance": 100,
   "accessibility": 100,
   "bestPractices": 100,
@@ -37,8 +40,10 @@
   "TBT": "0 ms",
   "CLS": "0",
   "SI": "0.3 s",
-  "bytes": "Total size was 205 KiB",
+  "bytes": "Total size was 206 KiB",
   "allPerf": [
+   100,
+   100,
    100
   ],
   "failing": [
@@ -52,18 +57,20 @@
  {
   "page": "about",
   "form": "mobile",
-  "runs": 1,
+  "runs": 3,
   "performance": 100,
   "accessibility": 100,
   "bestPractices": 100,
   "seo": 100,
   "FCP": "0.8 s",
   "LCP": "0.8 s",
-  "TBT": "20 ms",
+  "TBT": "30 ms",
   "CLS": "0",
   "SI": "0.8 s",
-  "bytes": "Total size was 179 KiB",
+  "bytes": "Total size was 180 KiB",
   "allPerf": [
+   100,
+   100,
    100
   ],
   "failing": [
@@ -76,7 +83,7 @@
  {
   "page": "about",
   "form": "desktop",
-  "runs": 1,
+  "runs": 3,
   "performance": 100,
   "accessibility": 100,
   "bestPractices": 100,
@@ -88,6 +95,8 @@
   "SI": "0.2 s",
   "bytes": "Total size was 175 KiB",
   "allPerf": [
+   100,
+   100,
    100
   ],
   "failing": [
