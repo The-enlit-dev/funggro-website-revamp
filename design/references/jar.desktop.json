@@ -1,0 +1,87 @@
+{
+ "status": 200,
+ "final": "https://www.myjar.app/",
+ "title": "Jar: India's No 1 Digital Gold Savings App",
+ "h1": [
+  "Jar: India’s No. 1 Digital Gold Savings App"
+ ],
+ "h2": [
+  "Changejar Technologies Private Limited",
+  "Backed by Millions. Recognised by Leaders.",
+  "Savings Made Simple in 3 Steps!",
+  "Flexible Saving Options",
+  "Stories of Change",
+  "As Featured",
+  "Jar In News",
+  "Jar Knowledge Centre",
+  "Frequently Asked Questions",
+  "Mandatory Disclosures"
+ ],
+ "fonts": [
+  [
+   "Inter",
+   203
+  ],
+  [
+   "\"Frank Ruhl Libre\"",
+   10
+  ],
+  [
+   "",
+   2
+  ]
+ ],
+ "colors": [
+  [
+   "rgb(85, 71, 102)",
+   78
+  ],
+  [
+   "rgb(0, 0, 0)",
+   52
+  ],
+  [
+   "rgb(26, 0, 61)",
+   35
+  ],
+  [
+   "rgb(136, 122, 153)",
+   15
+  ],
+  [
+   "rgb(255, 255, 255)",
+   12
+  ],
+  [
+   "rgb(17, 24, 39)",
+   9
+  ]
+ ],
+ "bgs": [
+  [
+   "rgb(0, 0, 0)",
+   17
+  ],
+  [
+   "rgb(255, 255, 255)",
+   14
+  ],
+  [
+   "rgb(244, 244, 245)",
+   3
+  ],
+  [
+   "rgb(22, 8, 41)",
+   2
+  ],
+  [
+   "rgb(26, 0, 61)",
+   1
+  ],
+  [
+   "rgb(233, 228, 240)",
+   1
+  ]
+ ],
+ "h1size": "14px"
+}

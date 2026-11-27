@@ -1,0 +1,21 @@
+[
+ {
+  "id": "color-contrast",
+  "impact": "serious",
+  "help": "Elements must meet minimum color contrast ratio thresholds",
+  "count": 1,
+  "sample": [
+   ".py-20.border-t.bg-secondary > .max-w-\\[1280px\\].px-6.mx-auto > .opacity-100.translate-y-0.transition-all > .kicker :: Fix any of the following:   Element has insufficient color contrast of 3.41 (foreground color: #347550, background color: #0b130e, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+  ]
+ },
+ {
+  "id": "label-content-name-mismatch",
+  "impact": "serious",
+  "help": "Elements must have their visible text as part of their accessible name",
+  "count": 2,
+  "sample": [
+   ".text-accent-foreground :: Fix any of the following:   Text inside the element is not included in the accessible name",
+   ".cursor-not-allowed.px-2\\.5.py-1:nth-child(2) :: Fix any of the following:   Text inside the element is not included in the accessible name"
+  ]
+ }
+]

@@ -1,0 +1,205 @@
+{
+ "base": "https://funngro-revamp-evaluation.netlify.app",
+ "table": [
+  {
+   "k": "html",
+   "p": "/earn",
+   "status": 200,
+   "type": "text/html; charset=UTF-8",
+   "encoding": "br",
+   "cache": "public,max-age=0,must-revalidate",
+   "bytes": 49102
+  },
+  {
+   "k": "css",
+   "p": "/assets/site.7cea392c50.css",
+   "status": 200,
+   "type": "text/css; charset=UTF-8",
+   "encoding": "br",
+   "cache": "public,max-age=31536000,immutable",
+   "bytes": 37832
+  },
+  {
+   "k": "js",
+   "p": "/assets/main.c2d9931397.js",
+   "status": 200,
+   "type": "application/javascript; charset=UTF-8",
+   "encoding": "br",
+   "cache": "public,max-age=31536000,immutable",
+   "bytes": 3646
+  },
+  {
+   "k": "svg",
+   "p": "/logo.svg",
+   "status": 200,
+   "type": "image/svg+xml",
+   "encoding": "br",
+   "cache": "public,max-age=0,must-revalidate",
+   "bytes": 9510
+  },
+  {
+   "k": "font",
+   "p": "/assets/fonts/bricolage.woff2",
+   "status": 200,
+   "type": "font/woff2",
+   "encoding": "-",
+   "cache": "public,max-age=31536000,immutable",
+   "bytes": 62108
+  },
+  {
+   "k": "avif",
+   "p": "/assets/img/screen-reward-540.avif",
+   "status": 200,
+   "type": "image/avif",
+   "encoding": "-",
+   "cache": "public,max-age=31536000,immutable",
+   "bytes": 14304
+  },
+  {
+   "k": "og",
+   "p": "/assets/img/og-earn.jpg",
+   "status": 200,
+   "type": "image/jpeg",
+   "encoding": "-",
+   "cache": "public,max-age=31536000,immutable",
+   "bytes": 98174
+  }
+ ],
+ "results": [
+  [
+   "PASS",
+   "html: 200",
+   "200"
+  ],
+  [
+   "PASS",
+   "html: compressed (br/gzip)",
+   "br"
+  ],
+  [
+   "PASS",
+   "html: revalidates (max-age=0)",
+   "public,max-age=0,must-revalidate"
+  ],
+  [
+   "PASS",
+   "css: 200",
+   "200"
+  ],
+  [
+   "PASS",
+   "css: compressed (br/gzip)",
+   "br"
+  ],
+  [
+   "PASS",
+   "css: long-lived immutable cache",
+   "public,max-age=31536000,immutable"
+  ],
+  [
+   "PASS",
+   "js: 200",
+   "200"
+  ],
+  [
+   "PASS",
+   "js: compressed (br/gzip)",
+   "br"
+  ],
+  [
+   "PASS",
+   "js: long-lived immutable cache",
+   "public,max-age=31536000,immutable"
+  ],
+  [
+   "PASS",
+   "svg: 200",
+   "200"
+  ],
+  [
+   "PASS",
+   "svg: compressed (br/gzip)",
+   "br"
+  ],
+  [
+   "PASS",
+   "font: 200",
+   "200"
+  ],
+  [
+   "PASS",
+   "font: long-lived immutable cache",
+   "public,max-age=31536000,immutable"
+  ],
+  [
+   "PASS",
+   "avif: 200",
+   "200"
+  ],
+  [
+   "PASS",
+   "avif: long-lived immutable cache",
+   "public,max-age=31536000,immutable"
+  ],
+  [
+   "PASS",
+   "og: 200",
+   "200"
+  ],
+  [
+   "PASS",
+   "og: long-lived immutable cache",
+   "public,max-age=31536000,immutable"
+  ],
+  [
+   "PASS",
+   "fonts preloaded (2)",
+   ""
+  ],
+  [
+   "PASS",
+   "all @font-face use font-display: swap",
+   ""
+  ],
+  [
+   "PASS",
+   "rupee subset loaded via unicode-range",
+   ""
+  ],
+  [
+   "PASS",
+   "/earn: og:image 200 image/jpeg 1200×630",
+   "https://funngro-revamp-evaluation.netlify.app/assets/img/og-earn.jpg 200 1200x630 98174B"
+  ],
+  [
+   "PASS",
+   "/earn: og:image is on the same (evaluation) host",
+   ""
+  ],
+  [
+   "PASS",
+   "/about: og:image 200 image/jpeg 1200×630",
+   "https://funngro-revamp-evaluation.netlify.app/assets/img/og-about.jpg 200 1200x630 95407B"
+  ],
+  [
+   "PASS",
+   "/about: og:image is on the same (evaluation) host",
+   ""
+  ],
+  [
+   "PASS",
+   "robots.txt allows crawling so noindex can be seen (evaluation)",
+   ""
+  ],
+  [
+   "PASS",
+   "sitemap lists exactly /earn and /about on this host",
+   ""
+  ],
+  [
+   "PASS",
+   "X-Robots-Tag noindex on evaluation",
+   "noindex, nofollow"
+  ]
+ ]
+}

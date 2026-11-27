@@ -1,0 +1,22 @@
+{
+ "earn": {
+  "types": [
+   "WebPage",
+   "BreadcrumbList",
+   "MobileApplication",
+   "FAQPage"
+  ],
+  "errors": 0,
+  "numErrors": null,
+  "numWarnings": null
+ },
+ "about": {
+  "types": [
+   "BreadcrumbList",
+   "AboutPage"
+  ],
+  "errors": 0,
+  "numErrors": null,
+  "numWarnings": null
+ }
+}

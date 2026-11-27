@@ -1,0 +1,61 @@
+{
+ "status": 200,
+ "final": "https://cred.club/",
+ "title": "CRED. not everyone gets it.",
+ "h1": [],
+ "h2": [
+  "A REFLECTION\nOF CLARITY.",
+  "A REFLECTIONOF CLARITY."
+ ],
+ "fonts": [
+  [
+   "gilroy-regular",
+   32
+  ],
+  [
+   "gilroy",
+   24
+  ],
+  [
+   "Overpass-SemiBold",
+   2
+  ]
+ ],
+ "colors": [
+  [
+   "rgb(255, 255, 255)",
+   26
+  ],
+  [
+   "rgba(255, 255, 255, 0.3)",
+   22
+  ],
+  [
+   "rgb(0, 0, 0)",
+   5
+  ],
+  [
+   "rgb(0, 0, 238)",
+   5
+  ]
+ ],
+ "bgs": [
+  [
+   "rgb(0, 0, 0)",
+   14
+  ],
+  [
+   "rgba(0, 0, 0, 0.3)",
+   13
+  ],
+  [
+   "rgba(0, 0, 0, 0.4)",
+   1
+  ],
+  [
+   "rgba(0, 0, 0, 0.2)",
+   1
+  ]
+ ],
+ "h1size": null
+}

@@ -1,0 +1,1022 @@
+{
+ "/earn": {
+  "links": [
+   {
+    "href": "#main",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn#main",
+    "text": "Skip to content",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Funngro — Earn",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Earn",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/about",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about",
+    "text": "About",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/stories",
+    "abs": "https://www.funngro.com/stories",
+    "text": "Stories (funngro.com)",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/for-brands",
+    "abs": "https://www.funngro.com/for-brands",
+    "text": "For brands (funngro.com)",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/trust",
+    "abs": "https://www.funngro.com/trust",
+    "text": "Safety (funngro.com)",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "#get-app",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn#get-app",
+    "text": "Get the app",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Funngro",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Earn",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/about",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about",
+    "text": "About",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/stories",
+    "abs": "https://www.funngro.com/stories",
+    "text": "Stories",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/for-brands",
+    "abs": "https://www.funngro.com/for-brands",
+    "text": "For brands",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/trust",
+    "abs": "https://www.funngro.com/trust",
+    "text": "Trust & safety",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/faq",
+    "abs": "https://www.funngro.com/faq",
+    "text": "FAQ",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "abs": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "text": "Get it on Google Play",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "abs": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "text": "Download on the App Store",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "abs": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "text": "Get it on Google Play",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "abs": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "text": "Download on the App Store",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.funngro.com/stories",
+    "abs": "https://www.funngro.com/stories",
+    "text": "Read their stories",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "mailto:teenlancer@funngro.com",
+    "abs": "mailto:teenlancer@funngro.com",
+    "text": "teenlancer@funngro.com",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/about",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about",
+    "text": "Meet the company",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/trust",
+    "abs": "https://www.funngro.com/trust",
+    "text": "Trust & safety",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/faq",
+    "abs": "https://www.funngro.com/faq",
+    "text": "See all questions on funngro.com",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "abs": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "text": "Get it on Google Play",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "abs": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "text": "Download on the App Store",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.linkedin.com/company/funngro/",
+    "abs": "https://www.linkedin.com/company/funngro/",
+    "text": "Funngro on LinkedIn",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.youtube.com/@funngro_India",
+    "abs": "https://www.youtube.com/@funngro_India",
+    "text": "Funngro on YouTube",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://x.com/funngroofficial",
+    "abs": "https://x.com/funngroofficial",
+    "text": "Funngro on X",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.facebook.com/funngro/",
+    "abs": "https://www.facebook.com/funngro/",
+    "text": "Funngro on Facebook",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Earn",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/about",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about",
+    "text": "About",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "abs": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "text": "Google Play",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "abs": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "text": "App Store",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.funngro.com/stories",
+    "abs": "https://www.funngro.com/stories",
+    "text": "Stories",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/for-brands",
+    "abs": "https://www.funngro.com/for-brands",
+    "text": "For brands",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/arcade",
+    "abs": "https://www.funngro.com/arcade",
+    "text": "Arcade",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/shelancer",
+    "abs": "https://www.funngro.com/shelancer",
+    "text": "SheLancer",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/blog",
+    "abs": "https://www.funngro.com/blog",
+    "text": "Blog",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/careers",
+    "abs": "https://www.funngro.com/careers",
+    "text": "Careers",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/press",
+    "abs": "https://www.funngro.com/press",
+    "text": "Press",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/trust",
+    "abs": "https://www.funngro.com/trust",
+    "text": "Trust & safety",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/faq",
+    "abs": "https://www.funngro.com/faq",
+    "text": "FAQ",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/contact",
+    "abs": "https://www.funngro.com/contact",
+    "text": "Contact",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/privacy-policy",
+    "abs": "https://www.funngro.com/privacy-policy",
+    "text": "Privacy policy",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/terms-and-conditions",
+    "abs": "https://www.funngro.com/terms-and-conditions",
+    "text": "Terms & conditions",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "mailto:hello@funngro.com",
+    "abs": "mailto:hello@funngro.com",
+    "text": "hello@funngro.com",
+    "target": "",
+    "rel": ""
+   }
+  ],
+  "buttons": [
+   "Open menu",
+   "Close menu",
+   "Previous stories",
+   "Next stories"
+  ]
+ },
+ "/about": {
+  "links": [
+   {
+    "href": "#main",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about#main",
+    "text": "Skip to content",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Funngro — Earn",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Earn",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/about",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about",
+    "text": "About",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/stories",
+    "abs": "https://www.funngro.com/stories",
+    "text": "Stories (funngro.com)",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/for-brands",
+    "abs": "https://www.funngro.com/for-brands",
+    "text": "For brands (funngro.com)",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/trust",
+    "abs": "https://www.funngro.com/trust",
+    "text": "Safety (funngro.com)",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "#get-app",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about#get-app",
+    "text": "Get the app",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Funngro",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Earn",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/about",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about",
+    "text": "About",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/stories",
+    "abs": "https://www.funngro.com/stories",
+    "text": "Stories",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/for-brands",
+    "abs": "https://www.funngro.com/for-brands",
+    "text": "For brands",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/trust",
+    "abs": "https://www.funngro.com/trust",
+    "text": "Trust & safety",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/faq",
+    "abs": "https://www.funngro.com/faq",
+    "text": "FAQ",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "abs": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "text": "Get it on Google Play",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "abs": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "text": "Download on the App Store",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.linkedin.com/in/payal-jain-8780191/",
+    "abs": "https://www.linkedin.com/in/payal-jain-8780191/",
+    "text": "LinkedIn profile of Payal Jain (opens in a new tab)",
+    "target": "_blank",
+    "rel": "noopener noreferrer"
+   },
+   {
+    "href": "https://www.linkedin.com/in/anik-jain-7966404",
+    "abs": "https://www.linkedin.com/in/anik-jain-7966404",
+    "text": "LinkedIn profile of Anik Jain (opens in a new tab)",
+    "target": "_blank",
+    "rel": "noopener noreferrer"
+   },
+   {
+    "href": "https://www.funngro.com/stories/sarthak",
+    "abs": "https://www.funngro.com/stories/sarthak",
+    "text": "Read his story",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.youtube.com/@funngro_India",
+    "abs": "https://www.youtube.com/@funngro_India",
+    "text": "Watch on Funngro’s YouTube channel",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "mailto:hello@funngro.com",
+    "abs": "mailto:hello@funngro.com",
+    "text": "hello@funngro.com",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://entrackr.com/2022/12/funngro-helps-teens-with-essential-financial-education-valuable-work-experience/",
+    "abs": "https://entrackr.com/2022/12/funngro-helps-teens-with-essential-financial-education-valuable-work-experience/",
+    "text": "EntrackrDec 2022Funngro helps teens with essential financial",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://thedailybrunch.com/2022/07/28/teens-mean-business-funngro-offers-real-world-work-experience-to-teenagers-through-its-revolutionary-platform/",
+    "abs": "https://thedailybrunch.com/2022/07/28/teens-mean-business-funngro-offers-real-world-work-experience-to-teenagers-through-its-revolutionary-platform/",
+    "text": "The Daily BrunchJul 2022Teens mean business: Funngro offers ",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://ibsintelligence.com/ibsi-news/funngro-launches-money-management-program-for-teenagers/",
+    "abs": "https://ibsintelligence.com/ibsi-news/funngro-launches-money-management-program-for-teenagers/",
+    "text": "IBS Intelligence2022Funngro launches money management progra",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://businessnewsweek.in/business/teens-mean-business-funngro-offers-real-world-work-experience-to-teenagers-through-its-revolutionary-platform/",
+    "abs": "https://businessnewsweek.in/business/teens-mean-business-funngro-offers-real-world-work-experience-to-teenagers-through-its-revolutionary-platform/",
+    "text": "Business News Week2022Teens mean business: Funngro offers re",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.fmlive.in/teens-mean-business-funngro-offers-real-world-work-experience-to-teenagers-through-its-revolutionary-platform/",
+    "abs": "https://www.fmlive.in/teens-mean-business-funngro-offers-real-world-work-experience-to-teenagers-through-its-revolutionary-platform/",
+    "text": "FM Live2022Teens mean business: Funngro offers real-world wo",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://timesofindia.indiatimes.com/blogs/voices/importance-of-financial-literacy-for-teens/",
+    "abs": "https://timesofindia.indiatimes.com/blogs/voices/importance-of-financial-literacy-for-teens/",
+    "text": "Times of India · Voices2023Importance of financial literacy ",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.funngro.com/trust",
+    "abs": "https://www.funngro.com/trust",
+    "text": "Read Trust & safety",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "mailto:teenlancer@funngro.com",
+    "abs": "mailto:teenlancer@funngro.com",
+    "text": "teenlancer@funngro.com",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Start earningSee the kinds of work, how it pays and how to g",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/careers",
+    "abs": "https://www.funngro.com/careers",
+    "text": "Work with usMost of the team started as users. See open role",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/for-brands",
+    "abs": "https://www.funngro.com/for-brands",
+    "text": "Partner with FunngroBrands: run campaigns with young creator",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "mailto:hello@funngro.com",
+    "abs": "mailto:hello@funngro.com",
+    "text": "hello@funngro.com",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.linkedin.com/company/funngro/",
+    "abs": "https://www.linkedin.com/company/funngro/",
+    "text": "Funngro on LinkedIn",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.youtube.com/@funngro_India",
+    "abs": "https://www.youtube.com/@funngro_India",
+    "text": "Funngro on YouTube",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://x.com/funngroofficial",
+    "abs": "https://x.com/funngroofficial",
+    "text": "Funngro on X",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.facebook.com/funngro/",
+    "abs": "https://www.facebook.com/funngro/",
+    "text": "Funngro on Facebook",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Earn",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/about",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about",
+    "text": "About",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "abs": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "text": "Google Play",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "abs": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "text": "App Store",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.funngro.com/stories",
+    "abs": "https://www.funngro.com/stories",
+    "text": "Stories",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/for-brands",
+    "abs": "https://www.funngro.com/for-brands",
+    "text": "For brands",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/arcade",
+    "abs": "https://www.funngro.com/arcade",
+    "text": "Arcade",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/shelancer",
+    "abs": "https://www.funngro.com/shelancer",
+    "text": "SheLancer",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/blog",
+    "abs": "https://www.funngro.com/blog",
+    "text": "Blog",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/careers",
+    "abs": "https://www.funngro.com/careers",
+    "text": "Careers",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/press",
+    "abs": "https://www.funngro.com/press",
+    "text": "Press",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/trust",
+    "abs": "https://www.funngro.com/trust",
+    "text": "Trust & safety",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/faq",
+    "abs": "https://www.funngro.com/faq",
+    "text": "FAQ",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/contact",
+    "abs": "https://www.funngro.com/contact",
+    "text": "Contact",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/privacy-policy",
+    "abs": "https://www.funngro.com/privacy-policy",
+    "text": "Privacy policy",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/terms-and-conditions",
+    "abs": "https://www.funngro.com/terms-and-conditions",
+    "text": "Terms & conditions",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "mailto:hello@funngro.com",
+    "abs": "mailto:hello@funngro.com",
+    "text": "hello@funngro.com",
+    "target": "",
+    "rel": ""
+   }
+  ],
+  "buttons": [
+   "Open menu",
+   "Close menu"
+  ]
+ },
+ "/404": {
+  "links": [
+   {
+    "href": "#main",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/404#main",
+    "text": "Skip to content",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Funngro — Earn",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Earn",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/about",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about",
+    "text": "About",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/stories",
+    "abs": "https://www.funngro.com/stories",
+    "text": "Stories (funngro.com)",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/for-brands",
+    "abs": "https://www.funngro.com/for-brands",
+    "text": "For brands (funngro.com)",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/trust",
+    "abs": "https://www.funngro.com/trust",
+    "text": "Safety (funngro.com)",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "#get-app",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/404#get-app",
+    "text": "Get the app",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Funngro",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Earn",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/about",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about",
+    "text": "About",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/stories",
+    "abs": "https://www.funngro.com/stories",
+    "text": "Stories",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/for-brands",
+    "abs": "https://www.funngro.com/for-brands",
+    "text": "For brands",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/trust",
+    "abs": "https://www.funngro.com/trust",
+    "text": "Trust & safety",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/faq",
+    "abs": "https://www.funngro.com/faq",
+    "text": "FAQ",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "abs": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "text": "Get it on Google Play",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "abs": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "text": "Download on the App Store",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Start earning",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/about",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about",
+    "text": "About Funngro",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.linkedin.com/company/funngro/",
+    "abs": "https://www.linkedin.com/company/funngro/",
+    "text": "Funngro on LinkedIn",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.youtube.com/@funngro_India",
+    "abs": "https://www.youtube.com/@funngro_India",
+    "text": "Funngro on YouTube",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://x.com/funngroofficial",
+    "abs": "https://x.com/funngroofficial",
+    "text": "Funngro on X",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.facebook.com/funngro/",
+    "abs": "https://www.facebook.com/funngro/",
+    "text": "Funngro on Facebook",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "/earn",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/earn",
+    "text": "Earn",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "/about",
+    "abs": "https://funngro-revamp-evaluation.netlify.app/about",
+    "text": "About",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "abs": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+    "text": "Google Play",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "abs": "https://apps.apple.com/in/app/funngro/id1579361075",
+    "text": "App Store",
+    "target": "",
+    "rel": "noopener"
+   },
+   {
+    "href": "https://www.funngro.com/stories",
+    "abs": "https://www.funngro.com/stories",
+    "text": "Stories",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/for-brands",
+    "abs": "https://www.funngro.com/for-brands",
+    "text": "For brands",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/arcade",
+    "abs": "https://www.funngro.com/arcade",
+    "text": "Arcade",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/shelancer",
+    "abs": "https://www.funngro.com/shelancer",
+    "text": "SheLancer",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/blog",
+    "abs": "https://www.funngro.com/blog",
+    "text": "Blog",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/careers",
+    "abs": "https://www.funngro.com/careers",
+    "text": "Careers",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/press",
+    "abs": "https://www.funngro.com/press",
+    "text": "Press",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/trust",
+    "abs": "https://www.funngro.com/trust",
+    "text": "Trust & safety",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/faq",
+    "abs": "https://www.funngro.com/faq",
+    "text": "FAQ",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/contact",
+    "abs": "https://www.funngro.com/contact",
+    "text": "Contact",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/privacy-policy",
+    "abs": "https://www.funngro.com/privacy-policy",
+    "text": "Privacy policy",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "https://www.funngro.com/terms-and-conditions",
+    "abs": "https://www.funngro.com/terms-and-conditions",
+    "text": "Terms & conditions",
+    "target": "",
+    "rel": ""
+   },
+   {
+    "href": "mailto:hello@funngro.com",
+    "abs": "mailto:hello@funngro.com",
+    "text": "hello@funngro.com",
+    "target": "",
+    "rel": ""
+   }
+  ],
+  "buttons": [
+   "Open menu",
+   "Close menu"
+  ]
+ }
+}

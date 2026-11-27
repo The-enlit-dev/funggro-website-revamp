@@ -1,0 +1,120 @@
+[
+ {
+  "page": "earn",
+  "form": "mobile",
+  "runs": 3,
+  "performance": 100,
+  "accessibility": 100,
+  "bestPractices": 92,
+  "seo": 69,
+  "FCP": "0.9 s",
+  "LCP": "0.9 s",
+  "TBT": "40 ms",
+  "CLS": "0",
+  "SI": "0.9 s",
+  "bytes": "Total size was 245 KiB",
+  "allPerf": [
+   99,
+   100,
+   100
+  ],
+  "failing": [
+   "errors-in-console",
+   "inspector-issues",
+   "is-crawlable",
+   "cache-insight",
+   "forced-reflow-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ {
+  "page": "earn",
+  "form": "desktop",
+  "runs": 3,
+  "performance": 100,
+  "accessibility": 100,
+  "bestPractices": 92,
+  "seo": 69,
+  "FCP": "0.3 s",
+  "LCP": "0.3 s",
+  "TBT": "0 ms",
+  "CLS": "0",
+  "SI": "0.4 s",
+  "bytes": "Total size was 219 KiB",
+  "allPerf": [
+   100,
+   100,
+   100
+  ],
+  "failing": [
+   "errors-in-console",
+   "inspector-issues",
+   "is-crawlable",
+   "cache-insight",
+   "forced-reflow-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ {
+  "page": "about",
+  "form": "mobile",
+  "runs": 3,
+  "performance": 100,
+  "accessibility": 100,
+  "bestPractices": 92,
+  "seo": 69,
+  "FCP": "0.9 s",
+  "LCP": "0.9 s",
+  "TBT": "30 ms",
+  "CLS": "0",
+  "SI": "0.9 s",
+  "bytes": "Total size was 215 KiB",
+  "allPerf": [
+   100,
+   100,
+   100
+  ],
+  "failing": [
+   "errors-in-console",
+   "inspector-issues",
+   "is-crawlable",
+   "cache-insight",
+   "forced-reflow-insight",
+   "image-delivery-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ },
+ {
+  "page": "about",
+  "form": "desktop",
+  "runs": 3,
+  "performance": 100,
+  "accessibility": 100,
+  "bestPractices": 92,
+  "seo": 69,
+  "FCP": "0.3 s",
+  "LCP": "0.3 s",
+  "TBT": "0 ms",
+  "CLS": "0",
+  "SI": "0.3 s",
+  "bytes": "Total size was 200 KiB",
+  "allPerf": [
+   100,
+   100,
+   100
+  ],
+  "failing": [
+   "errors-in-console",
+   "inspector-issues",
+   "is-crawlable",
+   "cache-insight",
+   "network-dependency-tree-insight",
+   "render-blocking-insight"
+  ]
+ }
+]

@@ -1,0 +1,274 @@
+{
+ "base": "https://funngro-revamp-evaluation.netlify.app",
+ "report": {
+  "/earn": {
+   "title": "Earn Money Online as a Teen in India — Funngro",
+   "desc": "Do paid tasks for real brands — surveys, referrals, content and brand promotion. Free to join for ages 14–25. Withdraw what you earn to UPI or bank.",
+   "robots": "noindex, nofollow",
+   "canonical": "https://funngro-revamp-evaluation.netlify.app/earn",
+   "ogTitle": "Earn Money Online as a Teen in India — Funngro",
+   "ogUrl": "https://funngro-revamp-evaluation.netlify.app/earn",
+   "ogImage": "https://funngro-revamp-evaluation.netlify.app/assets/img/og-earn.jpg",
+   "twCard": "summary_large_image",
+   "lang": "en-IN",
+   "h1": [
+    "Earn your first income online, from real brands."
+   ],
+   "headings": [
+    1,
+    2,
+    3,
+    3,
+    3,
+    3,
+    2,
+    3,
+    3,
+    3,
+    3,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "imgsNoAlt": [],
+   "imgsNoDims": [],
+   "jsonld": [
+    "WebPage",
+    "WebSite",
+    "Organization",
+    "MobileApplication",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "skips": [],
+   "checks": {
+    "title 30–60 chars": true,
+    "description 70–160 chars": true,
+    "one h1": true,
+    "no heading level skips": true,
+    "canonical = page URL": true,
+    "og:url = canonical": true,
+    "og:image absolute": true,
+    "twitter card": true,
+    "lang en-IN": true,
+    "robots noindex": true,
+    "all imgs have alt": true,
+    "all imgs have width/height": true,
+    "h1 present in server HTML (no JS)": true,
+    "JSON-LD in server HTML": true,
+    "no unresolved placeholders": true
+   }
+  },
+  "/about": {
+   "title": "About Funngro — Our Mission, Founders & Story",
+   "desc": "Funngro helps young Indians aged 14–25 earn from real brand projects. Meet the founders, the team that grew from our users, and our Shark Tank story.",
+   "robots": "noindex, nofollow",
+   "canonical": "https://funngro-revamp-evaluation.netlify.app/about",
+   "ogTitle": "About Funngro — Our Mission, Founders & Story",
+   "ogUrl": "https://funngro-revamp-evaluation.netlify.app/about",
+   "ogImage": "https://funngro-revamp-evaluation.netlify.app/assets/img/og-about.jpg",
+   "twCard": "summary_large_image",
+   "lang": "en-IN",
+   "h1": [
+    "Built so young Indians can earn for real."
+   ],
+   "headings": [
+    1,
+    2,
+    2,
+    3,
+    3,
+    2,
+    3,
+    3,
+    3,
+    3,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    2,
+    3,
+    3,
+    3,
+    2,
+    2,
+    2,
+    2
+   ],
+   "imgsNoAlt": [],
+   "imgsNoDims": [],
+   "jsonld": [
+    "AboutPage",
+    "Organization",
+    "BreadcrumbList"
+   ],
+   "skips": [],
+   "checks": {
+    "title 30–60 chars": true,
+    "description 70–160 chars": true,
+    "one h1": true,
+    "no heading level skips": true,
+    "canonical = page URL": true,
+    "og:url = canonical": true,
+    "og:image absolute": true,
+    "twitter card": true,
+    "lang en-IN": true,
+    "robots noindex": true,
+    "all imgs have alt": true,
+    "all imgs have width/height": true,
+    "h1 present in server HTML (no JS)": true,
+    "JSON-LD in server HTML": true,
+    "no unresolved placeholders": true
+   }
+  }
+ },
+ "links": [
+  [
+   "https://funngro-revamp-evaluation.netlify.app/earn",
+   200
+  ],
+  [
+   "https://funngro-revamp-evaluation.netlify.app/about",
+   200
+  ],
+  [
+   "https://www.funngro.com/stories",
+   200
+  ],
+  [
+   "https://www.funngro.com/for-brands",
+   200
+  ],
+  [
+   "https://www.funngro.com/trust",
+   200
+  ],
+  [
+   "https://www.funngro.com/faq",
+   200
+  ],
+  [
+   "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+   200
+  ],
+  [
+   "https://apps.apple.com/in/app/funngro/id1579361075",
+   200
+  ],
+  [
+   "mailto:teenlancer@funngro.com",
+   "mailto"
+  ],
+  [
+   "https://www.linkedin.com/company/funngro/",
+   403
+  ],
+  [
+   "https://www.youtube.com/@funngro_India",
+   200
+  ],
+  [
+   "https://x.com/funngroofficial",
+   200
+  ],
+  [
+   "https://www.facebook.com/funngro/",
+   200
+  ],
+  [
+   "https://www.funngro.com/arcade",
+   200
+  ],
+  [
+   "https://www.funngro.com/shelancer",
+   200
+  ],
+  [
+   "https://www.funngro.com/blog",
+   200
+  ],
+  [
+   "https://www.funngro.com/careers",
+   200
+  ],
+  [
+   "https://www.funngro.com/press",
+   200
+  ],
+  [
+   "https://www.funngro.com/contact",
+   200
+  ],
+  [
+   "https://www.funngro.com/privacy-policy",
+   200
+  ],
+  [
+   "https://www.funngro.com/terms-and-conditions",
+   200
+  ],
+  [
+   "mailto:hello@funngro.com",
+   "mailto"
+  ],
+  [
+   "https://www.linkedin.com/in/payal-jain-8780191/",
+   999
+  ],
+  [
+   "https://www.linkedin.com/in/anik-jain-7966404",
+   200
+  ],
+  [
+   "https://www.funngro.com/stories/sarthak",
+   200
+  ],
+  [
+   "https://entrackr.com/2022/12/funngro-helps-teens-with-essential-financial-education-valuable-work-experience/",
+   200
+  ],
+  [
+   "https://thedailybrunch.com/2022/07/28/teens-mean-business-funngro-offers-real-world-work-experience-to-teenagers-through-its-revolutionary-platform/",
+   200
+  ],
+  [
+   "https://ibsintelligence.com/ibsi-news/funngro-launches-money-management-program-for-teenagers/",
+   403
+  ],
+  [
+   "https://businessnewsweek.in/business/teens-mean-business-funngro-offers-real-world-work-experience-to-teenagers-through-its-revolutionary-platform/",
+   200
+  ],
+  [
+   "https://www.fmlive.in/teens-mean-business-funngro-offers-real-world-work-experience-to-teenagers-through-its-revolutionary-platform/",
+   200
+  ],
+  [
+   "https://timesofindia.indiatimes.com/blogs/voices/importance-of-financial-literacy-for-teens/",
+   200
+  ]
+ ],
+ "fails": []
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" font-family="Figtree, Helvetica, Arial, sans-serif" role="img" aria-label="Redirect and status-code map of the redesigned site">
+  <defs><marker id="a2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#0E1A12"/></marker></defs>
+  <rect width="900" height="300" rx="18" fill="#F6F1E7"/>
+  <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" fill="#0E1A12">
+    <rect x="30" y="30" width="230" height="40" rx="8" fill="#FFFDF8" stroke="#0E1A12"/><text x="46" y="56">/</text>
+    <rect x="30" y="82" width="230" height="40" rx="8" fill="#FFFDF8" stroke="#0E1A12"/><text x="46" y="108">/teen  ·  /teen/</text>
+    <rect x="30" y="134" width="230" height="40" rx="8" fill="#FFFDF8" stroke="#0E1A12"/><text x="46" y="160">/earn/  ·  /earn.html</text>
+    <rect x="30" y="186" width="230" height="40" rx="8" fill="#FFFDF8" stroke="#0E1A12"/><text x="46" y="212">/about/ · /about.html</text>
+    <rect x="30" y="238" width="230" height="40" rx="8" fill="#FFFDF8" stroke="#0E1A12"/><text x="46" y="264">/anything-else</text>
+  </g>
+  <g font-size="14" font-weight="700" fill="#0E1A12">
+    <text x="300" y="46">302 temporary</text><text x="300" y="98">301 permanent</text><text x="300" y="150">301 permanent</text><text x="300" y="202">301 permanent</text><text x="300" y="254">404 Not Found</text>
+  </g>
+  <g stroke="#0E1A12" stroke-width="2" fill="none" marker-end="url(#a2)">
+    <path d="M262 50 C520 50 560 110 640 116"/><path d="M262 102 L640 118"/><path d="M262 154 C520 154 560 128 640 122"/>
+    <path d="M262 206 C560 206 580 196 640 198"/><path d="M262 258 L640 262"/>
+  </g>
+  <rect x="644" y="94" width="226" height="52" rx="10" fill="#D2F28A" stroke="#0E1A12" stroke-width="1.5"/><text x="660" y="126" font-size="17" font-weight="800">/earn · 200 OK</text>
+  <rect x="644" y="174" width="226" height="52" rx="10" fill="#D2F28A" stroke="#0E1A12" stroke-width="1.5"/><text x="660" y="206" font-size="17" font-weight="800">/about · 200 OK</text>
+  <rect x="644" y="238" width="226" height="48" rx="10" fill="#FFFDF8" stroke="#0E1A12" stroke-width="1.5"/><text x="660" y="268" font-size="15" font-weight="700">custom 404 page</text>
+  <text x="300" y="290" font-size="12" fill="#56655B">Original site: /teen and unknown URLs returned 200 with the homepage shell.</text>
+</svg>

@@ -1,0 +1,95 @@
+{
+ "/earn desktop": {
+  "expected": 48,
+  "stops": 48,
+  "noRing": [],
+  "hidden": [],
+  "platformInjectedFocusStops": 1
+ },
+ "/about desktop": {
+  "expected": 46,
+  "stops": 46,
+  "noRing": [],
+  "hidden": [],
+  "platformInjectedFocusStops": 1
+ },
+ "/earn mobile": {
+  "expected": 44,
+  "stops": 44,
+  "noRing": [],
+  "hidden": [],
+  "platformInjectedFocusStops": 1
+ },
+ "/about mobile": {
+  "expected": 42,
+  "stops": 42,
+  "noRing": [],
+  "hidden": [],
+  "platformInjectedFocusStops": 1
+ },
+ "interactionLatency": {
+  "note": "Event Timing durations ≥16 ms during taps on menu + FAQ (mobile emulation, no CPU throttling)",
+  "entries": [
+   {
+    "n": "pointerdown",
+    "d": 32
+   },
+   {
+    "n": "pointerup",
+    "d": 32
+   },
+   {
+    "n": "click",
+    "d": 32
+   },
+   {
+    "n": "pointerdown",
+    "d": 32
+   },
+   {
+    "n": "pointerup",
+    "d": 32
+   },
+   {
+    "n": "click",
+    "d": 32
+   },
+   {
+    "n": "pointerdown",
+    "d": 32
+   },
+   {
+    "n": "pointerup",
+    "d": 32
+   },
+   {
+    "n": "click",
+    "d": 32
+   },
+   {
+    "n": "pointerdown",
+    "d": 16
+   },
+   {
+    "n": "pointerup",
+    "d": 16
+   },
+   {
+    "n": "click",
+    "d": 32
+   },
+   {
+    "n": "pointerdown",
+    "d": 16
+   },
+   {
+    "n": "pointerup",
+    "d": 16
+   },
+   {
+    "n": "click",
+    "d": 32
+   }
+  ]
+ }
+}
