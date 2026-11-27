@@ -1,0 +1,77 @@
+/* Design tokens — Concept 2 "Sticker Book" (premium). Contrast values measured; see design/04-implementation-spec.md */
+@font-face {
+  font-family: "Bricolage Grotesque";
+  src: url("/assets/fonts/bricolage.woff2") format("woff2");
+  font-weight: 500 800; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Bricolage Grotesque";
+  src: url("/assets/fonts/bricolage-rupee.woff2") format("woff2");
+  font-weight: 500 800; font-style: normal; font-display: swap; unicode-range: U+20B9;
+}
+@font-face {
+  font-family: "Figtree";
+  src: url("/assets/fonts/figtree.woff2") format("woff2");
+  font-weight: 300 900; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Figtree";
+  src: url("/assets/fonts/figtree-rupee.woff2") format("woff2");
+  font-weight: 300 900; font-style: normal; font-display: swap; unicode-range: U+20B9;
+}
+/* Metric-matched fallbacks reduce layout shift while web fonts load */
+@font-face { font-family: "Figtree Fallback"; src: local("Arial"), local("Helvetica"), local("Roboto"); size-adjust: 102%; ascent-override: 93%; descent-override: 25%; }
+@font-face { font-family: "Bricolage Fallback"; src: local("Arial Narrow"), local("Arial"), local("Roboto Condensed"), local("Roboto"); size-adjust: 96%; ascent-override: 98%; descent-override: 26%; }
+
+:root {
+  /* colour */
+  --paper: #F6F1E7;
+  --paper-2: #EFE8D9;
+  --surface: #FFFDF8;
+  --ink: #0E1A12;
+  --ink-2: #1C2A21;
+  --muted: #56655B;          /* 5.4:1 on paper */
+  --line: rgba(14, 26, 18, .12);
+  --line-strong: rgba(14, 26, 18, .9);
+  --brand: #07AB5F;          /* fills only; text on it is ink (6:1) */
+  --brand-deep: #067A41;     /* green text on paper, 4.8:1 */
+  --lime: #D2F28A;
+  --sun: #FFD36B;
+  --mint: #A8E6C4;
+  --blush: #F4C7B4;
+  --on-ink: #F6F1E7;
+  --on-ink-muted: #B9C4BC;
+  --focus: #D2F28A;
+
+  /* type */
+  --font-display: "Bricolage Grotesque", "Bricolage Fallback", ui-sans-serif, system-ui, sans-serif;
+  --font-text: "Figtree", "Figtree Fallback", ui-sans-serif, system-ui, "Segoe UI", Roboto, sans-serif;
+  --step-hero: clamp(2.75rem, 1.75rem + 4.4vw, 5.25rem);  /* 44 → 84 */
+  --step-5: clamp(2.25rem, 1.35rem + 3.9vw, 4.5rem);      /* 36 → 72 */
+  --step-4: clamp(1.75rem, 1.3rem + 1.9vw, 2.875rem);     /* 28 → 46 */
+  --step-3: clamp(1.375rem, 1.15rem + 1vw, 2rem);         /* 22 → 32 */
+  --step-2: clamp(1.1875rem, 1.1rem + .4vw, 1.4375rem);   /* 19 → 23 */
+  --step-1: clamp(1.0625rem, 1.03rem + .15vw, 1.125rem);  /* 17 → 18 */
+  --step-0: 1rem;
+  --step--1: .875rem;
+
+  /* space */
+  --s-1: .25rem; --s-2: .5rem; --s-3: .75rem; --s-4: 1rem; --s-5: 1.5rem; --s-6: 2rem;
+  --s-7: 3rem; --s-8: 4rem; --s-9: 6rem; --s-10: 8rem;
+  --gutter: clamp(1.25rem, 5vw, 4rem);
+  --section: clamp(4.5rem, 3rem + 7vw, 9rem);
+  --container: 77.5rem; /* 1240px */
+
+  /* shape & depth */
+  --r-sm: 10px; --r-md: 14px; --r-lg: 22px; --r-xl: 28px; --r-pill: 999px;
+  --shadow-hard: 5px 5px 0 var(--ink);
+  --shadow-hard-sm: 3px 3px 0 var(--ink);
+  --shadow-soft: 0 1px 0 var(--line), 0 22px 44px -26px rgba(14, 26, 18, .45);
+
+  /* motion */
+  --dur-fast: 150ms; --dur-base: 280ms; --dur-slow: 640ms;
+  --ease-out: cubic-bezier(.2, .8, .2, 1);
+  --ease-spring: cubic-bezier(.34, 1.4, .64, 1);
+
+  color-scheme: light;
+}

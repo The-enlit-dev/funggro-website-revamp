@@ -1,0 +1,49 @@
+{
+  "_comment": "All public facts here must come from Tier A/B of research/06-verified-facts.md.",
+  "name": "Funngro",
+  "legalName": "Wishbanc Technologies Private Limited",
+  "productionUrl": "https://www.funngro.com",
+  "liveSite": "https://www.funngro.com",
+  "playUrl": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro",
+  "appStoreUrl": "https://apps.apple.com/in/app/funngro/id1579361075",
+  "email": "hello@funngro.com",
+  "safetyEmail": "teenlancer@funngro.com",
+  "address": {
+    "streetAddress": "2105 Wing F, Fantacy Land, CTS No 1, Opp Majas Depot, Jogeshwari E, J V Link Road",
+    "addressLocality": "Mumbai",
+    "addressRegion": "Maharashtra",
+    "postalCode": "400060",
+    "addressCountry": "IN"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/funngro/",
+    "https://www.youtube.com/@funngro_India",
+    "https://x.com/funngroofficial",
+    "https://www.facebook.com/funngro/"
+  ],
+  "founders": ["Payal Jain", "Anik Jain"],
+  "store": { "playRating": "4.1", "playReviews": "54.6K", "playDownloads": "50L+", "asOf": "November 2026", "asOfIso": "2026-11-27" },
+  "pages": {
+    "earn": {
+      "path": "/earn",
+      "title": "Earn Money Online as a Teen in India — Funngro",
+      "description": "Do paid tasks for real brands — surveys, referrals, content and brand promotion. Free to join for ages 14–25. Withdraw what you earn to UPI or bank.",
+      "ogImage": "og-earn.jpg",
+      "ogAlt": "Funngro — earn your first income online, from real brands"
+    },
+    "about": {
+      "path": "/about",
+      "title": "About Funngro — Our Mission, Founders & Story",
+      "description": "Funngro helps young Indians aged 14–25 earn from real brand projects. Meet the founders, the team that grew from our users, and our Shark Tank story.",
+      "ogImage": "og-about.jpg",
+      "ogAlt": "About Funngro — built so young Indians can earn for real"
+    },
+    "404": {
+      "path": "/404",
+      "title": "Page not found — Funngro",
+      "description": "This page doesn't exist. Head to Funngro's earn or about page.",
+      "ogImage": "og-earn.jpg",
+      "ogAlt": "Funngro"
+    }
+  }
+}

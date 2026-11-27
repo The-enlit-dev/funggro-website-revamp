@@ -1,0 +1,267 @@
+{
+ "earner-anshika": {
+  "widths": [
+   200,
+   320,
+   480
+  ],
+  "formats": [
+   "avif",
+   "webp",
+   "jpg"
+  ],
+  "aspect": 0.8,
+  "height": {
+   "200": 250,
+   "320": 400,
+   "480": 600
+  }
+ },
+ "earner-ashwani": {
+  "widths": [
+   200,
+   320,
+   480,
+   720
+  ],
+  "formats": [
+   "avif",
+   "webp",
+   "jpg"
+  ],
+  "aspect": 0.8,
+  "height": {
+   "200": 250,
+   "320": 400,
+   "480": 600,
+   "720": 900
+  }
+ },
+ "earner-sayyam-mehta": {
+  "widths": [
+   200,
+   320,
+   480
+  ],
+  "formats": [
+   "avif",
+   "webp",
+   "jpg"
+  ],
+  "aspect": 0.8,
+  "height": {
+   "200": 250,
+   "320": 400,
+   "480": 600
+  }
+ },
+ "earner-yashraj-singh": {
+  "widths": [
+   200,
+   320,
+   480,
+   720
+  ],
+  "formats": [
+   "avif",
+   "webp",
+   "jpg"
+  ],
+  "aspect": 0.8,
+  "height": {
+   "200": 250,
+   "320": 400,
+   "480": 600,
+   "720": 900
+  }
+ },
+ "earner-ankush-borana": {
+  "widths": [
+   200,
+   320,
+   480
+  ],
+  "formats": [
+   "avif",
+   "webp",
+   "jpg"
+  ],
+  "aspect": 0.8,
+  "height": {
+   "200": 250,
+   "320": 400,
+   "480": 600
+  }
+ },
+ "earner-sayandeep": {
+  "widths": [
+   200,
+   320,
+   480
+  ],
+  "formats": [
+   "avif",
+   "webp",
+   "jpg"
+  ],
+  "aspect": 0.8,
+  "height": {
+   "200": 250,
+   "320": 400,
+   "480": 600
+  }
+ },
+ "earner-sarthak": {
+  "widths": [
+   200,
+   320
+  ],
+  "formats": [
+   "avif",
+   "webp",
+   "jpg"
+  ],
+  "aspect": 0.8,
+  "height": {
+   "200": 250,
+   "320": 400
+  }
+ },
+ "earner-ujjwal-dubey": {
+  "widths": [
+   200,
+   320,
+   480,
+   720
+  ],
+  "formats": [
+   "avif",
+   "webp",
+   "jpg"
+  ],
+  "aspect": 0.8,
+  "height": {
+   "200": 250,
+   "320": 400,
+   "480": 600,
+   "720": 900
+  }
+ },
+ "earner-swarnim-prateek": {
+  "widths": [
+   200,
+   320,
+   480
+  ],
+  "formats": [
+   "avif",
+   "webp",
+   "jpg"
+  ],
+  "aspect": 0.8,
+  "height": {
+   "200": 250,
+   "320": 400,
+   "480": 600
+  }
+ },
+ "screen-home": {
+  "widths": [
+   360,
+   540
+  ],
+  "formats": [
+   "avif",
+   "webp"
+  ],
+  "aspect": 0.5581395348837209,
+  "height": {
+   "360": 645,
+   "540": 968
+  }
+ },
+ "screen-reward": {
+  "widths": [
+   360,
+   540
+  ],
+  "formats": [
+   "avif",
+   "webp"
+  ],
+  "aspect": 0.5581395348837209,
+  "height": {
+   "360": 645,
+   "540": 968
+  }
+ },
+ "screen-wallet": {
+  "widths": [
+   360,
+   540,
+   720
+  ],
+  "formats": [
+   "avif",
+   "webp"
+  ],
+  "aspect": 0.461875,
+  "height": {
+   "360": 779,
+   "540": 1169,
+   "720": 1559
+  }
+ },
+ "screen-journey": {
+  "widths": [
+   360,
+   540,
+   720
+  ],
+  "formats": [
+   "avif",
+   "webp"
+  ],
+  "aspect": 0.5581395348837209,
+  "height": {
+   "360": 645,
+   "540": 968,
+   "720": 1290
+  }
+ },
+ "screen-tier": {
+  "widths": [
+   360,
+   540,
+   720
+  ],
+  "formats": [
+   "avif",
+   "webp"
+  ],
+  "aspect": 0.5581395348837209,
+  "height": {
+   "360": 645,
+   "540": 968,
+   "720": 1290
+  }
+ },
+ "sharktank": {
+  "widths": [
+   640,
+   960,
+   1280
+  ],
+  "formats": [
+   "avif",
+   "webp",
+   "jpg"
+  ],
+  "aspect": 1.7777777777777777,
+  "height": {
+   "640": 360,
+   "960": 540,
+   "1280": 720
+  }
+ }
+}

@@ -1,0 +1,275 @@
+[
+ {
+  "page": "earn",
+  "width": 320,
+  "h": 11922,
+  "overflowX": false,
+  "layoutWidth": 320,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Bricolage Grotesque U+20B9",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "\"Bricolage Grotesque\", \"Bricolage Fallback\", ui-sans-serif, system-ui, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "earn",
+  "width": 360,
+  "h": 11635,
+  "overflowX": false,
+  "layoutWidth": 360,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Bricolage Grotesque U+20B9",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "\"Bricolage Grotesque\", \"Bricolage Fallback\", ui-sans-serif, system-ui, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "earn",
+  "width": 390,
+  "h": 11447,
+  "overflowX": false,
+  "layoutWidth": 390,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Bricolage Grotesque U+20B9",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "\"Bricolage Grotesque\", \"Bricolage Fallback\", ui-sans-serif, system-ui, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "earn",
+  "width": 768,
+  "h": 11936,
+  "overflowX": false,
+  "layoutWidth": 768,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Bricolage Grotesque U+20B9",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "\"Bricolage Grotesque\", \"Bricolage Fallback\", ui-sans-serif, system-ui, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "earn",
+  "width": 1024,
+  "h": 9957,
+  "overflowX": false,
+  "layoutWidth": 1024,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Bricolage Grotesque U+20B9",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "\"Bricolage Grotesque\", \"Bricolage Fallback\", ui-sans-serif, system-ui, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "earn",
+  "width": 1280,
+  "h": 10415,
+  "overflowX": false,
+  "layoutWidth": 1280,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Bricolage Grotesque U+20B9",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "\"Bricolage Grotesque\", \"Bricolage Fallback\", ui-sans-serif, system-ui, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "earn",
+  "width": 1440,
+  "h": 10369,
+  "overflowX": false,
+  "layoutWidth": 1440,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Bricolage Grotesque U+20B9",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "\"Bricolage Grotesque\", \"Bricolage Fallback\", ui-sans-serif, system-ui, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "about",
+  "width": 320,
+  "h": 12134,
+  "overflowX": false,
+  "layoutWidth": 320,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "Figtree, \"Figtree Fallback\", ui-sans-serif, system-ui, \"Segoe UI\", Roboto, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "about",
+  "width": 360,
+  "h": 11796,
+  "overflowX": false,
+  "layoutWidth": 360,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "Figtree, \"Figtree Fallback\", ui-sans-serif, system-ui, \"Segoe UI\", Roboto, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "about",
+  "width": 390,
+  "h": 11647,
+  "overflowX": false,
+  "layoutWidth": 390,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "Figtree, \"Figtree Fallback\", ui-sans-serif, system-ui, \"Segoe UI\", Roboto, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "about",
+  "width": 768,
+  "h": 10261,
+  "overflowX": false,
+  "layoutWidth": 768,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "Figtree, \"Figtree Fallback\", ui-sans-serif, system-ui, \"Segoe UI\", Roboto, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "about",
+  "width": 1024,
+  "h": 8392,
+  "overflowX": false,
+  "layoutWidth": 1024,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "Figtree, \"Figtree Fallback\", ui-sans-serif, system-ui, \"Segoe UI\", Roboto, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "about",
+  "width": 1280,
+  "h": 8616,
+  "overflowX": false,
+  "layoutWidth": 1280,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "Figtree, \"Figtree Fallback\", ui-sans-serif, system-ui, \"Segoe UI\", Roboto, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ },
+ {
+  "page": "about",
+  "width": 1440,
+  "h": 8574,
+  "overflowX": false,
+  "layoutWidth": 1440,
+  "offenders": [],
+  "fontsLoaded": [
+   "Bricolage Grotesque U+0-10FFFF",
+   "Figtree U+0-10FFFF",
+   "Figtree U+20B9"
+  ],
+  "rupeeFont": "Figtree, \"Figtree Fallback\", ui-sans-serif, system-ui, \"Segoe UI\", Roboto, sans-serif",
+  "errors": [],
+  "platformInjectedErrors": [
+   "error: Applying inline style violates the following Content Security Policy directive 'style-src 'self''. Either the 'unsafe-in",
+   "error: Executing inline script violates the following Content Security Policy directive 'script-src 'self''. Either the 'unsafe"
+  ]
+ }
+]

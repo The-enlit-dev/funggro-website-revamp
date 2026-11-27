@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+# QA: keep summaries, fold shots and 390/1440 full pages as evidence; skip the bulky intermediate widths
+qa/screens/*-full.png
+!qa/screens/*-390-full.png
+!qa/screens/*-1440-full.png
+qa/**/*.tmp
