@@ -68,11 +68,11 @@
    },
    {
     "n": "pointerdown",
-    "d": 32
+    "d": 16
    },
    {
     "n": "pointerup",
-    "d": 32
+    "d": 16
    },
    {
     "n": "click",

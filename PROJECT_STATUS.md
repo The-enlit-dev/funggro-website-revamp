@@ -1,6 +1,6 @@
 # PROJECT STATUS — Funngro two-page redesign
 
-_Last updated: 2026-11-27 · Current phase: **4 — Final SEO polish & extended testing (complete; awaiting your review before Phase 7 delivery)**_
+_Last updated: 2026-11-27 · Current phase: **7 — Final delivery package (complete; awaiting your submission and merge decision)**_
 
 **Live evaluation site:** https://funngro-revamp-evaluation.netlify.app → `/earn` (Teen) · `/about` (Company) — `noindex` retained by design. Nothing has been submitted to Funngro or published on funngro.com.
 
@@ -24,12 +24,21 @@ _Last updated: 2026-11-27 · Current phase: **4 — Final SEO polish & extended 
 - [x] **Functional**: 150 links/buttons inventoried; interactions 26/26; functional 26/26 (LinkedIn new tabs, QR decodes to Google Play, store listings 200); redirects + 404; 7 widths; no-JS rendering
 - [x] **Docs**: `qa/QA-REPORT.md`, `qa/REDESIGN-SEO-AUDIT.md` (original-site audit stays in `research/05`), `DEPLOYMENT.md` (incl. pre-production checklist)
 
+### Phase mapping check (before Phase 7)
+The brief's Phases 5 (SEO) and 6 (Testing) were delivered under the session's "Phase 4"; each brief requirement is mapped to evidence in `delivery/02-phase-completion.md` — both complete, with documented limits (no physical-device/screen-reader testing, 4 external links not machine-checkable, Netlify badge).
+
+### Phase 7 ✅ — Final delivery package → `delivery/`
+- [x] Project overview, phase completion review, original-site SEO audit, redesign SEO audit, QA & accessibility report, Lighthouse/performance summary, facts/questions/assumptions, Funngro confirmation list, deployment + pre-production checklist, submission summary
+- [x] Fresh screenshots from the live evaluation site (desktop 1440, tablet 768, mobile 390; founders close-ups)
+- [x] Small fix found while capturing screenshots: on phones the proof pills hid the ★ next to "4.1" and showed the TV icon (wrapping "Season 2"); corrected, redeployed, full QA suite + Lighthouse re-run on the new deploy
+
 ## In progress
 - Nothing.
 
-## Awaiting your approval
-1. Review the completed founder section and Phase 4 results.
-2. Go-ahead for Phase 7 (final delivery package). Any production publishing requires your separate approval.
+## Awaiting your decision
+1. Submit the project (checklist in the final message / `delivery/10-submission-summary.md`).
+2. Merge PR #1 — **not merged; needs your approval**.
+3. Any production publishing to funngro.com — not done; needs your approval and Funngro's confirmations.
 
 ## Awaiting client information (shown on the pages as placeholders or flagged)
 1. **Official founder portraits** (no legitimately reusable photos found — only third-party publication photos without licence).

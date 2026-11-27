@@ -2,6 +2,8 @@
 
 A static, two-page redesign of [Funngro](https://www.funngro.com) built for a website-development evaluation.
 
+**➡ Reviewers: start with the [delivery package](delivery/README.md).**
+
 - **Live evaluation site:** https://funngro-revamp-evaluation.netlify.app (`/` → `/earn`; marked `noindex`)
 - **Stack:** static HTML, modern CSS (layers, container-safe grids, fluid type), vanilla JS (progressive enhancement), Netlify.
 - **Design:** "Sticker Book" (premium) — warm paper, ink type, Funngro green, real Funngro photography and app screens. Fonts: Bricolage Grotesque + Figtree, self-hosted and subset, ₹ glyph verified.
@@ -9,6 +11,7 @@ A static, two-page redesign of [Funngro](https://www.funngro.com) built for a we
 
 | Folder | What's in it |
 |---|---|
+| `delivery/` | **Final delivery package** — overview, audits, QA, Lighthouse, facts, confirmations, deployment, submission summary, live screenshots |
 | `research/` | Phase 1 audit of the current site (incl. the original SEO audit) + verified facts register |
 | `strategy/` | Page strategy, structures, content, SEO and technical plans |
 | `design/` | Design research, three concepts, design system, implementation spec |
