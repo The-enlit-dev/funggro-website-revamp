@@ -32,8 +32,8 @@
 |---|---|
 | validator.schema.org | **0 errors** on both pages |
 | sitemap.xml vs sitemaps.org XSD | **Valid** (evaluation and production) |
-| robots.txt | Evaluation `Disallow: /`; production `Allow: /` + Sitemap |
-| Evaluation noindex | `<meta name="robots" content="noindex, nofollow">` + `X-Robots-Tag: noindex, nofollow` + robots.txt — confirmed live |
+| robots.txt | Evaluation `Allow: /`, no sitemap (crawlers must be able to read the noindex); production `Allow: /` + Sitemap |
+| Evaluation noindex | `<meta name="robots" content="noindex, nofollow">` + `X-Robots-Tag: noindex, nofollow` — confirmed live |
 | Lighthouse SEO | Evaluation **69** (because it is blocked from indexing — intended); production build **100** on both pages, mobile and desktop |
 | Links | Internal: all pass. External: 27 of 31 verified automatically; LinkedIn ×3 and IBS Intelligence block automated clients |
 

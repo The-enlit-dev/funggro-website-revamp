@@ -1,6 +1,6 @@
 # Evaluation deployment of the Funngro two-page redesign.
 # DEPLOY_TARGET defaults to "evaluation": pages get <meta name="robots" content="noindex, nofollow">,
-# an X-Robots-Tag header (generated into dist/_headers) and a Disallow-all robots.txt.
+# and an X-Robots-Tag header (generated into dist/_headers). robots.txt allows crawling so the noindex can be read.
 # To build the indexable version for www.funngro.com, set DEPLOY_TARGET=production (see DEPLOYMENT.md).
 [build]
   command = "npm run build"

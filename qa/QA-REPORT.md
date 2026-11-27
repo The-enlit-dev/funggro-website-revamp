@@ -19,7 +19,7 @@
 | SEO | sitemap.xml against sitemaps.org XSD | xmllint | **Valid** (evaluation + production) |
 | HTML | W3C Nu validator | vnu.jar | **0 errors**; only "role=list unnecessary" warnings (kept on purpose for Safari/VoiceOver) |
 | Routing | `/`→`/earn` 302 · `/teen`(/)→`/earn` 301 · `/earn/`, `/about.html` etc. → clean URL 301 · unknown → 404 page | curl | **Pass** |
-| Indexing | Evaluation = `noindex, nofollow` meta + `X-Robots-Tag` + robots `Disallow: /`; production build = indexable | curl, Lighthouse | **Pass** (noindex retained) |
+| Indexing | Evaluation = `noindex, nofollow` meta + `X-Robots-Tag`; robots.txt allows crawling so the noindex can be read (changed from `Disallow: /` in Phase 7); production build = indexable | curl, Lighthouse | **Pass** (noindex retained) |
 
 ## Lighthouse (median of 3 runs)
 | Page | Form | Live evaluation (P / A / BP / SEO) | Local production build (P / A / BP / SEO) | LCP (live) | CLS | TBT (live) | Weight (live) |

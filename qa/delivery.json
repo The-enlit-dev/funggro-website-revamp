@@ -188,7 +188,7 @@
   ],
   [
    "PASS",
-   "robots.txt disallows all (evaluation)",
+   "robots.txt allows crawling so noindex can be seen (evaluation)",
    ""
   ],
   [

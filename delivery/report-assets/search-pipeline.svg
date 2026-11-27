@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" font-family="Figtree, Helvetica, Arial, sans-serif" role="img" aria-label="How search engines process a page: crawl, render, index, rank">
+  <defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#0E1A12"/></marker></defs>
+  <rect width="900" height="330" rx="18" fill="#F6F1E7"/>
+  <g font-size="19" font-weight="800" fill="#0E1A12">
+    <rect x="28" y="40" width="180" height="84" rx="12" fill="#FFFDF8" stroke="#0E1A12" stroke-width="1.5"/><text x="118" y="78" text-anchor="middle">1 · Crawl</text>
+    <rect x="252" y="40" width="180" height="84" rx="12" fill="#FFD36B" stroke="#0E1A12" stroke-width="1.5"/><text x="342" y="78" text-anchor="middle">2 · Render</text>
+    <rect x="476" y="40" width="180" height="84" rx="12" fill="#FFFDF8" stroke="#0E1A12" stroke-width="1.5"/><text x="566" y="78" text-anchor="middle">3 · Index</text>
+    <rect x="700" y="40" width="172" height="84" rx="12" fill="#D2F28A" stroke="#0E1A12" stroke-width="1.5"/><text x="786" y="78" text-anchor="middle">4 · Rank</text>
+  </g>
+  <g font-size="13" fill="#1C2A21" text-anchor="middle">
+    <text x="118" y="102">fetch HTML, follow links</text><text x="342" y="102">run JavaScript (may wait)</text>
+    <text x="566" y="102">store content &amp; signals</text><text x="786" y="102">match to search queries</text>
+  </g>
+  <g stroke="#0E1A12" stroke-width="2" marker-end="url(#ar)"><line x1="210" y1="82" x2="248" y2="82"/><line x1="434" y1="82" x2="472" y2="82"/><line x1="658" y1="82" x2="696" y2="82"/></g>
+  <rect x="28" y="156" width="844" height="70" rx="12" fill="#FFFDF8" stroke="#C2410C" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <text x="48" y="184" font-size="15" font-weight="800" fill="#9A3412">Original funngro.com</text>
+  <text x="48" y="208" font-size="14" fill="#1C2A21">HTML at step 1 is an empty shell (&lt;div id="root"&gt;). Content exists only after step 2 — crawlers that don't run JavaScript see nothing.</text>
+  <rect x="28" y="240" width="844" height="70" rx="12" fill="#FFFDF8" stroke="#067A41" stroke-width="1.5"/>
+  <text x="48" y="268" font-size="15" font-weight="800" fill="#067A41">Redesign</text>
+  <text x="48" y="292" font-size="14" fill="#1C2A21">Static HTML: headings, text, links and structured data are already present at step 1 — no rendering needed.</text>
+</svg>

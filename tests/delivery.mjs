@@ -34,7 +34,7 @@ for (const p of ['/earn', '/about']) {
 }
 // robots + sitemap
 const robots = await (await fetch(base + '/robots.txt')).text();
-ok('robots.txt disallows all (evaluation)', /User-agent: \*\s+Disallow: \//.test(robots));
+ok('robots.txt allows crawling so noindex can be seen (evaluation)', /User-agent: \*\s+Allow: \//.test(robots) && !/Disallow: \//.test(robots) && !/Sitemap:/.test(robots));
 const sm = await (await fetch(base + '/sitemap.xml')).text();
 fs.writeFileSync('qa/sitemap.live.xml', sm);
 ok('sitemap lists exactly /earn and /about on this host', (sm.match(/<loc>/g) || []).length === 2 && sm.includes(`${base}/earn<`) && sm.includes(`${base}/about<`));

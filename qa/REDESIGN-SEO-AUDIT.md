@@ -36,7 +36,7 @@
 |---|---|---|
 | robots meta | noindex, nofollow | index, follow, max-image-preview:large |
 | X-Robots-Tag | noindex, nofollow | — (not sent) |
-| robots.txt | Disallow: / | Allow: / + Sitemap |
+| robots.txt | Allow: / (no sitemap; lets crawlers see the noindex) | Allow: / + Sitemap |
 | sitemap.xml | 2 URLs | 2 URLs (www.funngro.com) |
 | Lighthouse SEO | 69 (blocked from indexing — expected) | **100** both pages, mobile + desktop |
 | Core Web Vitals (lab, mobile) | LCP 0.9 s, CLS 0, TBT ≤ 70 ms | similar (local) |
@@ -48,7 +48,7 @@
 | Canonical = final URL; og:url = canonical | Pass (evaluation host; production build → www.funngro.com) |
 | Structured data — validator.schema.org | 0 errors on both pages — `schema-validator.json` |
 | sitemap.xml — sitemaps.org XSD | Valid (evaluation and production) — `sitemap.live.xml`, `sitemap.production.xml` |
-| robots.txt | Evaluation: `Disallow: /`; production: `Allow: /` + Sitemap — `robots.production.txt` |
+| robots.txt | Evaluation: `Allow: /`, no sitemap (corrected in Phase 7 — a `Disallow` would hide the noindex from crawlers); production: `Allow: /` + Sitemap — `robots.production.txt` |
 | Social previews | og:image 200, image/jpeg, 1200×630, same host, per page; Twitter `summary_large_image` |
 | Image alt + dimensions | All images have alt (decorative = empty) and width/height |
 | Internal links | All resolve (200/301 as designed); external links 27/31 verified, 4 blocked by bot protection (LinkedIn ×3, IBS Intelligence) |

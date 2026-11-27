@@ -9,7 +9,7 @@ npm run build                 # evaluation build (default) → dist/ — noindex
 npm run build:production      # indexable build for www.funngro.com — only with approval
 npm run serve                 # local preview at http://localhost:4173
 ```
-`DEPLOY_TARGET` controls indexing: `evaluation` (default) adds `noindex, nofollow` (meta + `X-Robots-Tag`) and a Disallow-all robots.txt; `production` removes all three, writes an indexable robots.txt + sitemap and sets canonicals to `https://www.funngro.com/earn` and `/about`.
+`DEPLOY_TARGET` controls indexing: `evaluation` (default) adds `noindex, nofollow` (meta + `X-Robots-Tag`) and a robots.txt that allows crawling (so crawlers can see the noindex) without a sitemap; `production` removes the noindex signals, writes an indexable robots.txt + sitemap and sets canonicals to `https://www.funngro.com/earn` and `/about`.
 
 ## Evaluation site (current)
 - https://funngro-revamp-evaluation.netlify.app (Netlify project `funngro-revamp-evaluation`), deployed via the Netlify API with `scripts/deploy-netlify.sh`.

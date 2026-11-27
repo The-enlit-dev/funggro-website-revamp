@@ -23,6 +23,7 @@
     "jsqr": "^1.4.0",
     "lighthouse": "^13.6.0",
     "lightningcss": "1.30",
+    "marked": "^12.0.2",
     "qrcode": "1.5",
     "sharp": "^0.34.5"
   }

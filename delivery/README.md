@@ -15,6 +15,10 @@ Two-page redesign of **Funngro**'s Teen page (`/earn`) and Company page (`/about
 > The evaluation site is deliberately **`noindex`** so it never competes with funngro.com in search. Nothing has been published on Funngro's official domain.
 > Until the pull request is merged, the repository's `main` branch only contains the initial README — review the code via the PR or the branch link.
 
+## SEO audit report (assignment deliverable)
+- **[Funngro-Website-SEO-Audit-Report.pdf](Funngro-Website-SEO-Audit-Report.pdf)** — 18-page report (editable source: [Funngro-Website-SEO-Audit-Report.md](Funngro-Website-SEO-Audit-Report.md); rebuild with `node scripts/build-report.cjs`)
+- [Submission-Remarks.md](Submission-Remarks.md) — short text for the submission form
+
 ## Read in this order
 | # | Document | What's in it |
 |---|---|---|

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" font-family="Figtree, Helvetica, Arial, sans-serif" role="img" aria-label="What a crawler receives before JavaScript runs: original versus redesign">
+  <rect width="900" height="360" rx="18" fill="#F6F1E7"/>
+  <text x="32" y="44" font-size="17" font-weight="800" fill="#9A3412">Original /earn — raw HTML (4,232 bytes)</text>
+  <rect x="24" y="58" width="414" height="276" rx="12" fill="#0E1A12"/>
+  <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" fill="#B9C4BC">
+    <text x="42" y="88">&lt;title&gt;How to Earn Online as a Teen</text>
+    <text x="42" y="106">  in India | Funngro&lt;/title&gt;</text>
+    <text x="42" y="124" fill="#FCA5A5">&lt;!-- no canonical in raw HTML --&gt;</text>
+    <text x="42" y="150">&lt;script type="module" src=</text>
+    <text x="42" y="168">  "/assets/index-….js"&gt;&lt;/script&gt;</text>
+    <text x="42" y="196">&lt;body&gt;</text>
+    <text x="62" y="214" fill="#FFD36B">&lt;div id="root"&gt;&lt;/div&gt;</text>
+    <text x="42" y="232">&lt;/body&gt;</text>
+    <text x="42" y="268" fill="#FCA5A5">h1 elements: 0</text>
+    <text x="42" y="286" fill="#FCA5A5">visible text: none</text>
+    <text x="42" y="304" fill="#FCA5A5">links: none</text>
+  </g>
+  <text x="470" y="44" font-size="17" font-weight="800" fill="#067A41">Redesign /earn — raw HTML</text>
+  <rect x="462" y="58" width="414" height="276" rx="12" fill="#0E1A12"/>
+  <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" fill="#B9C4BC">
+    <text x="480" y="88">&lt;title&gt;Earn Money Online as a Teen</text>
+    <text x="480" y="106">  in India — Funngro&lt;/title&gt;</text>
+    <text x="480" y="124" fill="#D2F28A">&lt;link rel="canonical" href="…/earn"&gt;</text>
+    <text x="480" y="142" fill="#D2F28A">&lt;meta property="og:url" …/earn&gt;</text>
+    <text x="480" y="160" fill="#D2F28A">&lt;script type="application/ld+json"&gt;</text>
+    <text x="480" y="196">&lt;h1&gt;Earn your first income</text>
+    <text x="480" y="214">  online, from real brands.&lt;/h1&gt;</text>
+    <text x="480" y="232">&lt;p&gt;Short paid tasks from brands…</text>
+    <text x="480" y="268" fill="#D2F28A">h1 elements: 1</text>
+    <text x="480" y="286" fill="#D2F28A">all copy, links, FAQ: present</text>
+    <text x="480" y="304" fill="#D2F28A">works with JavaScript disabled</text>
+  </g>
+</svg>

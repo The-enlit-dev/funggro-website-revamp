@@ -4,7 +4,7 @@ Static site: `src/` → `npm run build` → `dist/`. Hosted on Netlify.
 
 ## Evaluation site (current)
 - URL: https://funngro-revamp-evaluation.netlify.app (Netlify project `funngro-revamp-evaluation`)
-- Built with `DEPLOY_TARGET=evaluation` (the default) → every page has `noindex, nofollow`, an `X-Robots-Tag` header and a Disallow-all robots.txt, so it never competes with funngro.com in search.
+- Built with `DEPLOY_TARGET=evaluation` (the default) → every page has `noindex, nofollow`, and an `X-Robots-Tag` header, so it never competes with funngro.com in search. robots.txt deliberately allows crawling (a `Disallow` would stop crawlers from seeing the noindex) and lists no sitemap.
 - Deployed manually from this repo via the Netlify API:
   ```bash
   npm ci

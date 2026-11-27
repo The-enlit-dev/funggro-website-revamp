@@ -32,6 +32,12 @@ The brief's Phases 5 (SEO) and 6 (Testing) were delivered under the session's "P
 - [x] Fresh screenshots from the live evaluation site (desktop 1440, tablet 768, mobile 390; founders close-ups)
 - [x] Small fix found while capturing screenshots: on phones the proof pills hid the ★ next to "4.1" and showed the TV icon (wrapping "Season 2"); corrected, redeployed, full QA suite + Lighthouse re-run on the new deploy
 
+### Assignment deliverable — SEO audit report ✅
+- [x] `delivery/Funngro-Website-SEO-Audit-Report.pdf` (18 pages, A4) + editable source `.md`; build: `node scripts/build-report.cjs` (assets: `node scripts/report-assets.cjs`)
+- [x] `delivery/Submission-Remarks.md` (111 words + links)
+- [x] Verified: all figures cross-checked against `qa/` and `research/` raw results; 30/31 PDF links return 200 (Outlook Startup unreachable — noted in the report); fonts embedded; 10 images (real screenshots + Lighthouse panels)
+- [x] SEO correction found while writing the report: evaluation robots.txt changed from `Disallow: /` to `Allow: /` so crawlers can actually read the `noindex` (meta + X-Robots-Tag unchanged); redeployed and re-tested (delivery 27/27, metadata checks pass)
+
 ## In progress
 - Nothing.
 

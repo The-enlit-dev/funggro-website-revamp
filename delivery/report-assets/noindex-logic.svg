@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" font-family="Figtree, Helvetica, Arial, sans-serif" role="img" aria-label="Why the evaluation site allows crawling but uses noindex">
+  <defs><marker id="a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#0E1A12"/></marker></defs>
+  <rect width="900" height="250" rx="18" fill="#F6F1E7"/>
+  <text x="28" y="40" font-size="16" font-weight="800" fill="#9A3412">✗ robots.txt "Disallow: /" + noindex</text>
+  <g font-size="14" fill="#0E1A12">
+    <rect x="28" y="54" width="190" height="56" rx="10" fill="#FFFDF8" stroke="#0E1A12"/><text x="44" y="87">Crawler reads robots.txt</text>
+    <rect x="262" y="54" width="250" height="56" rx="10" fill="#FFFDF8" stroke="#0E1A12"/><text x="278" y="80">Not allowed to fetch the page</text><text x="278" y="99">→ never sees the noindex</text>
+    <rect x="556" y="54" width="316" height="56" rx="10" fill="#FFF1E6" stroke="#C2410C"/><text x="572" y="80">URL can still be indexed (without</text><text x="572" y="99">content) if other sites link to it</text>
+  </g>
+  <g stroke="#0E1A12" stroke-width="2" marker-end="url(#a3)"><line x1="220" y1="82" x2="258" y2="82"/><line x1="514" y1="82" x2="552" y2="82"/></g>
+  <text x="28" y="152" font-size="16" font-weight="800" fill="#067A41">✓ Used: robots.txt "Allow: /" + noindex (meta + X-Robots-Tag)</text>
+  <g font-size="14" fill="#0E1A12">
+    <rect x="28" y="166" width="190" height="56" rx="10" fill="#FFFDF8" stroke="#0E1A12"/><text x="44" y="199">Crawler reads robots.txt</text>
+    <rect x="262" y="166" width="250" height="56" rx="10" fill="#FFFDF8" stroke="#0E1A12"/><text x="278" y="192">Fetches the page and reads</text><text x="278" y="211">"noindex, nofollow"</text>
+    <rect x="556" y="166" width="316" height="56" rx="10" fill="#D2F28A" stroke="#0E1A12"/><text x="572" y="192">Page kept out of search results;</text><text x="572" y="211">funngro.com stays the only version</text>
+  </g>
+  <g stroke="#0E1A12" stroke-width="2" marker-end="url(#a3)"><line x1="220" y1="194" x2="258" y2="194"/><line x1="514" y1="194" x2="552" y2="194"/></g>
+</svg>

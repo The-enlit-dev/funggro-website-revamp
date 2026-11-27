@@ -73,7 +73,7 @@ All `<img>` get `width`/`height`, `decoding="async"`, lazy except hero.
 
 ## 6. SEO implementation
 Per `strategy/05`. Build reads `DEPLOY_TARGET` (`evaluation` default | `production`) and `SITE_URL` (Netlify `URL` env or explicit).
-- evaluation: `<meta name="robots" content="noindex, nofollow">`, `_headers` adds `X-Robots-Tag: noindex, nofollow`, `robots.txt` = `Disallow: /`, canonical = evaluation URL.
+- evaluation: `<meta name="robots" content="noindex, nofollow">`, `_headers` adds `X-Robots-Tag: noindex, nofollow`, `robots.txt` = `Allow: /` (no sitemap — a Disallow would hide the noindex from crawlers; corrected in Phase 7), canonical = evaluation URL.
 - production: robots `index, follow`, no X-Robots-Tag, normal robots.txt with sitemap, canonical `https://www.funngro.com/...`.
 The noindex logic lives only in this repo's build; nothing touches funngro.com.
 

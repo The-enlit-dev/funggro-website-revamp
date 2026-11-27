@@ -157,7 +157,7 @@ await fs.writeFile(path.join(DIST, '_headers'), [
 
 await fs.writeFile(path.join(DIST, 'robots.txt'), INDEXABLE
   ? `User-agent: *\nAllow: /\n\nSitemap: ${SITE_URL}/sitemap.xml\n`
-  : `# Evaluation deployment — not for indexing. The official site is ${cfg.productionUrl}\nUser-agent: *\nDisallow: /\n`);
+  : `# Evaluation deployment — kept out of search results by noindex (meta robots + X-Robots-Tag).\n# Crawling is allowed on purpose: a robots.txt block would stop crawlers from ever seeing the noindex.\n# The official site is ${cfg.productionUrl}\nUser-agent: *\nAllow: /\n`);
 const today = new Date().toISOString().slice(0, 10);
 await fs.writeFile(path.join(DIST, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${['earn', 'about'].map((p) => `  <url><loc>${SITE_URL}${cfg.pages[p].path}</loc><lastmod>${today}</lastmod></url>`).join('\n')}\n</urlset>\n`);
 console.log('done');

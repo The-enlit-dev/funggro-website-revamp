@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" font-family="Figtree, Helvetica, Arial, sans-serif" role="img" aria-label="The three pillars of SEO">
+  <rect width="900" height="300" rx="18" fill="#F6F1E7"/>
+  <g>
+    <rect x="24" y="24" width="270" height="252" rx="14" fill="#FFFDF8" stroke="#0E1A12" stroke-width="1.5"/>
+    <rect x="24" y="24" width="270" height="58" rx="14" fill="#D2F28A"/><rect x="24" y="66" width="270" height="16" fill="#D2F28A"/>
+    <text x="44" y="61" font-size="21" font-weight="800" fill="#0E1A12">On-page SEO</text>
+    <text x="44" y="112" font-size="14.5" fill="#1C2A21">What's on the page itself</text>
+    <text x="44" y="146" font-size="14" fill="#1C2A21">• Titles &amp; meta descriptions</text>
+    <text x="44" y="172" font-size="14" fill="#1C2A21">• Headings (H1–H3) &amp; content</text>
+    <text x="44" y="198" font-size="14" fill="#1C2A21">• Keywords &amp; search intent</text>
+    <text x="44" y="224" font-size="14" fill="#1C2A21">• Image alt text, internal links</text>
+    <text x="44" y="250" font-size="14" fill="#1C2A21">• Structured data</text>
+  </g>
+  <g>
+    <rect x="315" y="24" width="270" height="252" rx="14" fill="#FFFDF8" stroke="#0E1A12" stroke-width="1.5"/>
+    <rect x="315" y="24" width="270" height="58" rx="14" fill="#0E1A12"/><rect x="315" y="66" width="270" height="16" fill="#0E1A12"/>
+    <text x="335" y="61" font-size="21" font-weight="800" fill="#F6F1E7">Technical SEO</text>
+    <text x="335" y="112" font-size="14.5" fill="#1C2A21">Can search engines read it?</text>
+    <text x="335" y="146" font-size="14" fill="#1C2A21">• Crawling &amp; rendering</text>
+    <text x="335" y="172" font-size="14" fill="#1C2A21">• Indexing, robots, canonicals</text>
+    <text x="335" y="198" font-size="14" fill="#1C2A21">• Status codes &amp; redirects</text>
+    <text x="335" y="224" font-size="14" fill="#1C2A21">• Sitemap.xml, robots.txt</text>
+    <text x="335" y="250" font-size="14" fill="#1C2A21">• Speed, mobile, Core Web Vitals</text>
+  </g>
+  <g>
+    <rect x="606" y="24" width="270" height="252" rx="14" fill="#FFFDF8" stroke="#0E1A12" stroke-width="1.5"/>
+    <rect x="606" y="24" width="270" height="58" rx="14" fill="#A8E6C4"/><rect x="606" y="66" width="270" height="16" fill="#A8E6C4"/>
+    <text x="626" y="61" font-size="21" font-weight="800" fill="#0E1A12">Off-page SEO</text>
+    <text x="626" y="112" font-size="14.5" fill="#1C2A21">Trust signals from elsewhere</text>
+    <text x="626" y="146" font-size="14" fill="#1C2A21">• Backlinks from credible sites</text>
+    <text x="626" y="172" font-size="14" fill="#1C2A21">• Press &amp; brand mentions</text>
+    <text x="626" y="198" font-size="14" fill="#1C2A21">• Social &amp; store profiles</text>
+    <text x="626" y="224" font-size="14" fill="#1C2A21">• Reviews &amp; ratings</text>
+    <text x="626" y="250" font-size="14" fill="#1C2A21">• Brand search demand</text>
+  </g>
+</svg>
