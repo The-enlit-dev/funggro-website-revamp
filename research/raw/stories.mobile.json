@@ -1,0 +1,610 @@
+{
+ "status": 200,
+ "data": {
+  "url": "https://www.funngro.com/stories",
+  "title": "Real Earner Stories — Teens Earning with Brands | Funngro",
+  "desc": "Real Funngro creators from Delhi, Bengaluru, Lucknow, Patna. See how teens and Gen-Z earners ship work for India's top brands and get paid in UPI.",
+  "canonical": "https://funngro.com/stories",
+  "robots": null,
+  "og": {
+   "title": "Real Earner Stories — Teens Earning with Brands | Funngro",
+   "desc": "Real Funngro creators from Delhi, Bengaluru, Lucknow, Patna. See how teens and Gen-Z earners ship work for India's top brands and get paid in UPI.",
+   "url": "https://funngro.com/stories",
+   "image": "https://funngro.com/og-image.jpg"
+  },
+  "h1": [
+   "From classrooms to real paycheques."
+  ],
+  "h2": [
+   "Sarthak",
+   "Anshika",
+   "Ashwani",
+   "Sayyam Mehta",
+   "Yash Raj Singh",
+   "Swarnim Prateek",
+   "Ujjwal Dubey",
+   "Sujit",
+   "Sk Alamin",
+   "Shreyas Murail",
+   "Sayandeep",
+   "Naitik Mishra",
+   "Kaushal",
+   "Ankush Borana",
+   "Harshit Ramteke",
+   "Every one of them started with one task."
+  ],
+  "h3": [],
+  "links": [
+   {
+    "t": "Read the inside story ▸",
+    "h": "https://www.funngro.com/stories#shark-tank"
+   },
+   {
+    "t": "",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "Earn",
+    "h": "https://www.funngro.com/earn"
+   },
+   {
+    "t": "Stories",
+    "h": "https://www.funngro.com/stories"
+   },
+   {
+    "t": "For Brands",
+    "h": "https://www.funngro.com/for-brands"
+   },
+   {
+    "t": "Arcade",
+    "h": "https://www.funngro.com/arcade"
+   },
+   {
+    "t": "SheLancer",
+    "h": "https://www.funngro.com/shelancer"
+   },
+   {
+    "t": "About",
+    "h": "https://www.funngro.com/about"
+   },
+   {
+    "t": "Blog",
+    "h": "https://www.funngro.com/blog"
+   },
+   {
+    "t": "Download →",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "HOME",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "01 · DELHI Sarthak STARTED AT 14 · ₹3.9L+ EARNED “100 rejection emails. Never quit. Now I write Funngro's product.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/sarthak"
+   },
+   {
+    "t": "02 · HARYANA Anshika JOINED MAY '24 · ₹2.25L+ · 1,200+ REFERRALS “Thought earning apps were fake. First payout changed everything.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/anshika"
+   },
+   {
+    "t": "03 · DELHI Ashwani JOINED MAY '24 · ₹66K+ · 200+ PROJECTS “Thought it was fake. The mistake was mine.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/ashwani"
+   },
+   {
+    "t": "04 · SURAT, GUJARAT Sayyam Mehta JOINED 2024 · ₹63K+ EARNED “First live meeting helped me take the right steps.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/sayyam"
+   },
+   {
+    "t": "06 · FARIDABAD Swarnim Prateek JOINED JUN '24 · 170+ PROJECTS “Didn't know anything. Chose to learn step by step.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/swarnim"
+   },
+   {
+    "t": "07 · DELHI Ujjwal Dubey JOINED APR '24 · 80+ PROJECTS · 600+ MEMBERS “From Class 12 curiosity to managing two clans.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/ujjwal"
+   },
+   {
+    "t": "08 · YAVATMAL, MH Sujit — · SKILLS + EARNINGS “Real projects and quick payments make it worth it.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/sujit"
+   },
+   {
+    "t": "09 · BARDHAMAN, WB Sk Alamin — · REAL-WORLD EXPOSURE “Helped me grow personally and professionally.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/sk-alamin"
+   },
+   {
+    "t": "10 · BANGALORE Shreyas Murail — · SKILLS + CONFIDENCE “Practical skills, confidence, and a clearer vision.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/shreyas"
+   },
+   {
+    "t": "11 · DAKSHINESWAR, WB Sayandeep JOINED JAN '25 · ₹12K+ · 165+ PROJECTS “From Clan member to Clan Leader through pure consistency.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/sayandeep"
+   },
+   {
+    "t": "12 · PRAYAGRAJ Naitik Mishra JOINED OCT '24 · LEADS TEAM “Took initiative. Got promoted. Growing step by step.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/naitik"
+   },
+   {
+    "t": "14 · KOPPAL, KARNATAKA Ankush Borana JOINED 2024 · ₹20K+ · 160+ PROJECTS “Discovered Funngro on Shark Tank India. Beginner to leader.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/ankush"
+   },
+   {
+    "t": "15 · NAGPUR Harshit Ramteke JOINED 2024 · MEMBER → CLAN LEADER “Simple, empowering, and worth every bit of the journey.” READ THE FULL STORY ▸",
+    "h": "https://www.funngro.com/stories/harshit"
+   },
+   {
+    "t": "Download app →",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "Try a task first ▸",
+    "h": "https://www.funngro.com/earn"
+   },
+   {
+    "t": "",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "",
+    "h": "https://www.instagram.com/fun.n.gro"
+   },
+   {
+    "t": "",
+    "h": "https://www.linkedin.com/company/funngro/"
+   },
+   {
+    "t": "",
+    "h": "https://www.youtube.com/@funngro_India"
+   },
+   {
+    "t": "",
+    "h": "https://www.facebook.com/funngro/"
+   },
+   {
+    "t": "",
+    "h": "https://x.com/funngroofficial"
+   },
+   {
+    "t": "",
+    "h": "https://whatsapp.com/channel/0029VaC43g0DTkK1Q83jMy2N"
+   },
+   {
+    "t": "",
+    "h": "https://www.reddit.com/r/Funngro/s/84Daz5VWhI"
+   },
+   {
+    "t": "",
+    "h": "https://www.snapchat.com/add/funngrocrew?share_id=Idmk9-fyUzg&locale=en-GB"
+   },
+   {
+    "t": "",
+    "h": "https://funngro.quora.com/?ch=10&oid=7898718&share=396067ef&srid=5Rmfj9&target_type=tribe"
+   },
+   {
+    "t": "",
+    "h": "https://mojapp.in/@officialfunngro?referrer=VKFdCqq-c9rYZz"
+   },
+   {
+    "t": "How it works",
+    "h": "https://www.funngro.com/earn"
+   },
+   {
+    "t": "Stories",
+    "h": "https://www.funngro.com/stories"
+   },
+   {
+    "t": "Arcade",
+    "h": "https://www.funngro.com/arcade"
+   },
+   {
+    "t": "SheLancer",
+    "h": "https://www.funngro.com/shelancer"
+   },
+   {
+    "t": "For brands",
+    "h": "https://www.funngro.com/for-brands"
+   },
+   {
+    "t": "Contact sales",
+    "h": "https://www.funngro.com/contact?from=sales"
+   },
+   {
+    "t": "About",
+    "h": "https://www.funngro.com/about"
+   },
+   {
+    "t": "Careers",
+    "h": "https://www.funngro.com/careers"
+   },
+   {
+    "t": "Press",
+    "h": "https://www.funngro.com/press"
+   },
+   {
+    "t": "Trust & safety",
+    "h": "https://www.funngro.com/trust"
+   },
+   {
+    "t": "Blog",
+    "h": "https://www.funngro.com/blog"
+   },
+   {
+    "t": "FAQ",
+    "h": "https://www.funngro.com/faq"
+   },
+   {
+    "t": "Contact",
+    "h": "mailto:teenlancer@funngro.com"
+   },
+   {
+    "t": "Privacy policy",
+    "h": "https://www.funngro.com/privacy-policy"
+   },
+   {
+    "t": "Terms & conditions",
+    "h": "https://www.funngro.com/terms-and-conditions"
+   }
+  ],
+  "buttons": [
+   "EN",
+   "Hi-En",
+   "हिं",
+   "All",
+   "Full-Time",
+   "Clan Leader",
+   "Try a task first ▸"
+  ],
+  "imgs": [
+   {
+    "src": "https://www.funngro.com/assets/sarthak-JEn2W_Kg.jpg",
+    "alt": "Portrait of Sarthak",
+    "w": 440,
+    "h": 512,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/anshika-pAAPWHhq.jpg",
+    "alt": "Portrait of Anshika",
+    "w": 675,
+    "h": 900,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/ashwani-SiRn6cf8.jpg",
+    "alt": "Portrait of Ashwani",
+    "w": 716,
+    "h": 716,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/sayyam-mehta-AeEdVr_7.jpg",
+    "alt": "Portrait of Sayyam Mehta",
+    "w": 506,
+    "h": 900,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/yashraj-singh-B3L6hm7T.jpg",
+    "alt": "Portrait of Yash Raj Singh",
+    "w": 812,
+    "h": 900,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/swarnim-prateek-DTj-8Wo4.jpg",
+    "alt": "Portrait of Swarnim Prateek",
+    "w": 675,
+    "h": 900,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/ujjwal-dubey-CJkNhre1.jpg",
+    "alt": "Portrait of Ujjwal Dubey",
+    "w": 900,
+    "h": 900,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/sujit-DM1cE_lH.jpg",
+    "alt": "Portrait of Sujit",
+    "w": 787,
+    "h": 900,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/sk-alamin-Cp90SUkU.jpg",
+    "alt": "Portrait of Sk Alamin",
+    "w": 675,
+    "h": 900,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/shreyas-murali-CyTQq9w3.jpg",
+    "alt": "Portrait of Shreyas Murail",
+    "w": 607,
+    "h": 900,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/sayandeep-CCDeXwxb.jpg",
+    "alt": "Portrait of Sayandeep",
+    "w": 675,
+    "h": 900,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/naitik-mishra-CG3pxFIL.jpg",
+    "alt": "Portrait of Naitik Mishra",
+    "w": 783,
+    "h": 900,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/kaushal-rajput-Dwx8jKVH.jpg",
+    "alt": "Portrait of Kaushal",
+    "w": 761,
+    "h": 900,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/ankush-borana-etwVzPar.jpg",
+    "alt": "Portrait of Ankush Borana",
+    "w": 506,
+    "h": 900,
+    "lazy": "lazy"
+   },
+   {
+    "src": "https://www.funngro.com/assets/harshit-ramteke-D2t6Dqek.jpg",
+    "alt": "Portrait of Harshit Ramteke",
+    "w": 506,
+    "h": 900,
+    "lazy": "lazy"
+   }
+  ],
+  "jsonld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Funngro\",\"legalName\":\"Funngro Innovations Pvt Ltd\",\"url\":\"https://funngro.com\",\"logo\":\"https://funngro.com/og-image.jpg\",\"email\":\"hello@funngro.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"2105 Wing F, Fantacy Land, CTS No 1, Opp Majas Depot, Jogeshwari E, J V Link Road\",\"addressLocality\":\"Mumbai\",\"addressRegion\":\"Maharashtra\",\"postalCode\":\"400060\",\"addressCountry\":\"IN\"},\"description\":\"Funngro is India's earning app for young creators. 70 lakh Indians earn by working with India's biggest brands.\"}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://funngro.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Stories\",\"item\":\"https://funngro.com/stories\"}]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Funngro\",\"legalName\":\"Wishbanc Technologies Private Limited\",\"url\":\"https://www.funngro.com\",\"logo\":\"https://www.funngro.com/og-image.jpg\",\"email\":\"hello@funngro.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"2105 Wing F, Fantacy Land, CTS No 1, Opp Majas Depot, Jogeshwari E, J V Link Road\",\"addressLocality\":\"Mumbai\",\"addressRegion\":\"Maharashtra\",\"postalCode\":\"400060\",\"addressCountry\":\"IN\"},\"sameAs\":[\"https://www.instagram.com/fun.n.gro\",\"https://x.com/funngroofficial\",\"https://www.linkedin.com/company/funngro/\",\"https://www.youtube.com/@funngro_India\"],\"description\":\"Funngro is India's earning app for young creators. 70 lakh Indians earn by working with India's biggest brands.\"}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.funngro.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Stories\",\"item\":\"https://www.funngro.com/stories\"}]}"
+  ],
+  "lang": "en-IN",
+  "bodyText": "🦈 Shark Tank India S2 · Backed by SucSEED\n\nDownload\n→\nHOME\n·\nSTORIES\n\n· REAL FUNNGRO EARNERS ·\n\nFrom classrooms to real paycheques.\n\nReal earners. Real cities. Real paths up the income & influence ladder.\n\nFILTER BY ROLE\nAll\nFull-Time\nClan Leader\n\n01 · DELHI\n\nSarthak\n\nSTARTED AT 14 · ₹3.9L+ EARNED\n\n“100 rejection emails. Never quit. Now I write Funngro's product.”\n\nREAD THE FULL STORY ▸\n\n02 · HARYANA\n\nAnshika\n\nJOINED MAY '24 · ₹2.25L+ · 1,200+ REFERRALS\n\n“Thought earning apps were fake. First payout changed everything.”\n\nREAD THE FULL STORY ▸\n\n03 · DELHI\n\nAshwani\n\nJOINED MAY '24 · ₹66K+ · 200+ PROJECTS\n\n“Thought it was fake. The mistake was mine.”\n\nREAD THE FULL STORY ▸\n\n04 · SURAT, GUJARAT\n\nSayyam Mehta\n\nJOINED 2024 · ₹63K+ EARNED\n\n“First live meeting helped me take the right steps.”\n\nREAD THE FULL STORY ▸\n\n05 · CHITTARANJAN, WB\n\nYash Raj Singh\n\nJOINED 2024 · ₹60K+ · 72+ PROJECTS\n\n“Bought a smartphone with my own money. Gifted one to my mom.”\n\nCOMING SOON\n\n06 · FARIDABAD\n\nSwarnim Prateek\n\nJOINED JUN '24 · 170+ PROJECTS\n\n“Didn't know anything. Chose to learn step by step.”\n\nREAD THE FULL STORY ▸\n\n07 · DELHI\n\nUjjwal Dubey\n\nJOINED APR '24 · 80+ PROJECTS · 600+ MEMBERS\n\n“From Class 12 curiosity to managing two clans.”\n\nREAD THE FULL STORY ▸\n\n08 · YAVATMAL, MH\n\nSujit\n\n— · SKILLS + EARNINGS\n\n“Real projects and quick payments make it worth it.”\n\nREAD THE FULL STORY ▸\n\n09 · BARDHAMAN, WB\n\nSk Alamin\n\n— · REAL-WORLD EXPOSURE\n\n“Helped me grow personally and professionally.”\n\nREAD THE FULL STORY ▸\n\n10 · BANGALORE\n\nShreyas Murail\n\n— · SKILLS + CONFIDENCE\n\n“Practical skills, confidence, and a clearer vision.”\n\nREAD THE FULL STORY ▸\n\n11 · DAKSHINESWAR, WB\n\nSayandeep\n\nJOINED JAN '25 · ₹12K+ · 165+ PROJECTS\n\n“From Clan member to Clan Leader through pure consistency.”\n\nREAD THE FULL STORY ▸\n\n12 · PRAYAGRAJ\n\nNaitik Mishra\n\nJOINED OCT '24 · LEADS TEAM\n\n“Took initiative. Got promoted. Growing step by step.”\n\nREAD THE FULL STORY ▸\n\n13 · FARIDABAD\n\nKaushal\n\n— · —\n\n“Part of the Funngro community.”\n\nCOMING SOON\n\n14 · KOPPAL, KARNATAKA\n\nAnkush Borana\n\nJOINED 2024 · ₹20K+ · 160+ PROJECTS\n\n“Discovered Funngro on Shark Tank India. Beginner to leader.”\n\nREAD THE FULL STORY ▸\n\n15 · NAGPUR\n\nHarshit Ramteke\n\nJOINED 2024 · MEMBER → CLAN LEADER\n\n“Simple, empowering, and worth every bit of the journey.”\n\nREAD THE FULL STORY ▸\n\n· YOUR TURN ·\n\nEvery one of them started with one task.\n\nYou can too.\n\nDownload app\n→\nTry a task first ▸\n\nIndia’s youth · India’s brands. Get paid in UPI or bank transfer for the work you actually want to do.\n\n© 2026 WISHBANC TECHNOLOGIES PRIVATE LIMITED · BRAND: FUNNGRO · MADE IN INDIA\n\nEARN\n\nHow it works\nStories\nArcade\nSheLancer\n\nBRANDS\n\nFor brands\nContact sales\n\nCOMPANY\n\nAbout\nCareers\nPress\nTrust & safety\nBlog\nFAQ\nContact\n\nLEGAL\n\nPrivacy policy\nTerms & conditions\n★ 4.2 PLAY STORE · 70 LAKH+ YOUNG INDIANS\n🦈 SHARK TANK INDIA S2 · BACKED BY SUCSEED INDOVATION",
+  "docH": 12300,
+  "hScroll": false,
+  "fonts": [
+   "\"Instrument Serif\", ui-serif, Georgia, serif",
+   "\"JetBrains Mono\", ui-monospace, monospace",
+   "\"Work Sans\", ui-sans-serif, system-ui, sans-serif"
+  ],
+  "navTiming": {
+   "dcl": 384.1000000000058,
+   "load": 384.30000000001746
+  }
+ },
+ "logs": [],
+ "failed": [],
+ "reqs": [
+  {
+   "u": "https://www.funngro.com/stories",
+   "s": 200,
+   "t": "text/html; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/index-CpBGto_a.css",
+   "s": 200,
+   "t": "text/css; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/events.1851fa895e86309c.js",
+   "s": 200,
+   "t": "application/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/index-B9DQHu7M.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/PlaceholderImage-BzEfMHNJ.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/Stories-C3HvlJA2.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/PageShell-xmxrBUzN.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/PageHeader-BM6lUdXM.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/sujit-iCmYlSs1.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/sk-alamin-BC4TfuFE.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/shreyas-murali-Dv0wHiP-.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/harshit-ramteke-nSyRfzE9.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/kaushal-rajput-5Tb2KLIq.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/trackevents",
+   "s": 202,
+   "t": "application/json",
+   "l": "17"
+  },
+  {
+   "u": "https://www.funngro.com/assets/work-sans-latin-700-normal-CEeo_t6l.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "20840"
+  },
+  {
+   "u": "https://www.funngro.com/assets/jetbrains-mono-latin-400-normal-V6pRDFza.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "21168"
+  },
+  {
+   "u": "https://www.funngro.com/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "21032"
+  },
+  {
+   "u": "https://www.funngro.com/assets/work-sans-latin-400-normal-jUejSri3.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "19900"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://www.funngro.com/assets/sarthak-JEn2W_Kg.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "41879"
+  },
+  {
+   "u": "https://www.funngro.com/assets/work-sans-latin-600-normal-DB-2V89X.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "20984"
+  },
+  {
+   "u": "https://www.funngro.com/assets/anshika-pAAPWHhq.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "120667"
+  },
+  {
+   "u": "https://www.funngro.com/assets/ashwani-SiRn6cf8.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "46548"
+  },
+  {
+   "u": "https://www.funngro.com/assets/jetbrains-mono-latin-ext-400-normal-Bc8Ftmh3.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "7336"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/trackevents",
+   "s": 202,
+   "t": "application/json",
+   "l": "17"
+  },
+  {
+   "u": "https://www.funngro.com/assets/sayyam-mehta-AeEdVr_7.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "60366"
+  },
+  {
+   "u": "https://www.funngro.com/assets/yashraj-singh-B3L6hm7T.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "83901"
+  },
+  {
+   "u": "https://www.funngro.com/assets/swarnim-prateek-DTj-8Wo4.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "67327"
+  },
+  {
+   "u": "https://www.funngro.com/assets/ujjwal-dubey-CJkNhre1.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "95825"
+  },
+  {
+   "u": "https://www.funngro.com/assets/sujit-DM1cE_lH.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "153604"
+  },
+  {
+   "u": "https://www.funngro.com/assets/sk-alamin-Cp90SUkU.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "83640"
+  },
+  {
+   "u": "https://www.funngro.com/assets/shreyas-murali-CyTQq9w3.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "38902"
+  },
+  {
+   "u": "https://www.funngro.com/assets/sayandeep-CCDeXwxb.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "90097"
+  },
+  {
+   "u": "https://www.funngro.com/assets/naitik-mishra-CG3pxFIL.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "55657"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://www.funngro.com/assets/kaushal-rajput-Dwx8jKVH.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "30985"
+  },
+  {
+   "u": "https://www.funngro.com/assets/ankush-borana-etwVzPar.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "18781"
+  },
+  {
+   "u": "https://www.funngro.com/assets/harshit-ramteke-D2t6Dqek.jpg",
+   "s": 200,
+   "t": "image/jpeg",
+   "l": "50925"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  }
+ ]
+}

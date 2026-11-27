@@ -1,0 +1,304 @@
+{
+ "status": 200,
+ "data": {
+  "url": "https://www.funngro.com/trust",
+  "title": "Trust & Safety at Funngro — How We Protect Earners",
+  "desc": "How Funngro keeps payouts safe, verifies brand work, protects minors and runs UPI payments. Every safeguard, in plain English.",
+  "canonical": "https://funngro.com/trust",
+  "robots": null,
+  "og": {
+   "title": "Trust & Safety at Funngro — How We Protect Earners",
+   "desc": "How Funngro keeps payouts safe, verifies brand work, protects minors and runs UPI payments. Every safeguard, in plain English.",
+   "url": "https://funngro.com/trust",
+   "image": "https://funngro.com/og-image.jpg"
+  },
+  "h1": [
+   "Real brands. Real money. Real safety rails."
+  ],
+  "h2": [
+   "A real team. A real inbox.",
+   "Real money. Built on real safety."
+  ],
+  "h3": [
+   "Verified accounts",
+   "Verified brand campaigns",
+   "Instant UPI payout",
+   "DPDP-compliant data handling"
+  ],
+  "links": [
+   {
+    "t": "READ THE INSIDE STORY ▸",
+    "h": "https://www.funngro.com/trust#shark-tank"
+   },
+   {
+    "t": "",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "Earn",
+    "h": "https://www.funngro.com/earn"
+   },
+   {
+    "t": "Stories",
+    "h": "https://www.funngro.com/stories"
+   },
+   {
+    "t": "For Brands",
+    "h": "https://www.funngro.com/for-brands"
+   },
+   {
+    "t": "Arcade",
+    "h": "https://www.funngro.com/arcade"
+   },
+   {
+    "t": "SheLancer",
+    "h": "https://www.funngro.com/shelancer"
+   },
+   {
+    "t": "About",
+    "h": "https://www.funngro.com/about"
+   },
+   {
+    "t": "Blog",
+    "h": "https://www.funngro.com/blog"
+   },
+   {
+    "t": "Download →",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "HOME",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "Download Funngro →",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "",
+    "h": "https://www.instagram.com/fun.n.gro"
+   },
+   {
+    "t": "",
+    "h": "https://www.linkedin.com/company/funngro/"
+   },
+   {
+    "t": "",
+    "h": "https://www.youtube.com/@funngro_India"
+   },
+   {
+    "t": "",
+    "h": "https://www.facebook.com/funngro/"
+   },
+   {
+    "t": "",
+    "h": "https://x.com/funngroofficial"
+   },
+   {
+    "t": "",
+    "h": "https://whatsapp.com/channel/0029VaC43g0DTkK1Q83jMy2N"
+   },
+   {
+    "t": "",
+    "h": "https://www.reddit.com/r/Funngro/s/84Daz5VWhI"
+   },
+   {
+    "t": "",
+    "h": "https://www.snapchat.com/add/funngrocrew?share_id=Idmk9-fyUzg&locale=en-GB"
+   },
+   {
+    "t": "",
+    "h": "https://funngro.quora.com/?ch=10&oid=7898718&share=396067ef&srid=5Rmfj9&target_type=tribe"
+   },
+   {
+    "t": "",
+    "h": "https://mojapp.in/@officialfunngro?referrer=VKFdCqq-c9rYZz"
+   },
+   {
+    "t": "How it works",
+    "h": "https://www.funngro.com/earn"
+   },
+   {
+    "t": "Stories",
+    "h": "https://www.funngro.com/stories"
+   },
+   {
+    "t": "Arcade",
+    "h": "https://www.funngro.com/arcade"
+   },
+   {
+    "t": "SheLancer",
+    "h": "https://www.funngro.com/shelancer"
+   },
+   {
+    "t": "For brands",
+    "h": "https://www.funngro.com/for-brands"
+   },
+   {
+    "t": "Contact sales",
+    "h": "https://www.funngro.com/contact?from=sales"
+   },
+   {
+    "t": "About",
+    "h": "https://www.funngro.com/about"
+   },
+   {
+    "t": "Careers",
+    "h": "https://www.funngro.com/careers"
+   },
+   {
+    "t": "Press",
+    "h": "https://www.funngro.com/press"
+   },
+   {
+    "t": "Trust & safety",
+    "h": "https://www.funngro.com/trust"
+   },
+   {
+    "t": "Blog",
+    "h": "https://www.funngro.com/blog"
+   },
+   {
+    "t": "FAQ",
+    "h": "https://www.funngro.com/faq"
+   },
+   {
+    "t": "Contact",
+    "h": "mailto:teenlancer@funngro.com"
+   },
+   {
+    "t": "Privacy policy",
+    "h": "https://www.funngro.com/privacy-policy"
+   },
+   {
+    "t": "Terms & conditions",
+    "h": "https://www.funngro.com/terms-and-conditions"
+   }
+  ],
+  "buttons": [
+   "EN",
+   "Hi-En",
+   "हिं"
+  ],
+  "imgs": [],
+  "jsonld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Funngro\",\"legalName\":\"Funngro Innovations Pvt Ltd\",\"url\":\"https://funngro.com\",\"logo\":\"https://funngro.com/og-image.jpg\",\"email\":\"hello@funngro.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"2105 Wing F, Fantacy Land, CTS No 1, Opp Majas Depot, Jogeshwari E, J V Link Road\",\"addressLocality\":\"Mumbai\",\"addressRegion\":\"Maharashtra\",\"postalCode\":\"400060\",\"addressCountry\":\"IN\"},\"description\":\"Funngro is India's earning app for young creators. 70 lakh Indians earn by working with India's biggest brands.\"}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://funngro.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Trust\",\"item\":\"https://funngro.com/trust\"}]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Funngro\",\"legalName\":\"Wishbanc Technologies Private Limited\",\"url\":\"https://www.funngro.com\",\"logo\":\"https://www.funngro.com/og-image.jpg\",\"email\":\"hello@funngro.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"2105 Wing F, Fantacy Land, CTS No 1, Opp Majas Depot, Jogeshwari E, J V Link Road\",\"addressLocality\":\"Mumbai\",\"addressRegion\":\"Maharashtra\",\"postalCode\":\"400060\",\"addressCountry\":\"IN\"},\"sameAs\":[\"https://www.instagram.com/fun.n.gro\",\"https://x.com/funngroofficial\",\"https://www.linkedin.com/company/funngro/\",\"https://www.youtube.com/@funngro_India\"],\"description\":\"Funngro is India's earning app for young creators. 70 lakh Indians earn by working with India's biggest brands.\"}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.funngro.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Trust\",\"item\":\"https://www.funngro.com/trust\"}]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.funngro.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Trust & Safety\",\"item\":\"https://www.funngro.com/trust\"}]}"
+  ],
+  "lang": "en-IN",
+  "bodyText": "🦈 As seen on Shark Tank India · Season 2 · Investment from Amit Jain · Funngro is now backed by SucSEED.\n\nREAD THE INSIDE STORY ▸\nEarn\nStories\nFor Brands\nArcade\nSheLancer\nAbout\nBlog\nEN\nHi-En\nहिं\nDownload\n→\nHOME\n·\nTRUST & SAFETY\n\n· TRUST & SAFETY ·\n\nReal brands. Real money. Real safety rails.\n\nEvery brand campaign on Funngro is reviewed before it goes live. Every payout runs on UPI rails operated by India's largest banks. Your data stays in India. And if anything ever goes wrong, there's a real human you can call.\n\n· FOUR PILLARS ·\n\n01\nVerified accounts\n\nEvery Funngro account is verified at sign-up via OTP. Real person, one account. Prevents fake profiles, protects honest earners, and keeps brand campaigns clean.\n\n—\nOTP verification at sign-up\n—\nDuplicate-account detection\n—\nNo bot accounts. Ever.\n02\nVerified brand campaigns\n\nEvery brand campaign passes a content-moderation review before going live. We don't run anything we wouldn't want our own kids doing — no adult content, no gambling, no MLM, no anything sketchy.\n\n—\nContent moderation on every brief\n—\nBrand identity verified\n—\nPayout escrow before launch\n03\nInstant UPI payout\n\nMoney lands in your UPI account in seconds for repeat earners; first-time payouts within 24 hours of submission. Zero withdrawal fees. The rails are operated by India's largest banks — same as your salary or any other UPI transfer.\n\n—\nRepeat payout in seconds\n—\nFirst payout under 24 hours\n—\nZero withdrawal fees\n04\nDPDP-compliant data handling\n\nYour data stays in India. We collect the minimum needed to match you to the right campaigns — including your mobile number, which we also use to verify you and to keep fraudulent and duplicate accounts off the platform. You can delete your account anytime in three taps inside the app: we remove your personally identifiable data within 90 days, and keep only your mobile number (or a secure hash of it) plus a minimal account record to block repeat fraud, along with anything the law requires.\n\n—\nData residency: India only\n—\nConsent-first tracking\n—\nDelete-my-data flow in-app, cleared within 90 days\n\n· REPORT AN ISSUE ·\n\nA real team. A real inbox.\n\nIf something goes wrong — an unfair task rejection, a brand behaving badly, a data concern — we have a dedicated safety team. You can email or escalate inside the app. Most platforms in this category don’t even publish a contact. We do.\n\nEMAIL\n\nSafety inbox\n\nteenlancer@funngro.com\n\nINSIDE THE APP\n\nReport flow\n\nProfile → Help → Report an issue\n\nRESPONSE TIME\n\nMedian\n\nUnder 4 hours\n\n· READY ·\n\nReal money. Built on real safety.\nDownload Funngro\n→\n\nIndia’s youth · India’s brands. Get paid in UPI or bank transfer for the work you actually want to do.\n\n© 2026 WISHBANC TECHNOLOGIES PRIVATE LIMITED · BRAND: FUNNGRO · MADE IN INDIA\n\nEARN\n\nHow it works\nStories\nArcade\nSheLancer\n\nBRANDS\n\nFor brands\nContact sales\n\nCOMPANY\n\nAbout\nCareers\nPress\nTrust & safety\nBlog\nFAQ\nContact\n\nLEGAL\n\nPrivacy policy\nTerms & conditions\n★ 4.2 PLAY STORE · 70 LAKH+ YOUNG INDIANS\n🦈 SHARK TANK INDIA S2 · BACKED BY SUCSEED INDOVATION",
+  "docH": 3133,
+  "hScroll": false,
+  "fonts": [
+   "\"Instrument Serif\", ui-serif, Georgia, serif",
+   "\"JetBrains Mono\", ui-monospace, monospace",
+   "\"Work Sans\", ui-sans-serif, system-ui, sans-serif"
+  ],
+  "navTiming": {
+   "dcl": 594.1999999999971,
+   "load": 594.2999999999884
+  }
+ },
+ "logs": [],
+ "failed": [],
+ "reqs": [
+  {
+   "u": "https://www.funngro.com/trust",
+   "s": 200,
+   "t": "text/html; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/index-CpBGto_a.css",
+   "s": 200,
+   "t": "text/css; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/events.1851fa895e86309c.js",
+   "s": 200,
+   "t": "application/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/index-B9DQHu7M.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/PageShell-xmxrBUzN.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/PageHeader-BM6lUdXM.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/Trust-C8qmZeQD.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/trackevents",
+   "s": 202,
+   "t": "application/json",
+   "l": "17"
+  },
+  {
+   "u": "https://www.funngro.com/assets/work-sans-latin-400-normal-jUejSri3.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "19900"
+  },
+  {
+   "u": "https://www.funngro.com/assets/jetbrains-mono-latin-400-normal-V6pRDFza.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "21168"
+  },
+  {
+   "u": "https://www.funngro.com/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "21032"
+  },
+  {
+   "u": "https://www.funngro.com/assets/work-sans-latin-700-normal-CEeo_t6l.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "20840"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/trackevents",
+   "s": 202,
+   "t": "application/json",
+   "l": "17"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  }
+ ]
+}

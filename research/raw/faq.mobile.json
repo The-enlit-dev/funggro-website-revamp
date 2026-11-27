@@ -1,0 +1,371 @@
+{
+ "status": 200,
+ "data": {
+  "url": "https://www.funngro.com/faq",
+  "title": "FAQ — Earners and Brands on Funngro",
+  "desc": "Answers for earners and brands: payouts, verification, age rules, campaign approval, refunds, support timelines. Everything in one place.",
+  "canonical": "https://funngro.com/faq",
+  "robots": null,
+  "og": {
+   "title": "FAQ — Earners and Brands on Funngro",
+   "desc": "Answers for earners and brands: payouts, verification, age rules, campaign approval, refunds, support timelines. Everything in one place.",
+   "url": "https://funngro.com/faq",
+   "image": "https://funngro.com/og-image.jpg"
+  },
+  "h1": [
+   "Everything you’re wondering."
+  ],
+  "h2": [
+   "If you’re here to earn.",
+   "Ask us. Real humans reply."
+  ],
+  "h3": [
+   "Who can join Funngro?",
+   "How much can I actually earn?",
+   "Is there any fee to join?",
+   "How do I get paid?",
+   "How long does a payout take?",
+   "What kinds of tasks can I do?",
+   "What are benefits of Funngro?",
+   "How do I start earning?",
+   "What is a Toffee project?",
+   "What is Share & Earn (Funngro Earnify)?",
+   "What is Groscore? What are its benefits?",
+   "Is there an earnings limit?",
+   "How much can I win via Spin?",
+   "Can I leave a project?",
+   "What are the benefits of inviting friends?",
+   "Who is a Clan Leader, and what are the benefits of a Clan?",
+   "What is Funngro Happy Hour?",
+   "Are there contests on Funngro?",
+   "Why should a child use Funngro?",
+   "How long does it take to mark a project?",
+   "How do I stay updated on new projects?",
+   "What is an Evaluation Project?",
+   "How do I get Company Projects?",
+   "What skills can I learn?",
+   "How do I get support?",
+   "When are earnings added?",
+   "Why was my project marked for rework?",
+   "How do I withdraw my earnings?",
+   "Are there any hidden charges during withdrawal?",
+   "Can I use the same account on multiple devices?",
+   "How can I earn without a PAN card?",
+   "How is my data protected?",
+   "Is Funngro safe and legit?",
+   "What actions can lead to account suspension?"
+  ],
+  "links": [
+   {
+    "t": "Read the inside story ▸",
+    "h": "https://www.funngro.com/faq#shark-tank"
+   },
+   {
+    "t": "",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "Earn",
+    "h": "https://www.funngro.com/earn"
+   },
+   {
+    "t": "Stories",
+    "h": "https://www.funngro.com/stories"
+   },
+   {
+    "t": "For Brands",
+    "h": "https://www.funngro.com/for-brands"
+   },
+   {
+    "t": "Arcade",
+    "h": "https://www.funngro.com/arcade"
+   },
+   {
+    "t": "SheLancer",
+    "h": "https://www.funngro.com/shelancer"
+   },
+   {
+    "t": "About",
+    "h": "https://www.funngro.com/about"
+   },
+   {
+    "t": "Blog",
+    "h": "https://www.funngro.com/blog"
+   },
+   {
+    "t": "Download →",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "HOME",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "Contact us →",
+    "h": "https://www.funngro.com/contact"
+   },
+   {
+    "t": "",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "",
+    "h": "https://www.instagram.com/fun.n.gro"
+   },
+   {
+    "t": "",
+    "h": "https://www.linkedin.com/company/funngro/"
+   },
+   {
+    "t": "",
+    "h": "https://www.youtube.com/@funngro_India"
+   },
+   {
+    "t": "",
+    "h": "https://www.facebook.com/funngro/"
+   },
+   {
+    "t": "",
+    "h": "https://x.com/funngroofficial"
+   },
+   {
+    "t": "",
+    "h": "https://whatsapp.com/channel/0029VaC43g0DTkK1Q83jMy2N"
+   },
+   {
+    "t": "",
+    "h": "https://www.reddit.com/r/Funngro/s/84Daz5VWhI"
+   },
+   {
+    "t": "",
+    "h": "https://www.snapchat.com/add/funngrocrew?share_id=Idmk9-fyUzg&locale=en-GB"
+   },
+   {
+    "t": "",
+    "h": "https://funngro.quora.com/?ch=10&oid=7898718&share=396067ef&srid=5Rmfj9&target_type=tribe"
+   },
+   {
+    "t": "",
+    "h": "https://mojapp.in/@officialfunngro?referrer=VKFdCqq-c9rYZz"
+   },
+   {
+    "t": "How it works",
+    "h": "https://www.funngro.com/earn"
+   },
+   {
+    "t": "Stories",
+    "h": "https://www.funngro.com/stories"
+   },
+   {
+    "t": "Arcade",
+    "h": "https://www.funngro.com/arcade"
+   },
+   {
+    "t": "SheLancer",
+    "h": "https://www.funngro.com/shelancer"
+   },
+   {
+    "t": "For brands",
+    "h": "https://www.funngro.com/for-brands"
+   },
+   {
+    "t": "Contact sales",
+    "h": "https://www.funngro.com/contact?from=sales"
+   },
+   {
+    "t": "About",
+    "h": "https://www.funngro.com/about"
+   },
+   {
+    "t": "Careers",
+    "h": "https://www.funngro.com/careers"
+   },
+   {
+    "t": "Press",
+    "h": "https://www.funngro.com/press"
+   },
+   {
+    "t": "Trust & safety",
+    "h": "https://www.funngro.com/trust"
+   },
+   {
+    "t": "Blog",
+    "h": "https://www.funngro.com/blog"
+   },
+   {
+    "t": "FAQ",
+    "h": "https://www.funngro.com/faq"
+   },
+   {
+    "t": "Contact",
+    "h": "mailto:teenlancer@funngro.com"
+   },
+   {
+    "t": "Privacy policy",
+    "h": "https://www.funngro.com/privacy-policy"
+   },
+   {
+    "t": "Terms & conditions",
+    "h": "https://www.funngro.com/terms-and-conditions"
+   }
+  ],
+  "buttons": [
+   "EN",
+   "Hi-En",
+   "हिं",
+   "For earners",
+   "For brands",
+   "Who can join Funngro?",
+   "How much can I actually earn?",
+   "Is there any fee to join?",
+   "How do I get paid?",
+   "How long does a payout take?",
+   "What kinds of tasks can I do?",
+   "What are benefits of Funngro?",
+   "How do I start earning?",
+   "What is a Toffee project?",
+   "What is Share & Earn (Funngro Earnify)?",
+   "What is Groscore? What are its benefits?",
+   "Is there an earnings limit?",
+   "How much can I win via Spin?",
+   "Can I leave a project?",
+   "What are the benefits of inviting friends?",
+   "Who is a Clan Leader, and what are the benefits of a Clan?",
+   "What is Funngro Happy Hour?",
+   "Are there contests on Funngro?",
+   "Why should a child use Funngro?",
+   "How long does it take to mark a project?",
+   "How do I stay updated on new projects?",
+   "What is an Evaluation Project?",
+   "How do I get Company Projects?",
+   "What skills can I learn?",
+   "How do I get support?",
+   "When are earnings added?",
+   "Why was my project marked for rework?",
+   "How do I withdraw my earnings?",
+   "Are there any hidden charges during withdrawal?",
+   "Can I use the same account on multiple devices?",
+   "How can I earn without a PAN card?",
+   "How is my data protected?",
+   "Is Funngro safe and legit?",
+   "What actions can lead to account suspension?",
+   "Contact us →"
+  ],
+  "imgs": [],
+  "jsonld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Funngro\",\"legalName\":\"Funngro Innovations Pvt Ltd\",\"url\":\"https://funngro.com\",\"logo\":\"https://funngro.com/og-image.jpg\",\"email\":\"hello@funngro.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"2105 Wing F, Fantacy Land, CTS No 1, Opp Majas Depot, Jogeshwari E, J V Link Road\",\"addressLocality\":\"Mumbai\",\"addressRegion\":\"Maharashtra\",\"postalCode\":\"400060\",\"addressCountry\":\"IN\"},\"description\":\"Funngro is India's earning app for young creators. 70 lakh Indians earn by working with India's biggest brands.\"}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://funngro.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Faq\",\"item\":\"https://funngro.com/faq\"}]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Funngro\",\"legalName\":\"Wishbanc Technologies Private Limited\",\"url\":\"https://www.funngro.com\",\"logo\":\"https://www.funngro.com/og-image.jpg\",\"email\":\"hello@funngro.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"2105 Wing F, Fantacy Land, CTS No 1, Opp Majas Depot, Jogeshwari E, J V Link Road\",\"addressLocality\":\"Mumbai\",\"addressRegion\":\"Maharashtra\",\"postalCode\":\"400060\",\"addressCountry\":\"IN\"},\"sameAs\":[\"https://www.instagram.com/fun.n.gro\",\"https://x.com/funngroofficial\",\"https://www.linkedin.com/company/funngro/\",\"https://www.youtube.com/@funngro_India\"],\"description\":\"Funngro is India's earning app for young creators. 70 lakh Indians earn by working with India's biggest brands.\"}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Who can join Funngro?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Any young Indian between 14 and 25. Sign up takes about two minutes — OTP verification, that's it. You're in.\"}},{\"@type\":\"Question\",\"name\":\"How much can I actually earn?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Honestly: the average active user earns around ₹4,100 per month. The top 5% earn ₹18,000+. Where you land depends on how much time you put in and which campaign types you pick. Starters (surveys, brand tasks) earn ₹1K–3K/mo. Growers (referrals, content) earn ₹3K–7K/mo. Builders (clan leadership, sales, brand partnerships) earn ₹7K–15K+/mo.\"}},{\"@type\":\"Question\",\"name\":\"Is there any fee to join?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. Free forever. Zero withdrawal fees. Zero subscription. Zero hidden anything. Funngro is paid by brands, not by you.\"}},{\"@type\":\"Question\",\"name\":\"How do I get paid?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Earnings hit your UPI in seconds for verified tasks. We support all major UPI handles (PhonePe, GPay, Paytm, BHIM). The minimum withdrawal is small enough that most users hit it on day one. There's no waiting period, no manual approval queue, no hidden fee.\"}},{\"@type\":\"Question\",\"name\":\"How long does a payout take?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"For verified tasks, instant. For tasks that need manual review (some UGC, content), up to 24 hours. The median first payout across all users is under 24 hours from first submission.\"}},{\"@type\":\"Question\",\"name\":\"What kinds of tasks can I do?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Four core categories: brand promotion (post for brands you use), referrals (invite-and-earn from real brand partners), micro tasks (sampling, surveys, app testing, ideation), and content creation (UGC, reviews, video). Fresh campaigns drop daily from real brands.\"}},{\"@type\":\"Question\",\"name\":\"What are benefits of Funngro?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Funngro helps young people earn money, learn real skills, and gain practical work experience in a safe and simple way.\"}},{\"@type\":\"Question\",\"name\":\"How do I start earning?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Start earning by completing Evaluation or Toffee Projects first. Once you submit good-quality work, you will unlock paid Company Projects.\"}},{\"@type\":\"Question\",\"name\":\"What is a Toffee project?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Toffee Projects are simple tasks like surveys, playing games, or app downloads. They are quick-earning tasks with fast approval, easy income, and you can do unlimited Toffee Projects.\"}},{\"@type\":\"Question\",\"name\":\"What is Share & Earn (Funngro Earnify)?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Share & Earn (Earnify) lets you share projects with others. When they complete the project using your shared link, you earn money.\"}},{\"@type\":\"Question\",\"name\":\"What is Groscore? What are its benefits?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Groscore is a scoring system that rewards your activity and boosts your visibility to companies. You earn Groscore by completing projects, referring friends, daily login, and more. A higher Groscore helps you unlock better projects and higher earnings.\"}},{\"@type\":\"Question\",\"name\":\"Is there an earnings limit?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No, there is no earning limit. You can earn as much as you want based on the number of projects you complete.\"}},{\"@type\":\"Question\",\"name\":\"How much can I win via Spin?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can win up to ₹1,000 per spin. You get 3 free spins to start, and you can earn more spins by completing projects. You can spin once per day.\"}},{\"@type\":\"Question\",\"name\":\"Can I leave a project?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes — simply tap Leave to exit a project. However, some projects may not allow you to reapply once you leave, so choose carefully.\"}},{\"@type\":\"Question\",\"name\":\"What are the benefits of inviting friends?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You earn ₹5 when they complete their first project, and 5% of their earnings for a lifetime. Inviting friends gives you steady, long-term income.\"}},{\"@type\":\"Question\",\"name\":\"Who is a Clan Leader, and what are the benefits of a Clan?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A Clan Leader helps you with your Funngro queries and guides you if you need help with any project. Joining a clan keeps you updated about all contests, special events, and earning opportunities.\"}},{\"@type\":\"Question\",\"name\":\"What is Funngro Happy Hour?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Funngro Happy Hour is a special time between 6–10 PM when new projects and exclusive contests are launched. Log in daily during this period to grab extra earning opportunities.\"}},{\"@type\":\"Question\",\"name\":\"Are there contests on Funngro?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes — Funngro regularly hosts contests where you can win extra rewards, bonuses, and exclusive prizes. Contests are announced inside the app, and you can join them to earn more by completing simple tasks faster and better than others.\"}},{\"@type\":\"Question\",\"name\":\"Why should a child use Funngro?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Because it's cool to be digital. Because it's cool to be responsible. Because it's fun to earn additional pocket money. And because a teen debit card is awesome for getting your wishes fulfilled — by parents, by friends, and most importantly, on your own.\"}},{\"@type\":\"Question\",\"name\":\"How long does it take to mark a project?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Most projects get marked in less than 10 days. For a specific project, please check the project description.\"}},{\"@type\":\"Question\",\"name\":\"How do I stay updated on new projects?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can stay updated on new projects by checking the app regularly, turning on notifications, and joining a clan — Clan Leaders often share project updates instantly.\"}},{\"@type\":\"Question\",\"name\":\"What is an Evaluation Project?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"An Evaluation Project is a practice task that helps you learn and improve your skills. Completing it boosts your Groscore and increases your chances of getting real, paid Company Projects.\"}},{\"@type\":\"Question\",\"name\":\"How do I get Company Projects?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can get Company Projects by completing Evaluation Projects with good quality, maintaining a high Groscore, and staying active on the app. Better performance = more Company Project opportunities.\"}},{\"@type\":\"Question\",\"name\":\"What skills can I learn?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can learn real-world skills like writing, editing, marketing, research, communication, and design basics — all useful for future jobs.\"}},{\"@type\":\"Question\",\"name\":\"How do I get support?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can get support through Live Support, the Chatbot, your Clan Leader, WhatsApp help, or email. Just tap the Help icon on the home page to access all support options.\"}},{\"@type\":\"Question\",\"name\":\"When are earnings added?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Your earnings are added to your Funngro wallet once the project is reviewed and approved. You can check all earnings in the Wallet section of the app.\"}},{\"@type\":\"Question\",\"name\":\"Why was my project marked for rework?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Your project was marked for rework because it was incomplete or did not match the company's instructions. Check the feedback and fix the issues. If you need help, message HELP on WhatsApp support.\"}},{\"@type\":\"Question\",\"name\":\"How do I withdraw my earnings?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Go to the Wallet section in the Funngro app and tap Withdraw. Add your bank or UPI details, enter the amount, and confirm the withdrawal.\"}},{\"@type\":\"Question\",\"name\":\"Are there any hidden charges during withdrawal?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No, there are no hidden charges. Any applicable fees will be clearly mentioned before you proceed with the withdrawal.\"}},{\"@type\":\"Question\",\"name\":\"Can I use the same account on multiple devices?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes, you can log in to your account on multiple devices. However, avoid frequent switching to prevent security issues.\"}},{\"@type\":\"Question\",\"name\":\"How can I earn without a PAN card?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can earn without a PAN card by doing Toffee Projects like surveys, app downloads, and games. You can also earn via Share & Earn and contests.\"}},{\"@type\":\"Question\",\"name\":\"How is my data protected?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Your data is protected using secure encryption and strict privacy measures. We do not share your personal information without consent.\"}},{\"@type\":\"Question\",\"name\":\"Is Funngro safe and legit?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes, Funngro is a safe and legitimate platform that partners with trusted brands and ensures secure transactions.\"}},{\"@type\":\"Question\",\"name\":\"What actions can lead to account suspension?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Activities like fake referrals, fake submissions, spamming, misuse of campaigns, or violating platform guidelines can lead to account suspension.\"}},{\"@type\":\"Question\",\"name\":\"How is Funngro different from Meta Ads?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Meta optimises for impressions. You pay for eyeballs. Funngro pays per verified action — brand task, referral, content asset, first transaction, sales conversion. In our fintech benchmark, we delivered ₹38 CPA vs Meta's ₹117 on the same campaign. 2.5× ROI. 68% completion vs 8–12% industry.\"}},{\"@type\":\"Question\",\"name\":\"What does a typical CPA look like?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It depends on campaign type. Brand promotion ₹30–₹80. Referral campaigns ₹80–₹150. UGC ₹150–₹500 per asset. Sampling ₹40–₹120 per pickup. Sales support 2–6% of sale. Brand partnership and influencer briefs: custom.\"}},{\"@type\":\"Question\",\"name\":\"How do I run my first campaign?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Book a 20-minute demo. We review your current CPA, recommend a Funngro campaign mix, and give you a live projection vs your Meta benchmark. Typical pilot starts at ₹2–5 lakh. Three-campaign retainers available after the pilot.\"}}]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.funngro.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"FAQ\",\"item\":\"https://www.funngro.com/faq\"}]}"
+  ],
+  "lang": "en-IN",
+  "bodyText": "🦈 Shark Tank India S2 · Backed by SucSEED\n\nDownload\n→\nHOME\n·\nFAQ\n\n· QUESTIONS · ANSWERED ONCE, PLAINLY ·\n\nEverything you’re wondering.\n\nThe questions we get most often, answered plainly — for young earners and for brands.\n\nFor earners\nFor brands\n\n· FOR THE YOUNG EARNER ·\n\nIf you’re here to earn.\nWho can join Funngro?\nHow much can I actually earn?\nIs there any fee to join?\nHow do I get paid?\nHow long does a payout take?\nWhat kinds of tasks can I do?\nWhat are benefits of Funngro?\nHow do I start earning?\nWhat is a Toffee project?\nWhat is Share & Earn (Funngro Earnify)?\nWhat is Groscore? What are its benefits?\nIs there an earnings limit?\nHow much can I win via Spin?\nCan I leave a project?\nWhat are the benefits of inviting friends?\nWho is a Clan Leader, and what are the benefits of a Clan?\nWhat is Funngro Happy Hour?\nAre there contests on Funngro?\nWhy should a child use Funngro?\nHow long does it take to mark a project?\nHow do I stay updated on new projects?\nWhat is an Evaluation Project?\nHow do I get Company Projects?\nWhat skills can I learn?\nHow do I get support?\nWhen are earnings added?\nWhy was my project marked for rework?\nHow do I withdraw my earnings?\nAre there any hidden charges during withdrawal?\nCan I use the same account on multiple devices?\nHow can I earn without a PAN card?\nHow is my data protected?\nIs Funngro safe and legit?\nWhat actions can lead to account suspension?\n\n· STILL HAVE QUESTIONS? ·\n\nAsk us. Real humans reply.\nContact us\n→\n\nIndia’s youth · India’s brands. Get paid in UPI or bank transfer for the work you actually want to do.\n\n© 2026 WISHBANC TECHNOLOGIES PRIVATE LIMITED · BRAND: FUNNGRO · MADE IN INDIA\n\nEARN\n\nHow it works\nStories\nArcade\nSheLancer\n\nBRANDS\n\nFor brands\nContact sales\n\nCOMPANY\n\nAbout\nCareers\nPress\nTrust & safety\nBlog\nFAQ\nContact\n\nLEGAL\n\nPrivacy policy\nTerms & conditions\n★ 4.2 PLAY STORE · 70 LAKH+ YOUNG INDIANS\n🦈 SHARK TANK INDIA S2 · BACKED BY SUCSEED INDOVATION",
+  "docH": 4381,
+  "hScroll": false,
+  "fonts": [
+   "\"Instrument Serif\", ui-serif, Georgia, serif",
+   "\"JetBrains Mono\", ui-monospace, monospace",
+   "\"Work Sans\", ui-sans-serif, system-ui, sans-serif"
+  ],
+  "navTiming": {
+   "dcl": 465,
+   "load": 465.1000000000058
+  }
+ },
+ "logs": [],
+ "failed": [],
+ "reqs": [
+  {
+   "u": "https://www.funngro.com/faq",
+   "s": 200,
+   "t": "text/html; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/events.1851fa895e86309c.js",
+   "s": 200,
+   "t": "application/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/index-CpBGto_a.css",
+   "s": 200,
+   "t": "text/css; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/index-B9DQHu7M.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/PageHeader-BM6lUdXM.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/PageShell-xmxrBUzN.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/FAQ-BhG7S60i.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/work-sans-latin-700-normal-CEeo_t6l.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "20840"
+  },
+  {
+   "u": "https://www.funngro.com/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "21032"
+  },
+  {
+   "u": "https://www.funngro.com/assets/jetbrains-mono-latin-400-normal-V6pRDFza.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "21168"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/trackevents",
+   "s": 202,
+   "t": "application/json",
+   "l": "17"
+  },
+  {
+   "u": "https://www.funngro.com/assets/work-sans-latin-400-normal-jUejSri3.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "19900"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/trackevents",
+   "s": 202,
+   "t": "application/json",
+   "l": "17"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  }
+ ]
+}

@@ -1,0 +1,419 @@
+{
+ "status": 200,
+ "data": {
+  "url": "https://www.funngro.com/arcade",
+  "title": "Funngro Arcade — Play & Earn Apps for Gen-Z India",
+  "desc": "Twenty apps in the Funngro Arcade. Play games, earn rewards, redeem in UPI. Built for India's young creators and earners.",
+  "canonical": "https://funngro.com/arcade",
+  "robots": null,
+  "og": {
+   "title": "Funngro Arcade — Play & Earn Apps for Gen-Z India",
+   "desc": "Twenty apps in the Funngro Arcade. Play games, earn rewards, redeem in UPI. Built for India's young creators and earners.",
+   "url": "https://funngro.com/arcade",
+   "image": "https://funngro.com/og-image.jpg"
+  },
+  "h1": [
+   "Twenty apps. Four ways to use them."
+  ],
+  "h2": [
+   "Start here. The rest are extras.",
+   "Apps that pay you.",
+   "Apps that teach.",
+   "Flex your mind.",
+   "Pass time.",
+   "Want all twenty? Download Funngro."
+  ],
+  "h3": [
+   "Funngro",
+   "Funngro SheLancer",
+   "Bug Bash",
+   "Skill Quest",
+   "Learn & Earn",
+   "Financial Literacy",
+   "Maths Function",
+   "Sudoku",
+   "Crossword",
+   "Word Cookie Fun",
+   "Free Flow",
+   "2048",
+   "Chess",
+   "Solitaire",
+   "Water Splash",
+   "Ball Bounce",
+   "Brick Breaker",
+   "Tetris",
+   "Tic Tac Toe",
+   "Ludo"
+  ],
+  "links": [
+   {
+    "t": "READ THE INSIDE STORY ▸",
+    "h": "https://www.funngro.com/arcade#shark-tank"
+   },
+   {
+    "t": "",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "Earn",
+    "h": "https://www.funngro.com/earn"
+   },
+   {
+    "t": "Stories",
+    "h": "https://www.funngro.com/stories"
+   },
+   {
+    "t": "For Brands",
+    "h": "https://www.funngro.com/for-brands"
+   },
+   {
+    "t": "Arcade",
+    "h": "https://www.funngro.com/arcade"
+   },
+   {
+    "t": "SheLancer",
+    "h": "https://www.funngro.com/shelancer"
+   },
+   {
+    "t": "About",
+    "h": "https://www.funngro.com/about"
+   },
+   {
+    "t": "Blog",
+    "h": "https://www.funngro.com/blog"
+   },
+   {
+    "t": "Download →",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "HOME",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "F Funngro PRIMARY The main earning app. Brand campaigns, instant UPI/bank payouts, the Income Ladder. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "S Funngro SheLancer PRIMARY Women-only vertical. Verified, safe, women-only campaigns and Clans. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngroshelancer"
+   },
+   {
+    "t": "01 · EARN",
+    "h": "https://www.funngro.com/arcade#earn"
+   },
+   {
+    "t": "02 · LEARN",
+    "h": "https://www.funngro.com/arcade#learn"
+   },
+   {
+    "t": "03 · PUZZLE & BRAIN",
+    "h": "https://www.funngro.com/arcade#puzzle"
+   },
+   {
+    "t": "04 · PLAY & CLASSICS",
+    "h": "https://www.funngro.com/arcade#play"
+   },
+   {
+    "t": "B Bug Bash EARN Find bugs in real apps. Get paid per valid report. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.bugbash"
+   },
+   {
+    "t": "Q Skill Quest EARN Prove your skill in different subjects. Earn per completed challenge. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.learnandearn"
+   },
+   {
+    "t": "L Learn & Earn EARN Learn a topic, pass the check, get paid. Play now ▸",
+    "h": "https://fun-learn-earn.lovable.app/"
+   },
+   {
+    "t": "F Financial Literacy LEARN Money basics for young Indians, bite-sized. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.financial_literacy"
+   },
+   {
+    "t": "M Maths Function LEARN Drills for add, subtract, multiply, divide. Timed. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.maths"
+   },
+   {
+    "t": "S Sudoku PUZZLE Daily logic grid. Streaks and leaderboards. Play now ▸",
+    "h": "https://sudoku-joy-levels.lovable.app/"
+   },
+   {
+    "t": "C Crossword PUZZLE India-themed crosswords, updated daily. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "W Word Cookie Fun PUZZLE Build words from letter tiles. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "F Free Flow PUZZLE Connect coloured dots without crossing lines. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "2 2048 PUZZLE The tile-merging classic, smoother. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "♛ Chess PUZZLE Play against the app or friends. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "S Solitaire PUZZLE Klondike + Spider. Quiet classic. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "W Water Splash PLAY Quick reflex arcade. Tap, dodge, score. Play now ▸",
+    "h": "https://splash-sort-buddy.lovable.app/"
+   },
+   {
+    "t": "B Ball Bounce PLAY Speed keeps climbing. How long can you last? Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "B Brick Breaker PLAY The classic. Polished for 2026. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "T Tetris PLAY You know the rules. We made it smoother. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "T Tic Tac Toe PLAY Play with friends. Private rooms. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "L Ludo PLAY Four-player classic. Voice rooms, tournaments. Play Store ▸",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "Download Funngro →",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "",
+    "h": "https://www.instagram.com/fun.n.gro"
+   },
+   {
+    "t": "",
+    "h": "https://www.linkedin.com/company/funngro/"
+   },
+   {
+    "t": "",
+    "h": "https://www.youtube.com/@funngro_India"
+   },
+   {
+    "t": "",
+    "h": "https://www.facebook.com/funngro/"
+   },
+   {
+    "t": "",
+    "h": "https://x.com/funngroofficial"
+   },
+   {
+    "t": "",
+    "h": "https://whatsapp.com/channel/0029VaC43g0DTkK1Q83jMy2N"
+   },
+   {
+    "t": "",
+    "h": "https://www.reddit.com/r/Funngro/s/84Daz5VWhI"
+   },
+   {
+    "t": "",
+    "h": "https://www.snapchat.com/add/funngrocrew?share_id=Idmk9-fyUzg&locale=en-GB"
+   },
+   {
+    "t": "",
+    "h": "https://funngro.quora.com/?ch=10&oid=7898718&share=396067ef&srid=5Rmfj9&target_type=tribe"
+   },
+   {
+    "t": "",
+    "h": "https://mojapp.in/@officialfunngro?referrer=VKFdCqq-c9rYZz"
+   },
+   {
+    "t": "How it works",
+    "h": "https://www.funngro.com/earn"
+   },
+   {
+    "t": "Stories",
+    "h": "https://www.funngro.com/stories"
+   },
+   {
+    "t": "Arcade",
+    "h": "https://www.funngro.com/arcade"
+   },
+   {
+    "t": "SheLancer",
+    "h": "https://www.funngro.com/shelancer"
+   },
+   {
+    "t": "For brands",
+    "h": "https://www.funngro.com/for-brands"
+   },
+   {
+    "t": "Contact sales",
+    "h": "https://www.funngro.com/contact?from=sales"
+   },
+   {
+    "t": "About",
+    "h": "https://www.funngro.com/about"
+   },
+   {
+    "t": "Careers",
+    "h": "https://www.funngro.com/careers"
+   },
+   {
+    "t": "Press",
+    "h": "https://www.funngro.com/press"
+   },
+   {
+    "t": "Trust & safety",
+    "h": "https://www.funngro.com/trust"
+   },
+   {
+    "t": "Blog",
+    "h": "https://www.funngro.com/blog"
+   },
+   {
+    "t": "FAQ",
+    "h": "https://www.funngro.com/faq"
+   },
+   {
+    "t": "Contact",
+    "h": "mailto:teenlancer@funngro.com"
+   },
+   {
+    "t": "Privacy policy",
+    "h": "https://www.funngro.com/privacy-policy"
+   },
+   {
+    "t": "Terms & conditions",
+    "h": "https://www.funngro.com/terms-and-conditions"
+   }
+  ],
+  "buttons": [
+   "EN",
+   "Hi-En",
+   "हिं"
+  ],
+  "imgs": [],
+  "jsonld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Funngro\",\"legalName\":\"Funngro Innovations Pvt Ltd\",\"url\":\"https://funngro.com\",\"logo\":\"https://funngro.com/og-image.jpg\",\"email\":\"hello@funngro.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"2105 Wing F, Fantacy Land, CTS No 1, Opp Majas Depot, Jogeshwari E, J V Link Road\",\"addressLocality\":\"Mumbai\",\"addressRegion\":\"Maharashtra\",\"postalCode\":\"400060\",\"addressCountry\":\"IN\"},\"description\":\"Funngro is India's earning app for young creators. 70 lakh Indians earn by working with India's biggest brands.\"}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://funngro.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Arcade\",\"item\":\"https://funngro.com/arcade\"}]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Funngro\",\"legalName\":\"Wishbanc Technologies Private Limited\",\"url\":\"https://www.funngro.com\",\"logo\":\"https://www.funngro.com/og-image.jpg\",\"email\":\"hello@funngro.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"2105 Wing F, Fantacy Land, CTS No 1, Opp Majas Depot, Jogeshwari E, J V Link Road\",\"addressLocality\":\"Mumbai\",\"addressRegion\":\"Maharashtra\",\"postalCode\":\"400060\",\"addressCountry\":\"IN\"},\"sameAs\":[\"https://www.instagram.com/fun.n.gro\",\"https://x.com/funngroofficial\",\"https://www.linkedin.com/company/funngro/\",\"https://www.youtube.com/@funngro_India\"],\"description\":\"Funngro is India's earning app for young creators. 70 lakh Indians earn by working with India's biggest brands.\"}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.funngro.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Arcade\",\"item\":\"https://www.funngro.com/arcade\"}]}"
+  ],
+  "lang": "en-IN",
+  "bodyText": "🦈 As seen on Shark Tank India · Season 2 · Investment from Amit Jain · Funngro is now backed by SucSEED.\n\nREAD THE INSIDE STORY ▸\nEarn\nStories\nFor Brands\nArcade\nSheLancer\nAbout\nBlog\nEN\nHi-En\nहिं\nDownload\n→\nHOME\n·\nARCADE\n\n· THE FUNNGRO ARCADE ·\n\nTwenty apps. Four ways to use them.\n\nThe wider Funngro shelf. Some pay. Some teach. Some are just for passing five minutes between classes.\n\n· THE TWO MAIN APPS ·\n\nStart here. The rest are extras.\nF\nFunngro\nPRIMARY\n\nThe main earning app. Brand campaigns, instant UPI/bank payouts, the Income Ladder.\n\nPlay Store ▸\nS\nFunngro SheLancer\nPRIMARY\n\nWomen-only vertical. Verified, safe, women-only campaigns and Clans.\n\nPlay Store ▸\n01 · EARN\n02 · LEARN\n03 · PUZZLE & BRAIN\n04 · PLAY & CLASSICS\n\n· 01 · EARN ·\n\nApps that pay you.\n\n3 APPS\n\nB\nBug Bash\nEARN\n\nFind bugs in real apps. Get paid per valid report.\n\nPlay Store ▸\nQ\nSkill Quest\nEARN\n\nProve your skill in different subjects. Earn per completed challenge.\n\nPlay Store ▸\nL\nLearn & Earn\nEARN\n\nLearn a topic, pass the check, get paid.\n\nPlay now ▸\n\n· 02 · LEARN ·\n\nApps that teach.\n\n2 APPS\n\nF\nFinancial Literacy\nLEARN\n\nMoney basics for young Indians, bite-sized.\n\nPlay Store ▸\nM\nMaths Function\nLEARN\n\nDrills for add, subtract, multiply, divide. Timed.\n\nPlay Store ▸\n\n· 03 · PUZZLE & BRAIN ·\n\nFlex your mind.\n\n7 APPS\n\nS\nSudoku\nPUZZLE\n\nDaily logic grid. Streaks and leaderboards.\n\nPlay now ▸\nC\nCrossword\nPUZZLE\n\nIndia-themed crosswords, updated daily.\n\nPlay Store ▸\nW\nWord Cookie Fun\nPUZZLE\n\nBuild words from letter tiles.\n\nPlay Store ▸\nF\nFree Flow\nPUZZLE\n\nConnect coloured dots without crossing lines.\n\nPlay Store ▸\n2\n2048\nPUZZLE\n\nThe tile-merging classic, smoother.\n\nPlay Store ▸\n♛\nChess\nPUZZLE\n\nPlay against the app or friends.\n\nPlay Store ▸\nS\nSolitaire\nPUZZLE\n\nKlondike + Spider. Quiet classic.\n\nPlay Store ▸\n\n· 04 · PLAY & CLASSICS ·\n\nPass time.\n\n6 APPS\n\nW\nWater Splash\nPLAY\n\nQuick reflex arcade. Tap, dodge, score.\n\nPlay now ▸\nB\nBall Bounce\nPLAY\n\nSpeed keeps climbing. How long can you last?\n\nPlay Store ▸\nB\nBrick Breaker\nPLAY\n\nThe classic. Polished for 2026.\n\nPlay Store ▸\nT\nTetris\nPLAY\n\nYou know the rules. We made it smoother.\n\nPlay Store ▸\nT\nTic Tac Toe\nPLAY\n\nPlay with friends. Private rooms.\n\nPlay Store ▸\nL\nLudo\nPLAY\n\nFour-player classic. Voice rooms, tournaments.\n\nPlay Store ▸\n\n· ALL IN ONE PLACE ·\n\nWant all twenty? Download Funngro.\n\nThe main earning app is the shortcut to everything.\n\nDownload Funngro\n→\n\nIndia’s youth · India’s brands. Get paid in UPI or bank transfer for the work you actually want to do.\n\n© 2026 WISHBANC TECHNOLOGIES PRIVATE LIMITED · BRAND: FUNNGRO · MADE IN INDIA\n\nEARN\n\nHow it works\nStories\nArcade\nSheLancer\n\nBRANDS\n\nFor brands\nContact sales\n\nCOMPANY\n\nAbout\nCareers\nPress\nTrust & safety\nBlog\nFAQ\nContact\n\nLEGAL\n\nPrivacy policy\nTerms & conditions\n★ 4.2 PLAY STORE · 70 LAKH+ YOUNG INDIANS\n🦈 SHARK TANK INDIA S2 · BACKED BY SUCSEED INDOVATION",
+  "docH": 4362,
+  "hScroll": false,
+  "fonts": [
+   "\"Instrument Serif\", ui-serif, Georgia, serif",
+   "\"JetBrains Mono\", ui-monospace, monospace",
+   "\"Work Sans\", ui-sans-serif, system-ui, sans-serif"
+  ],
+  "navTiming": {
+   "dcl": 456.79999999998836,
+   "load": 456.8999999999942
+  }
+ },
+ "logs": [],
+ "failed": [],
+ "reqs": [
+  {
+   "u": "https://www.funngro.com/arcade",
+   "s": 200,
+   "t": "text/html; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/index-CpBGto_a.css",
+   "s": 200,
+   "t": "text/css; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/events.1851fa895e86309c.js",
+   "s": 200,
+   "t": "application/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/index-B9DQHu7M.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/PageShell-xmxrBUzN.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/PageHeader-BM6lUdXM.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/Arcade-CSQFUNjj.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/jetbrains-mono-latin-400-normal-V6pRDFza.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "21168"
+  },
+  {
+   "u": "https://www.funngro.com/assets/work-sans-latin-400-normal-jUejSri3.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "19900"
+  },
+  {
+   "u": "https://www.funngro.com/assets/work-sans-latin-700-normal-CEeo_t6l.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "20840"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/trackevents",
+   "s": 202,
+   "t": "application/json",
+   "l": "17"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/trackevents",
+   "s": 202,
+   "t": "application/json",
+   "l": "17"
+  },
+  {
+   "u": "https://www.funngro.com/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "21032"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  }
+ ]
+}

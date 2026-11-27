@@ -1,0 +1,327 @@
+{
+ "status": 200,
+ "data": {
+  "url": "https://www.funngro.com/careers",
+  "title": "Careers at Funngro — Most of Us Started as Users",
+  "desc": "Join Funngro. Engineering, design, brand, ops. Most of the team started as Funngro users. Open roles and how to apply.",
+  "canonical": "https://funngro.com/careers",
+  "robots": null,
+  "og": {
+   "title": "Careers at Funngro — Most of Us Started as Users",
+   "desc": "Join Funngro. Engineering, design, brand, ops. Most of the team started as Funngro users. Open roles and how to apply.",
+   "url": "https://funngro.com/careers",
+   "image": "https://funngro.com/og-image.jpg"
+  },
+  "h1": [
+   "Most of the team started as users."
+  ],
+  "h2": [
+   "Six roles open right now.",
+   "Write to us anyway."
+  ],
+  "h3": [
+   "Most of us started as users.",
+   "Remote-first across India.",
+   "Ship every week.",
+   "Open salary bands."
+  ],
+  "links": [
+   {
+    "t": "READ THE INSIDE STORY ▸",
+    "h": "https://www.funngro.com/careers#shark-tank"
+   },
+   {
+    "t": "",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "Earn",
+    "h": "https://www.funngro.com/earn"
+   },
+   {
+    "t": "Stories",
+    "h": "https://www.funngro.com/stories"
+   },
+   {
+    "t": "For Brands",
+    "h": "https://www.funngro.com/for-brands"
+   },
+   {
+    "t": "Arcade",
+    "h": "https://www.funngro.com/arcade"
+   },
+   {
+    "t": "SheLancer",
+    "h": "https://www.funngro.com/shelancer"
+   },
+   {
+    "t": "About",
+    "h": "https://www.funngro.com/about"
+   },
+   {
+    "t": "Blog",
+    "h": "https://www.funngro.com/blog"
+   },
+   {
+    "t": "Download →",
+    "h": "https://play.google.com/store/apps/details?id=com.wishbanc.funngro"
+   },
+   {
+    "t": "HOME",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "Apply ▸",
+    "h": "mailto:teenlancer@funngro.com?subject=Application%3A%20Senior%20Frontend%20Engineer"
+   },
+   {
+    "t": "Apply ▸",
+    "h": "mailto:teenlancer@funngro.com?subject=Application%3A%20Backend%20Engineer%20%C2%B7%20Payments"
+   },
+   {
+    "t": "Apply ▸",
+    "h": "mailto:teenlancer@funngro.com?subject=Application%3A%20Product%20Designer%20%C2%B7%20Earner%20App"
+   },
+   {
+    "t": "Apply ▸",
+    "h": "mailto:teenlancer@funngro.com?subject=Application%3A%20Brand%20Partnerships%20Manager"
+   },
+   {
+    "t": "Apply ▸",
+    "h": "mailto:teenlancer@funngro.com?subject=Application%3A%20Community%20Lead%20%C2%B7%20Clans"
+   },
+   {
+    "t": "Apply ▸",
+    "h": "mailto:teenlancer@funngro.com?subject=Application%3A%20Senior%20Editor%20%C2%B7%20Dispatches"
+   },
+   {
+    "t": "teenlancer@funngro.com",
+    "h": "mailto:teenlancer@funngro.com"
+   },
+   {
+    "t": "",
+    "h": "https://www.funngro.com/"
+   },
+   {
+    "t": "",
+    "h": "https://www.instagram.com/fun.n.gro"
+   },
+   {
+    "t": "",
+    "h": "https://www.linkedin.com/company/funngro/"
+   },
+   {
+    "t": "",
+    "h": "https://www.youtube.com/@funngro_India"
+   },
+   {
+    "t": "",
+    "h": "https://www.facebook.com/funngro/"
+   },
+   {
+    "t": "",
+    "h": "https://x.com/funngroofficial"
+   },
+   {
+    "t": "",
+    "h": "https://whatsapp.com/channel/0029VaC43g0DTkK1Q83jMy2N"
+   },
+   {
+    "t": "",
+    "h": "https://www.reddit.com/r/Funngro/s/84Daz5VWhI"
+   },
+   {
+    "t": "",
+    "h": "https://www.snapchat.com/add/funngrocrew?share_id=Idmk9-fyUzg&locale=en-GB"
+   },
+   {
+    "t": "",
+    "h": "https://funngro.quora.com/?ch=10&oid=7898718&share=396067ef&srid=5Rmfj9&target_type=tribe"
+   },
+   {
+    "t": "",
+    "h": "https://mojapp.in/@officialfunngro?referrer=VKFdCqq-c9rYZz"
+   },
+   {
+    "t": "How it works",
+    "h": "https://www.funngro.com/earn"
+   },
+   {
+    "t": "Stories",
+    "h": "https://www.funngro.com/stories"
+   },
+   {
+    "t": "Arcade",
+    "h": "https://www.funngro.com/arcade"
+   },
+   {
+    "t": "SheLancer",
+    "h": "https://www.funngro.com/shelancer"
+   },
+   {
+    "t": "For brands",
+    "h": "https://www.funngro.com/for-brands"
+   },
+   {
+    "t": "Contact sales",
+    "h": "https://www.funngro.com/contact?from=sales"
+   },
+   {
+    "t": "About",
+    "h": "https://www.funngro.com/about"
+   },
+   {
+    "t": "Careers",
+    "h": "https://www.funngro.com/careers"
+   },
+   {
+    "t": "Press",
+    "h": "https://www.funngro.com/press"
+   },
+   {
+    "t": "Trust & safety",
+    "h": "https://www.funngro.com/trust"
+   },
+   {
+    "t": "Blog",
+    "h": "https://www.funngro.com/blog"
+   },
+   {
+    "t": "FAQ",
+    "h": "https://www.funngro.com/faq"
+   },
+   {
+    "t": "Contact",
+    "h": "mailto:teenlancer@funngro.com"
+   },
+   {
+    "t": "Privacy policy",
+    "h": "https://www.funngro.com/privacy-policy"
+   },
+   {
+    "t": "Terms & conditions",
+    "h": "https://www.funngro.com/terms-and-conditions"
+   }
+  ],
+  "buttons": [
+   "EN",
+   "Hi-En",
+   "हिं"
+  ],
+  "imgs": [],
+  "jsonld": [
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Funngro\",\"legalName\":\"Funngro Innovations Pvt Ltd\",\"url\":\"https://funngro.com\",\"logo\":\"https://funngro.com/og-image.jpg\",\"email\":\"hello@funngro.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"2105 Wing F, Fantacy Land, CTS No 1, Opp Majas Depot, Jogeshwari E, J V Link Road\",\"addressLocality\":\"Mumbai\",\"addressRegion\":\"Maharashtra\",\"postalCode\":\"400060\",\"addressCountry\":\"IN\"},\"description\":\"Funngro is India's earning app for young creators. 70 lakh Indians earn by working with India's biggest brands.\"}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://funngro.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Careers\",\"item\":\"https://funngro.com/careers\"}]}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Funngro\",\"legalName\":\"Wishbanc Technologies Private Limited\",\"url\":\"https://www.funngro.com\",\"logo\":\"https://www.funngro.com/og-image.jpg\",\"email\":\"hello@funngro.com\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"2105 Wing F, Fantacy Land, CTS No 1, Opp Majas Depot, Jogeshwari E, J V Link Road\",\"addressLocality\":\"Mumbai\",\"addressRegion\":\"Maharashtra\",\"postalCode\":\"400060\",\"addressCountry\":\"IN\"},\"sameAs\":[\"https://www.instagram.com/fun.n.gro\",\"https://x.com/funngroofficial\",\"https://www.linkedin.com/company/funngro/\",\"https://www.youtube.com/@funngro_India\"],\"description\":\"Funngro is India's earning app for young creators. 70 lakh Indians earn by working with India's biggest brands.\"}",
+   "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.funngro.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Careers\",\"item\":\"https://www.funngro.com/careers\"}]}"
+  ],
+  "lang": "en-IN",
+  "bodyText": "🦈 As seen on Shark Tank India · Season 2 · Investment from Amit Jain · Funngro is now backed by SucSEED.\n\nREAD THE INSIDE STORY ▸\nEarn\nStories\nFor Brands\nArcade\nSheLancer\nAbout\nBlog\nEN\nHi-En\nहिं\nDownload\n→\nHOME\n·\nCAREERS\n\n· CAREERS AT FUNNGRO ·\n\nMost of the team started as users.\n\nFunngro is built by the people who use it. If you're a Teenlancer, that's a head-start. If you're not yet, download the app first — that's how everyone here started.\n\n· HOW WE WORK ·\n\n01\nMost of us started as users.\n\nWe grow the team from the platform first. Earner → Clan Lead → full-time team is a real path here.\n\n02\nRemote-first across India.\n\nMumbai is HQ. The team lives wherever the Teenlancers live.\n\n03\nShip every week.\n\nSmall teams, fast cycles. Engineers see their code in production within days.\n\n04\nOpen salary bands.\n\nWe publish bands at offer time. No negotiation games.\n\n· OPEN ROLES ·\n\nSix roles open right now.\n\nENGINEERING\n\nSenior Frontend Engineer\n\nRemote · India\nFULL-TIME\nApply ▸\n\nENGINEERING\n\nBackend Engineer · Payments\n\nMumbai / Remote\nFULL-TIME\nApply ▸\n\nDESIGN\n\nProduct Designer · Earner App\n\nRemote · India\nFULL-TIME\nApply ▸\n\nBRAND\n\nBrand Partnerships Manager\n\nMumbai / Bengaluru\nFULL-TIME\nApply ▸\n\nOPERATIONS\n\nCommunity Lead · Clans\n\nRemote · India\nFULL-TIME\nApply ▸\n\nEDITORIAL\n\nSenior Editor · Dispatches\n\nRemote · India\nCONTRACT\nApply ▸\n\n· DON’T SEE YOUR ROLE? ·\n\nWrite to us anyway.\n\nThe best people here pitched themselves before a role existed.\n\nteenlancer@funngro.com\n\nIndia’s youth · India’s brands. Get paid in UPI or bank transfer for the work you actually want to do.\n\n© 2026 WISHBANC TECHNOLOGIES PRIVATE LIMITED · BRAND: FUNNGRO · MADE IN INDIA\n\nEARN\n\nHow it works\nStories\nArcade\nSheLancer\n\nBRANDS\n\nFor brands\nContact sales\n\nCOMPANY\n\nAbout\nCareers\nPress\nTrust & safety\nBlog\nFAQ\nContact\n\nLEGAL\n\nPrivacy policy\nTerms & conditions\n★ 4.2 PLAY STORE · 70 LAKH+ YOUNG INDIANS\n🦈 SHARK TANK INDIA S2 · BACKED BY SUCSEED INDOVATION",
+  "docH": 2727,
+  "hScroll": false,
+  "fonts": [
+   "\"Instrument Serif\", ui-serif, Georgia, serif",
+   "\"JetBrains Mono\", ui-monospace, monospace",
+   "\"Work Sans\", ui-sans-serif, system-ui, sans-serif"
+  ],
+  "navTiming": {
+   "dcl": 543,
+   "load": 543.1999999999825
+  }
+ },
+ "logs": [],
+ "failed": [],
+ "reqs": [
+  {
+   "u": "https://www.funngro.com/careers",
+   "s": 200,
+   "t": "text/html; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/index-CpBGto_a.css",
+   "s": 200,
+   "t": "text/css; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/events.1851fa895e86309c.js",
+   "s": 200,
+   "t": "application/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/index-B9DQHu7M.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/PageShell-xmxrBUzN.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/PageHeader-BM6lUdXM.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/Careers-BK5gSVM3.js",
+   "s": 200,
+   "t": "text/javascript; charset=utf-8"
+  },
+  {
+   "u": "https://www.funngro.com/assets/jetbrains-mono-latin-400-normal-V6pRDFza.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "21168"
+  },
+  {
+   "u": "https://www.funngro.com/assets/work-sans-latin-700-normal-CEeo_t6l.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "20840"
+  },
+  {
+   "u": "https://www.funngro.com/assets/work-sans-latin-400-normal-jUejSri3.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "19900"
+  },
+  {
+   "u": "https://www.funngro.com/assets/instrument-serif-latin-400-normal-DnYpCC2O.woff2",
+   "s": 200,
+   "t": "font/woff2",
+   "l": "21032"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/trackevents",
+   "s": 202,
+   "t": "application/json",
+   "l": "17"
+  },
+  {
+   "u": "https://www.funngro.com/__l5e/trackevents",
+   "s": 202,
+   "t": "application/json",
+   "l": "17"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  },
+  {
+   "u": "https://cxpwitaepekrqomhghzw.supabase.co/rest/v1/events",
+   "s": 201,
+   "l": "0"
+  }
+ ]
+}
