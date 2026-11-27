@@ -9,7 +9,7 @@
   "seo": 69,
   "FCP": "0.9 s",
   "LCP": "0.9 s",
-  "TBT": "0 ms",
+  "TBT": "40 ms",
   "CLS": "0",
   "SI": "0.9 s",
   "bytes": "Total size was 245 KiB",
@@ -20,11 +20,10 @@
   ],
   "failing": [
    "errors-in-console",
-   "mainthread-work-breakdown",
-   "bootup-time",
    "inspector-issues",
    "is-crawlable",
    "cache-insight",
+   "forced-reflow-insight",
    "image-delivery-insight",
    "network-dependency-tree-insight",
    "render-blocking-insight"
@@ -70,12 +69,12 @@
   "seo": 69,
   "FCP": "0.9 s",
   "LCP": "0.9 s",
-  "TBT": "70 ms",
+  "TBT": "30 ms",
   "CLS": "0",
   "SI": "0.9 s",
   "bytes": "Total size was 215 KiB",
   "allPerf": [
-   99,
+   100,
    100,
    100
   ],
@@ -103,7 +102,7 @@
   "TBT": "0 ms",
   "CLS": "0",
   "SI": "0.3 s",
-  "bytes": "Total size was 199 KiB",
+  "bytes": "Total size was 200 KiB",
   "allPerf": [
    100,
    100,
@@ -114,7 +113,6 @@
    "inspector-issues",
    "is-crawlable",
    "cache-insight",
-   "forced-reflow-insight",
    "network-dependency-tree-insight",
    "render-blocking-insight"
   ]

@@ -1,0 +1,178 @@
+2026-11-27T04:54:29Z
+
+> funngro-website-revamp@1.0.0 test
+> node tests/run-all.mjs
+
+
+$ node tests/screens.cjs https://funngro-revamp-evaluation.netlify.app qa/screens 320 360 390 768 1024 1280 1440
+earn 320 h=11922 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+earn 360 h=11635 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+earn 390 h=11429 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+earn 768 h=11936 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+earn 1024 h=9957 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+earn 1280 h=10415 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+earn 1440 h=10369 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+about 320 h=12690 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+about 360 h=12235 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+about 390 h=12059 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+about 768 h=10606 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+about 1024 h=8438 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+about 1280 h=8539 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+about 1440 h=8444 overflowX=false offenders=[] errors=0 netlifyBadgeBlocked=2 
+
+$ node tests/a11y.cjs https://funngro-revamp-evaluation.netlify.app qa/a11y
+earn.mobile violations=0  | passes=48 | needs-review=color-contrast,frame-tested
+earn.mobile.menu-open violations=0  | passes=48 | needs-review=color-contrast,frame-tested
+earn.desktop violations=0  | passes=49 | needs-review=color-contrast,frame-tested
+about.mobile violations=0  | passes=46 | needs-review=color-contrast,frame-tested
+about.desktop violations=0  | passes=46 | needs-review=color-contrast,frame-tested
+404.mobile violations=0  | passes=43 | needs-review=color-contrast,frame-tested
+404.desktop violations=0  | passes=43 | needs-review=color-contrast,frame-tested
+TOTAL violations 0
+
+$ node tests/interactions.cjs https://funngro-revamp-evaluation.netlify.app
+PASS  mobile menu opens  
+PASS  menu toggle aria-expanded=true  
+PASS  focus moved into menu  
+PASS  Esc closes menu  
+PASS  focus returns to toggle  
+PASS  menu link navigates to /about  
+PASS  About marked aria-current in nav  
+PASS  story rail scrolls horizontally + focusable  {"sw":1714,"cw":390,"tab":0}
+PASS  desktop nav visible, burger hidden  
+PASS  first Tab focuses skip link  
+PASS  skip link targets #main  
+PASS  "Get the app" scrolls to download section  
+PASS  step 1 active + phone screen synced  {"step":0,"screen":0}
+PASS  step 2 active + phone screen synced  {"step":1,"screen":1}
+PASS  step 3 active + phone screen synced  {"step":2,"screen":2}
+PASS  step 4 active + phone screen synced  {"step":3,"screen":3}
+PASS  rail controls visible  
+PASS  prev disabled at start  
+PASS  next scrolls the rail  
+PASS  prev enabled after scrolling  
+PASS  FAQ item opens  
+PASS  FAQ exclusive accordion (name=faq): first closes  
+PASS  desktop nav → /about  
+PASS  About → "Start earning" → /earn  
+PASS  no-JS: /earn content fully visible  
+PASS  no-JS: /about content fully visible  
+26/26 passed
+
+$ node tests/rupee.cjs https://funngro-revamp-evaluation.netlify.app
+PASS /earn .tile__range .money "₹200–1,500" Bricolage Grotesque 96pt ExtraBold(10 glyphs, web=yes)
+PASS /earn .ladder__note .money "₹4,100" Figtree Light(6 glyphs, web=yes)
+PASS /earn .hero__tag .money "₹200–1,500" Bricolage Grotesque 96pt ExtraBold(10 glyphs, web=yes)
+PASS /about .deal .money "₹50 lakh" Figtree Light(8 glyphs, web=yes)
+
+$ node tests/keyboard.cjs https://funngro-revamp-evaluation.netlify.app
+NOTE  /earn desktop: 1 focus stop(s) on Netlify's injected badge iframe (platform, not site code)
+NOTE  /about desktop: 1 focus stop(s) on Netlify's injected badge iframe (platform, not site code)
+NOTE  /earn mobile: 1 focus stop(s) on Netlify's injected badge iframe (platform, not site code)
+NOTE  /about mobile: 1 focus stop(s) on Netlify's injected badge iframe (platform, not site code)
+PASS  /earn desktop: Tab reaches every focusable element (48/48)  
+PASS  /earn desktop: every focus stop shows a focus indicator  
+PASS  /earn desktop: focused element scrolled into view, not under sticky header  
+PASS  /about desktop: Tab reaches every focusable element (46/46)  
+PASS  /about desktop: every focus stop shows a focus indicator  
+PASS  /about desktop: focused element scrolled into view, not under sticky header  
+PASS  /earn mobile: Tab reaches every focusable element (44/44)  
+PASS  /earn mobile: every focus stop shows a focus indicator  
+PASS  /earn mobile: focused element scrolled into view, not under sticky header  
+PASS  /about mobile: Tab reaches every focusable element (42/42)  
+PASS  /about mobile: every focus stop shows a focus indicator  
+PASS  /about mobile: focused element scrolled into view, not under sticky header  
+PASS  mobile menu: keyboard opens it and focus stays inside while open  
+PASS  mobile menu: Esc closes and returns focus  
+PASS  interaction latency (lab INP approx.) < 200 ms  max 32 ms over 15 slow-ish events
+15/15 passed
+
+$ node tests/functional.cjs https://funngro-revamp-evaluation.netlify.app
+PASS  /earn: every link has an accessible name  
+PASS  /earn: every target=_blank link has rel noopener  
+PASS  /earn: no empty/# hrefs  
+PASS  /earn: store links point to the official listings  
+PASS  /about: every link has an accessible name  
+PASS  /about: every target=_blank link has rel noopener  
+PASS  /about: no empty/# hrefs  
+PASS  /about: store links point to the official listings  
+PASS  /404: every link has an accessible name  
+PASS  /404: every target=_blank link has rel noopener  
+PASS  /404: no empty/# hrefs  
+PASS  /404: store links point to the official listings  
+PASS  two founder LinkedIn links  
+PASS  founder LinkedIn links are distinct  https://www.linkedin.com/in/payal-jain-8780191/ | https://www.linkedin.com/in/anik-jain-7966404
+PASS  Payal → payal-jain-8780191  
+PASS  Anik → anik-jain-7966404  
+PASS  LinkedIn links: target=_blank + rel noopener noreferrer  
+PASS  LinkedIn links: accessible name = visible text + person + new tab  LinkedIn profile of Payal Jain (opens in a new tab) | LinkedIn profile of Anik Jain (opens in a new tab)
+PASS  click opens a new tab requesting …/in/payal-jain-8780191  https://www.linkedin.com/in/payal-jain-8780191/
+PASS  new tab has no window.opener (noopener)  
+PASS  click opens a new tab requesting …/in/anik-jain-7966404  https://www.linkedin.com/in/anik-jain-7966404
+PASS  new tab has no window.opener (noopener)  
+PASS  QR decodes to Google Play listing  https://play.google.com/store/apps/details?id=com.wishbanc.funngro
+PASS  QR image served on page  
+PASS  store listing reachable: play.google.com  200
+PASS  store listing reachable: apps.apple.com  200
+inventory: 150 links+buttons across 3 pages (qa/functional-inventory.json)
+26/26 passed
+
+$ node tests/delivery.mjs https://funngro-revamp-evaluation.netlify.app
+┌─────────┬────────┬──────────────────────────────────────┬────────┬─────────────────────────────────────────┬──────────┬─────────────────────────────────────┬───────┐
+│ (index) │ k      │ p                                    │ status │ type                                    │ encoding │ cache                               │ bytes │
+├─────────┼────────┼──────────────────────────────────────┼────────┼─────────────────────────────────────────┼──────────┼─────────────────────────────────────┼───────┤
+│ 0       │ 'html' │ '/earn'                              │ 200    │ 'text/html; charset=UTF-8'              │ 'br'     │ 'public,max-age=0,must-revalidate'  │ 49102 │
+│ 1       │ 'css'  │ '/assets/site.7cea392c50.css'        │ 200    │ 'text/css; charset=UTF-8'               │ 'br'     │ 'public,max-age=31536000,immutable' │ 37832 │
+│ 2       │ 'js'   │ '/assets/main.c2d9931397.js'         │ 200    │ 'application/javascript; charset=UTF-8' │ 'br'     │ 'public,max-age=31536000,immutable' │ 3646  │
+│ 3       │ 'svg'  │ '/logo.svg'                          │ 200    │ 'image/svg+xml'                         │ 'br'     │ 'public,max-age=0,must-revalidate'  │ 9510  │
+│ 4       │ 'font' │ '/assets/fonts/bricolage.woff2'      │ 200    │ 'font/woff2'                            │ '-'      │ 'public,max-age=31536000,immutable' │ 62108 │
+│ 5       │ 'avif' │ '/assets/img/screen-reward-540.avif' │ 200    │ 'image/avif'                            │ '-'      │ 'public,max-age=31536000,immutable' │ 14304 │
+│ 6       │ 'og'   │ '/assets/img/og-earn.jpg'            │ 200    │ 'image/jpeg'                            │ '-'      │ 'public,max-age=31536000,immutable' │ 98174 │
+└─────────┴────────┴──────────────────────────────────────┴────────┴─────────────────────────────────────────┴──────────┴─────────────────────────────────────┴───────┘
+PASS  html: 200  200
+PASS  html: compressed (br/gzip)  br
+PASS  html: revalidates (max-age=0)  public,max-age=0,must-revalidate
+PASS  css: 200  200
+PASS  css: compressed (br/gzip)  br
+PASS  css: long-lived immutable cache  public,max-age=31536000,immutable
+PASS  js: 200  200
+PASS  js: compressed (br/gzip)  br
+PASS  js: long-lived immutable cache  public,max-age=31536000,immutable
+PASS  svg: 200  200
+PASS  svg: compressed (br/gzip)  br
+PASS  font: 200  200
+PASS  font: long-lived immutable cache  public,max-age=31536000,immutable
+PASS  avif: 200  200
+PASS  avif: long-lived immutable cache  public,max-age=31536000,immutable
+PASS  og: 200  200
+PASS  og: long-lived immutable cache  public,max-age=31536000,immutable
+PASS  fonts preloaded (2)  
+PASS  all @font-face use font-display: swap  
+PASS  rupee subset loaded via unicode-range  
+PASS  /earn: og:image 200 image/jpeg 1200×630  https://funngro-revamp-evaluation.netlify.app/assets/img/og-earn.jpg 200 1200x630 98174B
+PASS  /earn: og:image is on the same (evaluation) host  
+PASS  /about: og:image 200 image/jpeg 1200×630  https://funngro-revamp-evaluation.netlify.app/assets/img/og-about.jpg 200 1200x630 95407B
+PASS  /about: og:image is on the same (evaluation) host  
+PASS  robots.txt disallows all (evaluation)  
+PASS  sitemap lists exactly /earn and /about on this host  
+PASS  X-Robots-Tag noindex on evaluation  noindex, nofollow
+27/27 passed
+
+$ node tests/seo-links.cjs https://funngro-revamp-evaluation.netlify.app --expect-noindex
+/earn title(46)="Earn Money Online as a Teen in India — Funngro" desc(148) robots=noindex, nofollow canonical=https://funngro-revamp-evaluation.netlify.app/earn jsonld=WebPage,WebSite,Organization,MobileApplication,BreadcrumbList,FAQPage h1=["Earn your first income online, from real brands."]
+/about title(45)="About Funngro — Our Mission, Founders & Story" desc(149) robots=noindex, nofollow canonical=https://funngro-revamp-evaluation.netlify.app/about jsonld=AboutPage,Organization,BreadcrumbList h1=["Built so young Indians can earn for real."]
+links checked: 31, not OK: 4
+   403 https://www.linkedin.com/company/funngro/
+   999 https://www.linkedin.com/in/payal-jain-8780191/
+   999 https://www.linkedin.com/in/anik-jain-7966404
+   403 https://ibsintelligence.com/ibsi-news/funngro-launches-money-management-program-for-teenagers/
+all metadata checks passed
+
+all steps passed
+npm-test-exit=0
+{"page":"earn","form":"mobile","runs":3,"performance":100,"accessibility":100,"bestPractices":92,"seo":69,"FCP":"0.9 s","LCP":"0.9 s","TBT":"40 ms","CLS":"0","SI":"0.9 s","bytes":"Total size was 245 KiB","allPerf":[99,100,100],"failing":["errors-in-console","inspector-issues","is-crawlable","cache-insight","forced-reflow-insight","image-delivery-insight","network-dependency-tree-insight","render-blocking-insight"]}
+{"page":"earn","form":"desktop","runs":3,"performance":100,"accessibility":100,"bestPractices":92,"seo":69,"FCP":"0.3 s","LCP":"0.3 s","TBT":"0 ms","CLS":"0","SI":"0.4 s","bytes":"Total size was 219 KiB","allPerf":[100,100,100],"failing":["errors-in-console","inspector-issues","is-crawlable","cache-insight","forced-reflow-insight","image-delivery-insight","network-dependency-tree-insight","render-blocking-insight"]}
+{"page":"about","form":"mobile","runs":3,"performance":100,"accessibility":100,"bestPractices":92,"seo":69,"FCP":"0.9 s","LCP":"0.9 s","TBT":"30 ms","CLS":"0","SI":"0.9 s","bytes":"Total size was 215 KiB","allPerf":[100,100,100],"failing":["errors-in-console","inspector-issues","is-crawlable","cache-insight","forced-reflow-insight","image-delivery-insight","network-dependency-tree-insight","render-blocking-insight"]}
+{"page":"about","form":"desktop","runs":3,"performance":100,"accessibility":100,"bestPractices":92,"seo":69,"FCP":"0.3 s","LCP":"0.3 s","TBT":"0 ms","CLS":"0","SI":"0.3 s","bytes":"Total size was 200 KiB","allPerf":[100,100,100],"failing":["errors-in-console","inspector-issues","is-crawlable","cache-insight","network-dependency-tree-insight","render-blocking-insight"]}
+lh-exit=0
+2026-11-27T05:00:13Z

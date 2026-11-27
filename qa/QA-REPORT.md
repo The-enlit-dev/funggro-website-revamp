@@ -1,6 +1,6 @@
 # QA report — redesigned `/earn` and `/about` (Phase 4 final)
 
-**Tested:** 2026-11-27 on the live evaluation deploy **https://funngro-revamp-evaluation.netlify.app** (latest Netlify deploy `6b09088afbdaa55f0565a9b4`), plus a local production build where noted. Every number below comes from a script in `tests/` (re-run with `BASE_URL=<url> npm test`); raw outputs are in this folder.
+**Tested:** 2026-11-27 on the live evaluation deploy **https://funngro-revamp-evaluation.netlify.app** (final deploy `6b090ca38c025a4dcdb877d0`; final full run 27 Nov 2026 04:54–05:00 UTC, log `final-run-2026-11-27.log`), plus a local production build where noted. Every number below comes from a script in `tests/` (re-run with `BASE_URL=<url> npm test`); raw outputs are in this folder.
 
 ## Summary
 | Area | Check | Tool | Result |
@@ -24,12 +24,15 @@
 ## Lighthouse (median of 3 runs)
 | Page | Form | Live evaluation (P / A / BP / SEO) | Local production build (P / A / BP / SEO) | LCP (live) | CLS | TBT (live) | Weight (live) |
 |---|---|---|---|---|---|---|---|
-| /earn | mobile | **100** / 100 / 92* / 69† | **100 / 100 / 100 / 100** | 0.9 s | 0 | 0 ms | 245 KiB |
+| /earn | mobile | **100** / 100 / 92* / 69† | **100 / 100 / 100 / 100** | 0.9 s | 0 | 40 ms | 245 KiB |
 | /earn | desktop | **100** / 100 / 92* / 69† | **100 / 100 / 100 / 100** | 0.3 s | 0 | 0 ms | 219 KiB |
-| /about | mobile | **100** / 100 / 92* / 69† | **100 / 100 / 100 / 100** | 0.9 s | 0 | 70 ms | 215 KiB |
-| /about | desktop | **100** / 100 / 92* / 69† | **100 / 100 / 100 / 100** | 0.3 s | 0 | 0 ms | 199 KiB |
+| /about | mobile | **100** / 100 / 92* / 69† | **100 / 100 / 100 / 100** | 0.9 s | 0 | 30 ms | 215 KiB |
+| /about | desktop | **100** / 100 / 92* / 69† | **100 / 100 / 100 / 100** | 0.3 s | 0 | 0 ms | 200 KiB |
 \* Netlify's edge-injected "Powered by Netlify" badge is blocked by our CSP → console errors. † intentional `noindex`.
 **Core Web Vitals:** lab LCP 0.8–0.9 s (mobile, throttled), CLS 0, TBT ≤ 70 ms; interaction latency (Event Timing, lab approximation of INP) max **32 ms**. No field (CrUX) data exists for a new evaluation URL.
+
+## Phase 7 fix
+Mobile proof pills hid the ★ next to "4.1" and showed the TV icon (inverted `:only-child` logic) — fixed with an explicit `.proof__icon` class; redeployed; full suite + Lighthouse re-run on the fixed deploy.
 
 ## Phase 4 changes and what they fixed
 | Item | Detail |
