@@ -1,0 +1,58 @@
+{
+ "status": 200,
+ "final": "https://www.famapp.in/",
+ "title": "FamApp: Lightning fast UPI payments with bank & wallet",
+ "h1": [],
+ "h2": [],
+ "fonts": [
+  [
+   "Metropolis",
+   25
+  ]
+ ],
+ "colors": [
+  [
+   "rgba(255, 255, 255, 0.37)",
+   9
+  ],
+  [
+   "rgb(0, 123, 255)",
+   8
+  ],
+  [
+   "rgb(255, 255, 255)",
+   3
+  ],
+  [
+   "rgba(206, 206, 206, 0.8)",
+   2
+  ],
+  [
+   "rgb(0, 0, 0)",
+   1
+  ],
+  [
+   "rgb(8, 8, 8)",
+   1
+  ]
+ ],
+ "bgs": [
+  [
+   "rgb(18, 18, 18)",
+   3
+  ],
+  [
+   "rgb(10, 10, 10)",
+   3
+  ],
+  [
+   "rgb(8, 8, 8)",
+   2
+  ],
+  [
+   "rgba(255, 255, 255, 0.1)",
+   1
+  ]
+ ],
+ "h1size": null
+}
