@@ -8,16 +8,16 @@
    "type": "text/html; charset=UTF-8",
    "encoding": "br",
    "cache": "public,max-age=0,must-revalidate",
-   "bytes": 49082
+   "bytes": 49102
   },
   {
    "k": "css",
-   "p": "/assets/site.61e0f031b5.css",
+   "p": "/assets/site.7cea392c50.css",
    "status": 200,
    "type": "text/css; charset=UTF-8",
    "encoding": "br",
    "cache": "public,max-age=31536000,immutable",
-   "bytes": 37840
+   "bytes": 37832
   },
   {
    "k": "js",
